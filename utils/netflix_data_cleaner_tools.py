@@ -4,13 +4,16 @@
 import re
 
 def remove_special_characters(string):
-  # Define the regular expression pattern for any character that is NOT a letter, digit, or space
-  pattern = r'[^a-zA-Z0-9 ]'
-
-  # Substitute all non-alphanumeric characters with an empty string
-  cleaned_string = re.sub(pattern, "", string)
-
-  return cleaned_string.lower()
+    # Define the regular expression pattern for numbers within square brackets
+    pattern = r'\[\d+\]'
+    
+    # Substitute all numbers within square brackets with an empty string
+    cleaned_string = re.sub(pattern, "", string)
+    
+    # Remove any remaining non-alphanumeric characters except spaces
+    cleaned_string = re.sub(r'[^a-zA-Z ]', '', cleaned_string)
+    
+    return cleaned_string.lower()
 
 
 

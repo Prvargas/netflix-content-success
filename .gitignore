@@ -1,4 +1,7 @@
 #Folders to Ignore
 unused_files
 .vs
+ai_agents
 
+#Files to Ignore
+.env

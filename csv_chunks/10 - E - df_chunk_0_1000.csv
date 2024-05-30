@@ -1,0 +1,1001 @@
+Clean_Title,Title_Counts,Clean_Title_Prompt,is_original,Clean_Title_Char_Len,Content_Type_Prompt,content_type
+naruto shippuden,21,Is title 'naruto shippuden' original Netflix content?,Answer No,16,"Is Netflix title 'naruto shippuden' a Series, Movie, or Documentary?",Answer Series
+greys anatomy,19,Is title 'greys anatomy' original Netflix content?,Answer No,13,"Is Netflix title 'greys anatomy' a Series, Movie, or Documentary?",Answer Series
+gogglebox,16,Is title 'gogglebox' original Netflix content?,Answer No,9,"Is Netflix title 'gogglebox' a Series, Movie, or Documentary?",Answer Series
+heartland 2007,16,Is title 'heartland 2007' original Netflix content?,Answer No,14,"Is Netflix title 'heartland 2007' a Series, Movie, or Documentary?",Answer Series
+its always sunny in philadelphia,15,Is title 'its always sunny in philadelphia' original Netflix content?,Answer No,32,"Is Netflix title 'its always sunny in philadelphia' a Series, Movie, or Documentary?",Answer Series
+supernatural 2005,15,Is title 'supernatural 2005' original Netflix content?,Answer No,17,"Is Netflix title 'supernatural 2005' a Series, Movie, or Documentary?",Answer Series
+murdoch mysteries,15,Is title 'murdoch mysteries' original Netflix content?,Answer No,17,"Is Netflix title 'murdoch mysteries' a Series, Movie, or Documentary?",Answer Series
+ncis,15,Is title 'ncis' original Netflix content?,Answer No,4,"Is Netflix title 'ncis' a Series, Movie, or Documentary?",Answer Series
+archer 2009,13,Is title 'archer 2009' original Netflix content?,Answer No,11,"Is Netflix title 'archer 2009' a Series, Movie, or Documentary?",Answer Series
+two and a half men,12,Is title 'two and a half men' original Netflix content?,Answer No,18,"Is Netflix title 'two and a half men' a Series, Movie, or Documentary?",Answer Series
+the big bang theory,12,Is title 'the big bang theory' original Netflix content?,Answer No,19,"Is Netflix title 'the big bang theory' a Series, Movie, or Documentary?",Answer Series
+trailer park boys,12,Is title 'trailer park boys' original Netflix content?,Answer No,17,"Is Netflix title 'trailer park boys' a Series, Movie, or Documentary?",Answer Series
+upinipin,11,Is title 'upinipin' original Netflix content?,Answer No,8,"Is Netflix title 'upinipin' a Series, Movie, or Documentary?",Answer Series
+shameless us,11,Is title 'shameless us' original Netflix content?,Answer No,12,"Is Netflix title 'shameless us' a Series, Movie, or Documentary?",Answer Series
+the walking dead,11,Is title 'the walking dead' original Netflix content?,Answer No,16,"Is Netflix title 'the walking dead' a Series, Movie, or Documentary?",Answer Series
+friends 1994,10,Is title 'friends 1994' original Netflix content?,Answer No,12,"Is Netflix title 'friends 1994' a Series, Movie, or Documentary?",Answer Series
+ranczo,10,Is title 'ranczo' original Netflix content?,Answer No,6,"Is Netflix title 'ranczo' a Series, Movie, or Documentary?",Answer Series
+the blacklist,10,Is title 'the blacklist' original Netflix content?,Answer No,13,"Is Netflix title 'the blacklist' a Series, Movie, or Documentary?",Answer Series
+hubert und staller,10,Is title 'hubert und staller' original Netflix content?,Answer No,18,"Is Netflix title 'hubert und staller' a Series, Movie, or Documentary?",Answer Series
+solitary gourmet,10,Is title 'solitary gourmet' original Netflix content?,Answer No,16,"Is Netflix title 'solitary gourmet' a Series, Movie, or Documentary?",Answer Series
+fairy tail,10,Is title 'fairy tail' original Netflix content?,Answer No,10,"Is Netflix title 'fairy tail' a Series, Movie, or Documentary?",Answer Series
+benidorm 2007,9,Is title 'benidorm 2007' original Netflix content?,Answer No,13,"Is Netflix title 'benidorm 2007' a Series, Movie, or Documentary?",Answer Series
+still game,9,Is title 'still game' original Netflix content?,Answer No,10,"Is Netflix title 'still game' a Series, Movie, or Documentary?",Answer Series
+the office us,9,Is title 'the office us' original Netflix content?,Answer No,13,"Is Netflix title 'the office us' a Series, Movie, or Documentary?",Answer Series
+the flash 2014,9,Is title 'the flash 2014' original Netflix content?,Answer No,14,"Is Netflix title 'the flash 2014' a Series, Movie, or Documentary?",Answer Series
+suits 2011,9,Is title 'suits 2011' original Netflix content?,Answer No,10,"Is Netflix title 'suits 2011' a Series, Movie, or Documentary?",Answer Series
+naruto,9,Is title 'naruto' original Netflix content?,Answer No,6,"Is Netflix title 'naruto' a Series, Movie, or Documentary?",Answer Series
+conni,9,Is title 'conni' original Netflix content?,Answer No,5,"Is Netflix title 'conni' a Series, Movie, or Documentary?",Answer Series
+seinfeld,9,Is title 'seinfeld' original Netflix content?,Answer No,8,"Is Netflix title 'seinfeld' a Series, Movie, or Documentary?",Answer Series
+spirit riding free,8,Is title 'spirit riding free' original Netflix content?,Answer Yes,18,"Is Netflix title 'spirit riding free' a Series, Movie, or Documentary?",Answer Series
+gin tama,8,Is title 'gin tama' original Netflix content?,Answer No,8,"Is Netflix title 'gin tama' a Series, Movie, or Documentary?",Answer Series
+girlfriends 2000,8,Is title 'girlfriends 2000' original Netflix content?,Answer No,16,"Is Netflix title 'girlfriends 2000' a Series, Movie, or Documentary?",Answer Series
+paw patrol,8,Is title 'paw patrol' original Netflix content?,Answer No,10,"Is Netflix title 'paw patrol' a Series, Movie, or Documentary?",Answer Series
+brooklyn ninenine,8,Is title 'brooklyn ninenine' original Netflix content?,Answer No,17,"Is Netflix title 'brooklyn ninenine' a Series, Movie, or Documentary?",Answer Series
+slam dunk,8,Is title 'slam dunk' original Netflix content?,Answer No,9,"Is Netflix title 'slam dunk' a Series, Movie, or Documentary?",Answer Series
+mom 2013,8,Is title 'mom 2013' original Netflix content?,Answer No,8,"Is Netflix title 'mom 2013' a Series, Movie, or Documentary?",Answer Series
+the vampire diaries,8,Is title 'the vampire diaries' original Netflix content?,Answer No,19,"Is Netflix title 'the vampire diaries' a Series, Movie, or Documentary?",Answer Series
+voltron legendary defender,8,Is title 'voltron legendary defender' original Netflix content?,Answer Yes,26,"Is Netflix title 'voltron legendary defender' a Series, Movie, or Documentary?",Answer Series
+full house 1987,8,Is title 'full house 1987' original Netflix content?,Answer No,15,"Is Netflix title 'full house 1987' a Series, Movie, or Documentary?",Answer Series
+cocomelon,8,Is title 'cocomelon' original Netflix content?,Answer No,9,"Is Netflix title 'cocomelon' a Series, Movie, or Documentary?",Answer Series
+chhota bheem,8,Is title 'chhota bheem' original Netflix content?,Answer No,12,"Is Netflix title 'chhota bheem' a Series, Movie, or Documentary?",Answer Series
+wentworth,8,Is title 'wentworth' original Netflix content?,Answer No,9,"Is Netflix title 'wentworth' a Series, Movie, or Documentary?",Answer Series
+trolls the beat goes on,8,Is title 'trolls the beat goes on' original Netflix content?,Answer No,23,"Is Netflix title 'trolls the beat goes on' a Series, Movie, or Documentary?",Answer Series
+arrow,8,Is title 'arrow' original Netflix content?,Answer No,5,"Is Netflix title 'arrow' a Series, Movie, or Documentary?",Answer Series
+homeland,8,Is title 'homeland' original Netflix content?,Answer No,8,"Is Netflix title 'homeland' a Series, Movie, or Documentary?",Answer Series
+one piece whole cake island,8,Is title 'one piece whole cake island' original Netflix content?,Answer No,27,"Is Netflix title 'one piece whole cake island' a Series, Movie, or Documentary?",Answer Series
+gilmore girls,7,Is title 'gilmore girls' original Netflix content?,Answer No,13,"Is Netflix title 'gilmore girls' a Series, Movie, or Documentary?",Answer Series
+grace and frankie,7,Is title 'grace and frankie' original Netflix content?,Answer Yes,17,"Is Netflix title 'grace and frankie' a Series, Movie, or Documentary?",Answer Series
+heartbreak high 1994,7,Is title 'heartbreak high 1994' original Netflix content?,Answer No,20,"Is Netflix title 'heartbreak high 1994' a Series, Movie, or Documentary?",Answer Series
+star trek the next generation,7,Is title 'star trek the next generation' original Netflix content?,Answer No,29,"Is Netflix title 'star trek the next generation' a Series, Movie, or Documentary?",Answer Series
+star trek deep space nine,7,Is title 'star trek deep space nine' original Netflix content?,Answer No,25,"Is Netflix title 'star trek deep space nine' a Series, Movie, or Documentary?",Answer Series
+gabbys dollhouse,7,Is title 'gabbys dollhouse' original Netflix content?,Answer Yes,16,"Is Netflix title 'gabbys dollhouse' a Series, Movie, or Documentary?",Answer Series
+outlander,7,Is title 'outlander' original Netflix content?,Answer No,9,"Is Netflix title 'outlander' a Series, Movie, or Documentary?",Answer Series
+star trek voyager,7,Is title 'star trek voyager' original Netflix content?,Answer No,17,"Is Netflix title 'star trek voyager' a Series, Movie, or Documentary?",Answer Series
+the 100,7,Is title 'the 100' original Netflix content?,Answer No,7,"Is Netflix title 'the 100' a Series, Movie, or Documentary?",Answer Series
+workin moms,7,Is title 'workin moms' original Netflix content?,Answer No,11,"Is Netflix title 'workin moms' a Series, Movie, or Documentary?",Answer Series
+new girl,7,Is title 'new girl' original Netflix content?,Answer No,8,"Is Netflix title 'new girl' a Series, Movie, or Documentary?",Answer Series
+riverdale,7,Is title 'riverdale' original Netflix content?,Answer No,9,"Is Netflix title 'riverdale' a Series, Movie, or Documentary?",Answer Series
+the boarding school,7,Is title 'the boarding school' original Netflix content?,Answer No,19,"Is Netflix title 'the boarding school' a Series, Movie, or Documentary?",Answer Series
+mighty express,7,Is title 'mighty express' original Netflix content?,Answer Yes,14,"Is Netflix title 'mighty express' a Series, Movie, or Documentary?",Answer Series
+good witch,7,Is title 'good witch' original Netflix content?,Answer No,10,"Is Netflix title 'good witch' a Series, Movie, or Documentary?",Answer Series
+fsica o qumica,7,Is title 'fsica o qumica' original Netflix content?,Answer No,14,"Is Netflix title 'fsica o qumica' a Series, Movie, or Documentary?",Answer Series
+the mentalist,7,Is title 'the mentalist' original Netflix content?,Answer No,13,"Is Netflix title 'the mentalist' a Series, Movie, or Documentary?",Answer Series
+dcs legends of tomorrow,7,Is title 'dcs legends of tomorrow' original Netflix content?,Answer No,23,"Is Netflix title 'dcs legends of tomorrow' a Series, Movie, or Documentary?",Answer Series
+yugioh,7,Is title 'yugioh' original Netflix content?,Answer No,6,"Is Netflix title 'yugioh' a Series, Movie, or Documentary?",Answer Series
+pretty little liars 2010,7,Is title 'pretty little liars 2010' original Netflix content?,Answer No,24,"Is Netflix title 'pretty little liars 2010' a Series, Movie, or Documentary?",Answer Series
+queer eye,7,Is title 'queer eye' original Netflix content?,Answer Yes,9,"Is Netflix title 'queer eye' a Series, Movie, or Documentary?",Answer Series
+orange is the new black,7,Is title 'orange is the new black' original Netflix content?,Answer Yes,23,"Is Netflix title 'orange is the new black' a Series, Movie, or Documentary?",Answer Series
+ray donovan,7,Is title 'ray donovan' original Netflix content?,Answer No,11,"Is Netflix title 'ray donovan' a Series, Movie, or Documentary?",Answer Series
+keeping up with the kardashians,6,Is title 'keeping up with the kardashians' original Netflix content?,Answer No,31,"Is Netflix title 'keeping up with the kardashians' a Series, Movie, or Documentary?",Answer Series
+power 2014,6,Is title 'power 2014' original Netflix content?,Answer No,10,"Is Netflix title 'power 2014' a Series, Movie, or Documentary?",Answer Series
+moesha,6,Is title 'moesha' original Netflix content?,Answer No,6,"Is Netflix title 'moesha' a Series, Movie, or Documentary?",Answer Series
+polly pocket,6,Is title 'polly pocket' original Netflix content?,Answer No,12,"Is Netflix title 'polly pocket' a Series, Movie, or Documentary?",Answer Series
+this is us,6,Is title 'this is us' original Netflix content?,Answer No,10,"Is Netflix title 'this is us' a Series, Movie, or Documentary?",Answer Series
+johnny test 2005,6,Is title 'johnny test 2005' original Netflix content?,Answer No,16,"Is Netflix title 'johnny test 2005' a Series, Movie, or Documentary?",Answer Series
+black mirror,6,Is title 'black mirror' original Netflix content?,Answer Yes,12,"Is Netflix title 'black mirror' a Series, Movie, or Documentary?",Answer Series
+my hero academia,6,Is title 'my hero academia' original Netflix content?,Answer No,16,"Is Netflix title 'my hero academia' a Series, Movie, or Documentary?",Answer Series
+fireman sam,6,Is title 'fireman sam' original Netflix content?,Answer No,11,"Is Netflix title 'fireman sam' a Series, Movie, or Documentary?",Answer Series
+inside the worlds toughest prisons,6,Is title 'inside the worlds toughest prisons' original Netflix content?,Answer Yes,34,"Is Netflix title 'inside the worlds toughest prisons' a Series, Movie, or Documentary?",Answer Series
+better call saul,6,Is title 'better call saul' original Netflix content?,Answer No,16,"Is Netflix title 'better call saul' a Series, Movie, or Documentary?",Answer Series
+rupauls drag race,6,Is title 'rupauls drag race' original Netflix content?,Answer No,17,"Is Netflix title 'rupauls drag race' a Series, Movie, or Documentary?",Answer Series
+community,6,Is title 'community' original Netflix content?,Answer No,9,"Is Netflix title 'community' a Series, Movie, or Documentary?",Answer Series
+lego ninjago,6,Is title 'lego ninjago' original Netflix content?,Answer No,12,"Is Netflix title 'lego ninjago' a Series, Movie, or Documentary?",Answer Series
+dragons race to the edge,6,Is title 'dragons race to the edge' original Netflix content?,Answer No,24,"Is Netflix title 'dragons race to the edge' a Series, Movie, or Documentary?",Answer Series
+my little pony friendship is magic,6,Is title 'my little pony friendship is magic' original Netflix content?,Answer No,34,"Is Netflix title 'my little pony friendship is magic' a Series, Movie, or Documentary?",Answer Series
+somebody feed phil,6,Is title 'somebody feed phil' original Netflix content?,Answer Yes,18,"Is Netflix title 'somebody feed phil' a Series, Movie, or Documentary?",Answer Series
+supergirl,6,Is title 'supergirl' original Netflix content?,Answer No,9,"Is Netflix title 'supergirl' a Series, Movie, or Documentary?",Answer Series
+numberblocks,6,Is title 'numberblocks' original Netflix content?,Answer No,12,"Is Netflix title 'numberblocks' a Series, Movie, or Documentary?",Answer Series
+the fresh prince of belair,6,Is title 'the fresh prince of belair' original Netflix content?,Answer No,26,"Is Netflix title 'the fresh prince of belair' a Series, Movie, or Documentary?",Answer Series
+big mouth,6,Is title 'big mouth' original Netflix content?,Answer Yes,9,"Is Netflix title 'big mouth' a Series, Movie, or Documentary?",Answer Series
+the adventures of puss in boots,6,Is title 'the adventures of puss in boots' original Netflix content?,Answer Yes,31,"Is Netflix title 'the adventures of puss in boots' a Series, Movie, or Documentary?",Answer Series
+thomas and friends,6,Is title 'thomas and friends' original Netflix content?,Answer No,18,"Is Netflix title 'thomas and friends' a Series, Movie, or Documentary?",Answer Series
+go go cory carson,6,Is title 'go go cory carson' original Netflix content?,Answer Yes,17,"Is Netflix title 'go go cory carson' a Series, Movie, or Documentary?",Answer Series
+inuyasha,6,Is title 'inuyasha' original Netflix content?,Answer No,8,"Is Netflix title 'inuyasha' a Series, Movie, or Documentary?",Answer Series
+bunkd,6,Is title 'bunkd' original Netflix content?,Answer No,5,"Is Netflix title 'bunkd' a Series, Movie, or Documentary?",Answer Series
+al kabeer,6,Is title 'al kabeer' original Netflix content?,Answer No,9,"Is Netflix title 'al kabeer' a Series, Movie, or Documentary?",Answer: It is a Series.
+bojack horseman,6,Is title 'bojack horseman' original Netflix content?,Answer Yes,15,"Is Netflix title 'bojack horseman' a Series, Movie, or Documentary?",Answer Series
+rick and morty,6,Is title 'rick and morty' original Netflix content?,Answer No,14,"Is Netflix title 'rick and morty' a Series, Movie, or Documentary?",Answer Series
+der tatortreiniger,6,Is title 'der tatortreiniger' original Netflix content?,Answer No,18,"Is Netflix title 'der tatortreiniger' a Series, Movie, or Documentary?",Answer Series
+when calls the heart,6,Is title 'when calls the heart' original Netflix content?,Answer No,20,"Is Netflix title 'when calls the heart' a Series, Movie, or Documentary?",Answer Series
+chesapeake shores,6,Is title 'chesapeake shores' original Netflix content?,Answer No,17,"Is Netflix title 'chesapeake shores' a Series, Movie, or Documentary?",Answer Series
+how to get away with murder,6,Is title 'how to get away with murder' original Netflix content?,Answer No,27,"Is Netflix title 'how to get away with murder' a Series, Movie, or Documentary?",Answer Series
+the powerpuff girls 1998,6,Is title 'the powerpuff girls 1998' original Netflix content?,Answer No,24,"Is Netflix title 'the powerpuff girls 1998' a Series, Movie, or Documentary?",Answer Series
+peppa pig,6,Is title 'peppa pig' original Netflix content?,Answer No,9,"Is Netflix title 'peppa pig' a Series, Movie, or Documentary?",Answer Series
+hunter x hunter 2011,6,Is title 'hunter x hunter 2011' original Netflix content?,Answer No,20,"Is Netflix title 'hunter x hunter 2011' a Series, Movie, or Documentary?",Answer Series
+nailed it,6,Is title 'nailed it' original Netflix content?,Answer Yes,9,"Is Netflix title 'nailed it' a Series, Movie, or Documentary?",Answer Series
+the mindy project,6,Is title 'the mindy project' original Netflix content?,Answer No,17,"Is Netflix title 'the mindy project' a Series, Movie, or Documentary?",Answer Series
+west coast customs,6,Is title 'west coast customs' original Netflix content?,Answer No,18,"Is Netflix title 'west coast customs' a Series, Movie, or Documentary?",Answer Series
+the originals,6,Is title 'the originals' original Netflix content?,Answer No,13,"Is Netflix title 'the originals' a Series, Movie, or Documentary?",Answer Series
+selling sunset,6,Is title 'selling sunset' original Netflix content?,Answer Yes,14,"Is Netflix title 'selling sunset' a Series, Movie, or Documentary?",Answer Series
+fist of the north star,6,Is title 'fist of the north star' original Netflix content?,Answer No,22,"Is Netflix title 'fist of the north star' a Series, Movie, or Documentary?",Answer Series
+peaky blinders,6,Is title 'peaky blinders' original Netflix content?,Answer No,14,"Is Netflix title 'peaky blinders' a Series, Movie, or Documentary?",Answer Series
+curious george,6,Is title 'curious george' original Netflix content?,Answer No,14,"Is Netflix title 'curious george' a Series, Movie, or Documentary?",Answer Series
+the circle,6,Is title 'the circle' original Netflix content?,Answer: Yes,10,"Is Netflix title 'the circle' a Series, Movie, or Documentary?",Answer Series
+superstore,6,Is title 'superstore' original Netflix content?,Answer No,10,"Is Netflix title 'superstore' a Series, Movie, or Documentary?",Answer Series
+animal kingdom,6,Is title 'animal kingdom' original Netflix content?,Answer No,14,"Is Netflix title 'animal kingdom' a Series, Movie, or Documentary?",Answer Series
+vikings 2013,6,Is title 'vikings 2013' original Netflix content?,Answer No,12,"Is Netflix title 'vikings 2013' a Series, Movie, or Documentary?",Answer Series
+house of cards,6,Is title 'house of cards' original Netflix content?,Answer Yes,14,"Is Netflix title 'house of cards' a Series, Movie, or Documentary?",Answer Series
+taskmaster,6,Is title 'taskmaster' original Netflix content?,Answer No,10,"Is Netflix title 'taskmaster' a Series, Movie, or Documentary?",Answer Series
+lucifer,6,Is title 'lucifer' original Netflix content?,Answer No,7,"Is Netflix title 'lucifer' a Series, Movie, or Documentary?",Answer Series
+once upon a time,6,Is title 'once upon a time' original Netflix content?,Answer No,16,"Is Netflix title 'once upon a time' a Series, Movie, or Documentary?",Answer Series
+24 hours in ae,6,Is title '24 hours in ae' original Netflix content?,Answer No,14,"Is Netflix title '24 hours in ae' a Series, Movie, or Documentary?",Answer Series
+fast  furious spy racers,6,Is title 'fast  furious spy racers' original Netflix content?,Answer Yes,24,"Is Netflix title 'fast  furious spy racers' a Series, Movie, or Documentary?",Answer Series
+teen wolf 2011,6,Is title 'teen wolf 2011' original Netflix content?,Answer No,14,"Is Netflix title 'teen wolf 2011' a Series, Movie, or Documentary?",Answer Series
+sister sister,6,Is title 'sister sister' original Netflix content?,Answer No,13,"Is Netflix title 'sister sister' a Series, Movie, or Documentary?",Answer Series
+desmonds,6,Is title 'desmonds' original Netflix content?,Answer: No,8,"Is Netflix title 'desmonds' a Series, Movie, or Documentary?",Answer Series
+madam secretary,6,Is title 'madam secretary' original Netflix content?,Answer No,15,"Is Netflix title 'madam secretary' a Series, Movie, or Documentary?",Answer Series
+un paso adelante,6,Is title 'un paso adelante' original Netflix content?,Answer No,16,"Is Netflix title 'un paso adelante' a Series, Movie, or Documentary?",Answer Series
+schitts creek,6,Is title 'schitts creek' original Netflix content?,Answer No,13,"Is Netflix title 'schitts creek' a Series, Movie, or Documentary?",Answer Series
+elite,6,Is title 'elite' original Netflix content?,Answer Yes,5,"Is Netflix title 'elite' a Series, Movie, or Documentary?",Answer Series
+longmire,6,Is title 'longmire' original Netflix content?,Answer No,8,"Is Netflix title 'longmire' a Series, Movie, or Documentary?",Answer Series
+gossip girl 2007,6,Is title 'gossip girl 2007' original Netflix content?,Answer No,16,"Is Netflix title 'gossip girl 2007' a Series, Movie, or Documentary?",Answer Series
+the parkers,5,Is title 'the parkers' original Netflix content?,Answer No,11,"Is Netflix title 'the parkers' a Series, Movie, or Documentary?",Answer Series
+the ultimate braai master,5,Is title 'the ultimate braai master' original Netflix content?,Answer No,25,"Is Netflix title 'the ultimate braai master' a Series, Movie, or Documentary?",Answer Series
+van helsing,5,Is title 'van helsing' original Netflix content?,Answer No,11,"Is Netflix title 'van helsing' a Series, Movie, or Documentary?",Answer Series
+teen titans go,5,Is title 'teen titans go' original Netflix content?,Answer No,14,"Is Netflix title 'teen titans go' a Series, Movie, or Documentary?",Answer Series
+dinotrux,5,Is title 'dinotrux' original Netflix content?,Answer No,8,"Is Netflix title 'dinotrux' a Series, Movie, or Documentary?",Answer Series
+rookie blue,5,Is title 'rookie blue' original Netflix content?,Answer No,11,"Is Netflix title 'rookie blue' a Series, Movie, or Documentary?",Answer Series
+top gear 2003,5,Is title 'top gear 2003' original Netflix content?,Answer No,13,"Is Netflix title 'top gear 2003' a Series, Movie, or Documentary?",Answer Series
+el marginal,5,Is title 'el marginal' original Netflix content?,Answer No,11,"Is Netflix title 'el marginal' a Series, Movie, or Documentary?",Answer Series
+booba,5,Is title 'booba' original Netflix content?,Answer No,5,"Is Netflix title 'booba' a Series, Movie, or Documentary?",Answer Series
+billions,5,Is title 'billions' original Netflix content?,Answer No,8,"Is Netflix title 'billions' a Series, Movie, or Documentary?",Answer Series
+jane the virgin,5,Is title 'jane the virgin' original Netflix content?,Answer No,15,"Is Netflix title 'jane the virgin' a Series, Movie, or Documentary?",Answer Series
+rake 2010,5,Is title 'rake 2010' original Netflix content?,Answer No,9,"Is Netflix title 'rake 2010' a Series, Movie, or Documentary?",Answer Series
+the last kingdom,5,Is title 'the last kingdom' original Netflix content?,Answer No,16,"Is Netflix title 'the last kingdom' a Series, Movie, or Documentary?",Answer Series
+un gars une fille 1999,5,Is title 'un gars une fille 1999' original Netflix content?,Answer No,22,"Is Netflix title 'un gars une fille 1999' a Series, Movie, or Documentary?",Answer Series
+the batman,5,Is title 'the batman' original Netflix content?,Answer No,10,"Is Netflix title 'the batman' a Series, Movie, or Documentary?",Answer Movie
+gotham,5,Is title 'gotham' original Netflix content?,Answer No,6,"Is Netflix title 'gotham' a Series, Movie, or Documentary?",Answer Series
+formula 1 drive to survive,5,Is title 'formula 1 drive to survive' original Netflix content?,Answer Yes,26,"Is Netflix title 'formula 1 drive to survive' a Series, Movie, or Documentary?",Answer Series
+izombie,5,Is title 'izombie' original Netflix content?,Answer No,7,"Is Netflix title 'izombie' a Series, Movie, or Documentary?",Answer Series
+travel man 48 hours in,5,Is title 'travel man 48 hours in' original Netflix content?,Answer No,22,"Is Netflix title 'travel man 48 hours in' a Series, Movie, or Documentary?",Answer Series
+masha and the bear,5,Is title 'masha and the bear' original Netflix content?,Answer No,18,"Is Netflix title 'masha and the bear' a Series, Movie, or Documentary?",Answer Series
+one on one,5,Is title 'one on one' original Netflix content?,Answer No,10,"Is Netflix title 'one on one' a Series, Movie, or Documentary?",Answer Series
+shera and the princesses of power,5,Is title 'shera and the princesses of power' original Netflix content?,Answer Yes,33,"Is Netflix title 'shera and the princesses of power' a Series, Movie, or Documentary?",Answer Series
+word party,5,Is title 'word party' original Netflix content?,Answer Yes,10,"Is Netflix title 'word party' a Series, Movie, or Documentary?",Answer Series
+detective conan,5,Is title 'detective conan' original Netflix content?,Answer No,15,"Is Netflix title 'detective conan' a Series, Movie, or Documentary?",Answer Series
+you me her,5,Is title 'you me her' original Netflix content?,Answer No,10,"Is Netflix title 'you me her' a Series, Movie, or Documentary?",Answer Series
+skam italia,5,Is title 'skam italia' original Netflix content?,Answer No,11,"Is Netflix title 'skam italia' a Series, Movie, or Documentary?",Answer Series
+casados con hijos 2005,5,Is title 'casados con hijos 2005' original Netflix content?,Answer No,22,"Is Netflix title 'casados con hijos 2005' a Series, Movie, or Documentary?",Answer Series
+cuckoo,5,Is title 'cuckoo' original Netflix content?,Answer Yes,6,"Is Netflix title 'cuckoo' a Series, Movie, or Documentary?",Answer Series
+queen of the south,5,Is title 'queen of the south' original Netflix content?,Answer No,18,"Is Netflix title 'queen of the south' a Series, Movie, or Documentary?",Answer Series
+the good doctor,5,Is title 'the good doctor' original Netflix content?,Answer No,15,"Is Netflix title 'the good doctor' a Series, Movie, or Documentary?",Answer Series
+all hail king julien,5,Is title 'all hail king julien' original Netflix content?,Answer Yes,20,"Is Netflix title 'all hail king julien' a Series, Movie, or Documentary?",Answer Series
+jack whitehall travels with my father,5,Is title 'jack whitehall travels with my father' original Netflix content?,Answer Yes,37,"Is Netflix title 'jack whitehall travels with my father' a Series, Movie, or Documentary?",Answer Series
+black lightning,5,Is title 'black lightning' original Netflix content?,Answer No,15,"Is Netflix title 'black lightning' a Series, Movie, or Documentary?",Answer Series
+ridley jones,5,Is title 'ridley jones' original Netflix content?,Answer Yes,12,"Is Netflix title 'ridley jones' a Series, Movie, or Documentary?",Answer Series
+people just do nothing,5,Is title 'people just do nothing' original Netflix content?,Answer No,22,"Is Netflix title 'people just do nothing' a Series, Movie, or Documentary?",Answer Series
+z nation,5,Is title 'z nation' original Netflix content?,Answer No,8,"Is Netflix title 'z nation' a Series, Movie, or Documentary?",Answer Series
+swat 2017,5,Is title 'swat 2017' original Netflix content?,Answer No,9,"Is Netflix title 'swat 2017' a Series, Movie, or Documentary?",Answer Series
+the magicians 2015,5,Is title 'the magicians 2015' original Netflix content?,Answer No,18,"Is Netflix title 'the magicians 2015' a Series, Movie, or Documentary?",Answer Series
+blindspot,5,Is title 'blindspot' original Netflix content?,Answer No,9,"Is Netflix title 'blindspot' a Series, Movie, or Documentary?",Answer Series
+greenleaf,5,Is title 'greenleaf' original Netflix content?,Answer No,9,"Is Netflix title 'greenleaf' a Series, Movie, or Documentary?",Answer Series
+cobra kai,5,Is title 'cobra kai' original Netflix content?,Answer No,9,"Is Netflix title 'cobra kai' a Series, Movie, or Documentary?",Answer Series
+jurassic world camp cretaceous,5,Is title 'jurassic world camp cretaceous' original Netflix content?,Answer Yes,30,"Is Netflix title 'jurassic world camp cretaceous' a Series, Movie, or Documentary?",Answer Series
+f is for family,5,Is title 'f is for family' original Netflix content?,Answer Yes,15,"Is Netflix title 'f is for family' a Series, Movie, or Documentary?",Answer Series
+friday night lights,5,Is title 'friday night lights' original Netflix content?,Answer No,19,"Is Netflix title 'friday night lights' a Series, Movie, or Documentary?",Answer Series
+hells kitchen 2005,5,Is title 'hells kitchen 2005' original Netflix content?,Answer No,18,"Is Netflix title 'hells kitchen 2005' a Series, Movie, or Documentary?",Answer Series
+the crown,5,Is title 'the crown' original Netflix content?,Answer Yes,9,"Is Netflix title 'the crown' a Series, Movie, or Documentary?",Answer Series
+breaking bad,5,Is title 'breaking bad' original Netflix content?,Answer No,12,"Is Netflix title 'breaking bad' a Series, Movie, or Documentary?",Answer Series
+poldark 2015,5,Is title 'poldark 2015' original Netflix content?,Answer No,12,"Is Netflix title 'poldark 2015' a Series, Movie, or Documentary?",Answer Series
+young sheldon,5,Is title 'young sheldon' original Netflix content?,Answer No,13,"Is Netflix title 'young sheldon' a Series, Movie, or Documentary?",Answer Series
+icarly 2007,5,Is title 'icarly 2007' original Netflix content?,Answer No,11,"Is Netflix title 'icarly 2007' a Series, Movie, or Documentary?",Answer Series
+kims convenience,5,Is title 'kims convenience' original Netflix content?,Answer No,16,"Is Netflix title 'kims convenience' a Series, Movie, or Documentary?",Answer Series
+trauma 2010,5,Is title 'trauma 2010' original Netflix content?,Answer No,11,"Is Netflix title 'trauma 2010' a Series, Movie, or Documentary?",Answer Movie
+lego friends,5,Is title 'lego friends' original Netflix content?,Answer No,12,"Is Netflix title 'lego friends' a Series, Movie, or Documentary?",Answer Series
+gomorrah,5,Is title 'gomorrah' original Netflix content?,Answer No,8,"Is Netflix title 'gomorrah' a Series, Movie, or Documentary?",Answer Series
+nina,5,Is title 'nina' original Netflix content?,Answer No,4,"Is Netflix title 'nina' a Series, Movie, or Documentary?",Answer Movie
+rita,5,Is title 'rita' original Netflix content?,Answer Yes,4,"Is Netflix title 'rita' a Series, Movie, or Documentary?",Answer Series
+ride on time,5,Is title 'ride on time' original Netflix content?,Answer: No,12,"Is Netflix title 'ride on time' a Series, Movie, or Documentary?",Answer Series
+meateater,5,Is title 'meateater' original Netflix content?,Answer Yes,9,"Is Netflix title 'meateater' a Series, Movie, or Documentary?",Answer Series
+arrested development,5,Is title 'arrested development' original Netflix content?,Answer No,20,"Is Netflix title 'arrested development' a Series, Movie, or Documentary?",Answer Series
+aggretsuko,5,Is title 'aggretsuko' original Netflix content?,Answer Yes,10,"Is Netflix title 'aggretsuko' a Series, Movie, or Documentary?",Answer Series
+the great british baking show holidays,5,Is title 'the great british baking show holidays' original Netflix content?,Answer No,38,"Is Netflix title 'the great british baking show holidays' a Series, Movie, or Documentary?",Answer Series
+dynasty,5,Is title 'dynasty' original Netflix content?,Answer No,7,"Is Netflix title 'dynasty' a Series, Movie, or Documentary?",Answer Series
+henry danger,5,Is title 'henry danger' original Netflix content?,Answer No,12,"Is Netflix title 'henry danger' a Series, Movie, or Documentary?",Answer Series
+fuller house,5,Is title 'fuller house' original Netflix content?,Answer Yes,12,"Is Netflix title 'fuller house' a Series, Movie, or Documentary?",Answer Series
+miraculous tales of ladybug  cat noir,5,Is title 'miraculous tales of ladybug  cat noir' original Netflix content?,Answer No,37,"Is Netflix title 'miraculous tales of ladybug  cat noir' a Series, Movie, or Documentary?",Answer Series
+dora the explorer,5,Is title 'dora the explorer' original Netflix content?,Answer No,17,"Is Netflix title 'dora the explorer' a Series, Movie, or Documentary?",Answer Series
+all american,5,Is title 'all american' original Netflix content?,Answer No,12,"Is Netflix title 'all american' a Series, Movie, or Documentary?",Answer Series
+seora acero,5,Is title 'seora acero' original Netflix content?,Answer No,11,"Is Netflix title 'seora acero' a Series, Movie, or Documentary?",Answer Series
+line of duty,5,Is title 'line of duty' original Netflix content?,Answer No,12,"Is Netflix title 'line of duty' a Series, Movie, or Documentary?",Answer Series
+horrid henry,5,Is title 'horrid henry' original Netflix content?,Answer No,12,"Is Netflix title 'horrid henry' a Series, Movie, or Documentary?",Answer Series
+the great canadian baking show,5,Is title 'the great canadian baking show' original Netflix content?,Answer No,30,"Is Netflix title 'the great canadian baking show' a Series, Movie, or Documentary?",Answer Series
+eastsiders,4,Is title 'eastsiders' original Netflix content?,Answer Yes,10,"Is Netflix title 'eastsiders' a Series, Movie, or Documentary?",Answer Series
+lego city adventures,4,Is title 'lego city adventures' original Netflix content?,Answer No,20,"Is Netflix title 'lego city adventures' a Series, Movie, or Documentary?",Answer Series
+the bold type,4,Is title 'the bold type' original Netflix content?,Answer No,13,"Is Netflix title 'the bold type' a Series, Movie, or Documentary?",Answer Series
+greenhouse academy,4,Is title 'greenhouse academy' original Netflix content?,Answer Yes,18,"Is Netflix title 'greenhouse academy' a Series, Movie, or Documentary?",Answer Series
+chip and potato,4,Is title 'chip and potato' original Netflix content?,Answer Yes,15,"Is Netflix title 'chip and potato' a Series, Movie, or Documentary?",Answer Series
+love is blind,4,Is title 'love is blind' original Netflix content?,Answer Yes,13,"Is Netflix title 'love is blind' a Series, Movie, or Documentary?",Answer Series
+half  half,4,Is title 'half  half' original Netflix content?,Answer No,10,"Is Netflix title 'half  half' a Series, Movie, or Documentary?",Answer Series
+last tango in halifax,4,Is title 'last tango in halifax' original Netflix content?,Answer No,21,"Is Netflix title 'last tango in halifax' a Series, Movie, or Documentary?",Answer Series
+harvey girls forever,4,Is title 'harvey girls forever' original Netflix content?,Answer Yes,20,"Is Netflix title 'harvey girls forever' a Series, Movie, or Documentary?",Answer Series
+little things,4,Is title 'little things' original Netflix content?,Answer Yes,13,"Is Netflix title 'little things' a Series, Movie, or Documentary?",Answer Series
+i am a killer,4,Is title 'i am a killer' original Netflix content?,Answer Yes,13,"Is Netflix title 'i am a killer' a Series, Movie, or Documentary?",Answer Series
+the secret life of us,4,Is title 'the secret life of us' original Netflix content?,Answer No,21,"Is Netflix title 'the secret life of us' a Series, Movie, or Documentary?",Answer Series
+mtv shuga naija,4,Is title 'mtv shuga naija' original Netflix content?,Answer No,15,"Is Netflix title 'mtv shuga naija' a Series, Movie, or Documentary?",Answer Series
+killing eve,4,Is title 'killing eve' original Netflix content?,Answer No,11,"Is Netflix title 'killing eve' a Series, Movie, or Documentary?",Answer Series
+married at first sight,4,Is title 'married at first sight' original Netflix content?,Answer No,22,"Is Netflix title 'married at first sight' a Series, Movie, or Documentary?",Answer Series
+yu yu hakusho ghost files,4,Is title 'yu yu hakusho ghost files' original Netflix content?,Answer No,25,"Is Netflix title 'yu yu hakusho ghost files' a Series, Movie, or Documentary?",Answer Series
+the worst witch,4,Is title 'the worst witch' original Netflix content?,Answer No,15,"Is Netflix title 'the worst witch' a Series, Movie, or Documentary?",Answer Series
+boruto naruto next generations,4,Is title 'boruto naruto next generations' original Netflix content?,Answer No,30,"Is Netflix title 'boruto naruto next generations' a Series, Movie, or Documentary?",Answer Series
+in the dark 2019,4,Is title 'in the dark 2019' original Netflix content?,Answer No,16,"Is Netflix title 'in the dark 2019' a Series, Movie, or Documentary?",Answer Series
+love island australia,4,Is title 'love island australia' original Netflix content?,Answer No,21,"Is Netflix title 'love island australia' a Series, Movie, or Documentary?",Answer Series
+3,4,Is title '3' original Netflix content?,"Answer: It is unclear which specific title ""3"" refers to, so it is difficult to determine if it is original Netflix content.",1,"Is Netflix title '3' a Series, Movie, or Documentary?",Answer Series
+weissensee,4,Is title 'weissensee' original Netflix content?,Answer No,10,"Is Netflix title 'weissensee' a Series, Movie, or Documentary?",Answer Series
+life in pieces,4,Is title 'life in pieces' original Netflix content?,Answer No,14,"Is Netflix title 'life in pieces' a Series, Movie, or Documentary?",Answer Series
+on my block,4,Is title 'on my block' original Netflix content?,Answer Yes,11,"Is Netflix title 'on my block' a Series, Movie, or Documentary?",Answer Series
+the coroner 2019,4,Is title 'the coroner 2019' original Netflix content?,Answer No,16,"Is Netflix title 'the coroner 2019' a Series, Movie, or Documentary?",Answer Series
+inspector gadget,4,Is title 'inspector gadget' original Netflix content?,Answer No,16,"Is Netflix title 'inspector gadget' a Series, Movie, or Documentary?",Answer Series
+chico bon bon monkey with a tool belt,4,Is title 'chico bon bon monkey with a tool belt' original Netflix content?,Answer Yes,37,"Is Netflix title 'chico bon bon monkey with a tool belt' a Series, Movie, or Documentary?",Answer Series
+charmed 2018,4,Is title 'charmed 2018' original Netflix content?,Answer No,12,"Is Netflix title 'charmed 2018' a Series, Movie, or Documentary?",Answer Series
+13 reasons why,4,Is title '13 reasons why' original Netflix content?,Answer Yes,14,"Is Netflix title '13 reasons why' a Series, Movie, or Documentary?",Answer Series
+degrassi next class,4,Is title 'degrassi next class' original Netflix content?,Answer No,19,"Is Netflix title 'degrassi next class' a Series, Movie, or Documentary?",Answer Series
+cable girls,4,Is title 'cable girls' original Netflix content?,Answer Yes,11,"Is Netflix title 'cable girls' a Series, Movie, or Documentary?",Answer Series
+nicky ricky dicky  dawn,4,Is title 'nicky ricky dicky  dawn' original Netflix content?,Answer No,23,"Is Netflix title 'nicky ricky dicky  dawn' a Series, Movie, or Documentary?",Answer Series
+you,4,Is title 'you' original Netflix content?,Answer Yes,3,"Is Netflix title 'you' a Series, Movie, or Documentary?",Answer Series
+please like me,4,Is title 'please like me' original Netflix content?,Answer No,14,"Is Netflix title 'please like me' a Series, Movie, or Documentary?",Answer Series
+open,4,Is title 'open' original Netflix content?,Answer: No,4,"Is Netflix title 'open' a Series, Movie, or Documentary?",Answer Movie
+documentary now,4,Is title 'documentary now' original Netflix content?,Answer No,15,"Is Netflix title 'documentary now' a Series, Movie, or Documentary?",Answer Series
+resurrection ertugrul,4,Is title 'resurrection ertugrul' original Netflix content?,Answer No,21,"Is Netflix title 'resurrection ertugrul' a Series, Movie, or Documentary?",Answer Series
+lego friends girls on a mission,4,Is title 'lego friends girls on a mission' original Netflix content?,Answer No,31,"Is Netflix title 'lego friends girls on a mission' a Series, Movie, or Documentary?",Answer Series
+robocar poli,4,Is title 'robocar poli' original Netflix content?,Answer No,12,"Is Netflix title 'robocar poli' a Series, Movie, or Documentary?",Answer Series
+star trek enterprise,4,Is title 'star trek enterprise' original Netflix content?,Answer No,20,"Is Netflix title 'star trek enterprise' a Series, Movie, or Documentary?",Answer Series
+spongebob squarepants,4,Is title 'spongebob squarepants' original Netflix content?,Answer No,21,"Is Netflix title 'spongebob squarepants' a Series, Movie, or Documentary?",Answer Series
+good girls,4,Is title 'good girls' original Netflix content?,Answer No,10,"Is Netflix title 'good girls' a Series, Movie, or Documentary?",Answer Series
+club de cuervos,4,Is title 'club de cuervos' original Netflix content?,Answer Yes,15,"Is Netflix title 'club de cuervos' a Series, Movie, or Documentary?",Answer Series
+the sinner,4,Is title 'the sinner' original Netflix content?,Answer No,10,"Is Netflix title 'the sinner' a Series, Movie, or Documentary?",Answer Series
+the real housewives of beverly hills,4,Is title 'the real housewives of beverly hills' original Netflix content?,Answer No,36,"Is Netflix title 'the real housewives of beverly hills' a Series, Movie, or Documentary?",Answer Series
+black sails,4,Is title 'black sails' original Netflix content?,Answer No,11,"Is Netflix title 'black sails' a Series, Movie, or Documentary?",Answer Series
+virgin river,4,Is title 'virgin river' original Netflix content?,Answer Yes,12,"Is Netflix title 'virgin river' a Series, Movie, or Documentary?",Answer Series
+crazy exgirlfriend,4,Is title 'crazy exgirlfriend' original Netflix content?,Answer No,18,"Is Netflix title 'crazy exgirlfriend' a Series, Movie, or Documentary?",Answer Series
+hello ninja,4,Is title 'hello ninja' original Netflix content?,Answer Yes,11,"Is Netflix title 'hello ninja' a Series, Movie, or Documentary?",Answer Series
+kath and kim,4,Is title 'kath and kim' original Netflix content?,Answer No,12,"Is Netflix title 'kath and kim' a Series, Movie, or Documentary?",Answer Series
+molang,4,Is title 'molang' original Netflix content?,Answer No,6,"Is Netflix title 'molang' a Series, Movie, or Documentary?",Answer Series
+pirunpelto,4,Is title 'pirunpelto' original Netflix content?,Answer: No,10,"Is Netflix title 'pirunpelto' a Series, Movie, or Documentary?",Answer Series
+new amsterdam 2018,4,Is title 'new amsterdam 2018' original Netflix content?,Answer No,18,"Is Netflix title 'new amsterdam 2018' a Series, Movie, or Documentary?",Answer Series
+velvet,4,Is title 'velvet' original Netflix content?,Answer No,6,"Is Netflix title 'velvet' a Series, Movie, or Documentary?",Answer Series
+teenage mutant ninja turtles 2012,4,Is title 'teenage mutant ninja turtles 2012' original Netflix content?,Answer No,33,"Is Netflix title 'teenage mutant ninja turtles 2012' a Series, Movie, or Documentary?",Answer Series
+the chef show,4,Is title 'the chef show' original Netflix content?,Answer Yes,13,"Is Netflix title 'the chef show' a Series, Movie, or Documentary?",Answer Series
+king of golf,4,Is title 'king of golf' original Netflix content?,Answer No,12,"Is Netflix title 'king of golf' a Series, Movie, or Documentary?","Answer: It could be a movie or a documentary, depending on the specific content of the title."
+titans,4,Is title 'titans' original Netflix content?,Answer No,6,"Is Netflix title 'titans' a Series, Movie, or Documentary?",Answer Series
+locked up,4,Is title 'locked up' original Netflix content?,Answer No,9,"Is Netflix title 'locked up' a Series, Movie, or Documentary?",Answer Series
+dream home makeover,4,Is title 'dream home makeover' original Netflix content?,Answer Yes,19,"Is Netflix title 'dream home makeover' a Series, Movie, or Documentary?",Answer Series
+the night shift,4,Is title 'the night shift' original Netflix content?,Answer No,15,"Is Netflix title 'the night shift' a Series, Movie, or Documentary?",Answer Series
+catastrophe,4,Is title 'catastrophe' original Netflix content?,Answer No,11,"Is Netflix title 'catastrophe' a Series, Movie, or Documentary?",Answer Series
+ben 10,4,Is title 'ben 10' original Netflix content?,Answer No,6,"Is Netflix title 'ben 10' a Series, Movie, or Documentary?",Answer Series
+the thundermans,4,Is title 'the thundermans' original Netflix content?,Answer No,15,"Is Netflix title 'the thundermans' a Series, Movie, or Documentary?",Answer Series
+ushijima the loan shark,4,Is title 'ushijima the loan shark' original Netflix content?,Answer No,23,"Is Netflix title 'ushijima the loan shark' a Series, Movie, or Documentary?",Answer Series
+wynonna earp,4,Is title 'wynonna earp' original Netflix content?,Answer No,12,"Is Netflix title 'wynonna earp' a Series, Movie, or Documentary?",Answer Series
+castlevania,4,Is title 'castlevania' original Netflix content?,Answer Yes,11,"Is Netflix title 'castlevania' a Series, Movie, or Documentary?",Answer Series
+midnight diner,4,Is title 'midnight diner' original Netflix content?,Answer No,14,"Is Netflix title 'midnight diner' a Series, Movie, or Documentary?",Answer Series
+simon 2016,4,Is title 'simon 2016' original Netflix content?,Answer: No,10,"Is Netflix title 'simon 2016' a Series, Movie, or Documentary?",Answer Movie
+karmas world,4,Is title 'karmas world' original Netflix content?,Answer Yes,12,"Is Netflix title 'karmas world' a Series, Movie, or Documentary?",Answer Series
+big time rush,4,Is title 'big time rush' original Netflix content?,Answer No,13,"Is Netflix title 'big time rush' a Series, Movie, or Documentary?",Answer Series
+ada twist scientist,4,Is title 'ada twist scientist' original Netflix content?,Answer No,19,"Is Netflix title 'ada twist scientist' a Series, Movie, or Documentary?",Answer Series
+shadowhunters the mortal instruments,4,Is title 'shadowhunters the mortal instruments' original Netflix content?,Answer No,36,"Is Netflix title 'shadowhunters the mortal instruments' a Series, Movie, or Documentary?",Answer Series
+alone,4,Is title 'alone' original Netflix content?,Answer No,5,"Is Netflix title 'alone' a Series, Movie, or Documentary?",Answer Series
+ozark,4,Is title 'ozark' original Netflix content?,Answer Yes,5,"Is Netflix title 'ozark' a Series, Movie, or Documentary?",Answer Series
+dawn of the croods,4,Is title 'dawn of the croods' original Netflix content?,Answer No,18,"Is Netflix title 'dawn of the croods' a Series, Movie, or Documentary?",Answer Series
+the undertaker,4,Is title 'the undertaker' original Netflix content?,Answer No,14,"Is Netflix title 'the undertaker' a Series, Movie, or Documentary?",Answer Series
+roswell new mexico,4,Is title 'roswell new mexico' original Netflix content?,Answer No,18,"Is Netflix title 'roswell new mexico' a Series, Movie, or Documentary?",Answer Series
+unbreakable kimmy schmidt,4,Is title 'unbreakable kimmy schmidt' original Netflix content?,Answer Yes,25,"Is Netflix title 'unbreakable kimmy schmidt' a Series, Movie, or Documentary?",Answer Series
+carmen sandiego,4,Is title 'carmen sandiego' original Netflix content?,Answer Yes,15,"Is Netflix title 'carmen sandiego' a Series, Movie, or Documentary?",Answer Series
+the protector,4,Is title 'the protector' original Netflix content?,Answer Yes,13,"Is Netflix title 'the protector' a Series, Movie, or Documentary?",Answer Series
+my next guest needs no introduction with david letterman,4,Is title 'my next guest needs no introduction with david letterman' original Netflix content?,Answer Yes,56,"Is Netflix title 'my next guest needs no introduction with david letterman' a Series, Movie, or Documentary?",Answer Series
+everybody loves raymond,4,Is title 'everybody loves raymond' original Netflix content?,Answer No,23,"Is Netflix title 'everybody loves raymond' a Series, Movie, or Documentary?",Answer Series
+love island usa,4,Is title 'love island usa' original Netflix content?,Answer No,15,"Is Netflix title 'love island usa' a Series, Movie, or Documentary?",Answer Series
+the good place,4,Is title 'the good place' original Netflix content?,Answer No,14,"Is Netflix title 'the good place' a Series, Movie, or Documentary?",Answer Series
+bonus family,4,Is title 'bonus family' original Netflix content?,Answer No,12,"Is Netflix title 'bonus family' a Series, Movie, or Documentary?",Answer Series
+call my agent,4,Is title 'call my agent' original Netflix content?,Answer No,13,"Is Netflix title 'call my agent' a Series, Movie, or Documentary?",Answer Series
+fauda,4,Is title 'fauda' original Netflix content?,Answer No,5,"Is Netflix title 'fauda' a Series, Movie, or Documentary?",Answer Series
+casual,4,Is title 'casual' original Netflix content?,Answer No,6,"Is Netflix title 'casual' a Series, Movie, or Documentary?",Answer Series
+due south,4,Is title 'due south' original Netflix content?,Answer No,9,"Is Netflix title 'due south' a Series, Movie, or Documentary?",Answer Series
+h 1998,4,Is title 'h 1998' original Netflix content?,Answer No,6,"Is Netflix title 'h 1998' a Series, Movie, or Documentary?",Answer Movie
+mako mermaids an h2o adventure,4,Is title 'mako mermaids an h2o adventure' original Netflix content?,Answer No,30,"Is Netflix title 'mako mermaids an h2o adventure' a Series, Movie, or Documentary?",Answer Series
+attack on titan,4,Is title 'attack on titan' original Netflix content?,Answer No,15,"Is Netflix title 'attack on titan' a Series, Movie, or Documentary?",Answer Series
+manifest,4,Is title 'manifest' original Netflix content?,Answer No,8,"Is Netflix title 'manifest' a Series, Movie, or Documentary?",Answer Series
+the garfield show,4,Is title 'the garfield show' original Netflix content?,Answer No,17,"Is Netflix title 'the garfield show' a Series, Movie, or Documentary?",Answer Series
+man down,4,Is title 'man down' original Netflix content?,Answer No,8,"Is Netflix title 'man down' a Series, Movie, or Documentary?",Answer Movie
+atypical,4,Is title 'atypical' original Netflix content?,Answer Yes,8,"Is Netflix title 'atypical' a Series, Movie, or Documentary?",Answer Series
+the mr peabody and sherman show,4,Is title 'the mr peabody and sherman show' original Netflix content?,Answer Yes,31,"Is Netflix title 'the mr peabody and sherman show' a Series, Movie, or Documentary?",Answer Series
+home adventures with tip  oh,4,Is title 'home adventures with tip  oh' original Netflix content?,Answer Yes,28,"Is Netflix title 'home adventures with tip  oh' a Series, Movie, or Documentary?",Answer Series
+hiphop evolution,4,Is title 'hiphop evolution' original Netflix content?,Answer Yes,16,"Is Netflix title 'hiphop evolution' a Series, Movie, or Documentary?",Answer Series
+car masters rust to riches,4,Is title 'car masters rust to riches' original Netflix content?,Answer Yes,26,"Is Netflix title 'car masters rust to riches' a Series, Movie, or Documentary?",Answer Series
+buurman  buurman,4,Is title 'buurman  buurman' original Netflix content?,Answer No,16,"Is Netflix title 'buurman  buurman' a Series, Movie, or Documentary?",Answer Series
+alvinnn and the chipmunks,4,Is title 'alvinnn and the chipmunks' original Netflix content?,Answer No,25,"Is Netflix title 'alvinnn and the chipmunks' a Series, Movie, or Documentary?",Answer Series
+hormones,4,Is title 'hormones' original Netflix content?,Answer No,8,"Is Netflix title 'hormones' a Series, Movie, or Documentary?",Answer Series
+dreamland 2014,4,Is title 'dreamland 2014' original Netflix content?,Answer No,14,"Is Netflix title 'dreamland 2014' a Series, Movie, or Documentary?",Answer Movie
+pj masks,4,Is title 'pj masks' original Netflix content?,Answer No,8,"Is Netflix title 'pj masks' a Series, Movie, or Documentary?",Answer Series
+the dragon prince,4,Is title 'the dragon prince' original Netflix content?,Answer Yes,17,"Is Netflix title 'the dragon prince' a Series, Movie, or Documentary?",Answer Series
+eyeshield 21,4,Is title 'eyeshield 21' original Netflix content?,Answer No,12,"Is Netflix title 'eyeshield 21' a Series, Movie, or Documentary?",Answer Series
+44 cats,4,Is title '44 cats' original Netflix content?,Answer No,7,"Is Netflix title '44 cats' a Series, Movie, or Documentary?",Answer Series
+mighty morphin power rangers,4,Is title 'mighty morphin power rangers' original Netflix content?,Answer No,28,"Is Netflix title 'mighty morphin power rangers' a Series, Movie, or Documentary?",Answer Series
+code lyoko,4,Is title 'code lyoko' original Netflix content?,Answer No,10,"Is Netflix title 'code lyoko' a Series, Movie, or Documentary?",Answer Series
+the royals 2015,4,Is title 'the royals 2015' original Netflix content?,Answer No,15,"Is Netflix title 'the royals 2015' a Series, Movie, or Documentary?",Answer Series
+pocoyo,4,Is title 'pocoyo' original Netflix content?,Answer No,6,"Is Netflix title 'pocoyo' a Series, Movie, or Documentary?",Answer Series
+octonauts,4,Is title 'octonauts' original Netflix content?,Answer No,9,"Is Netflix title 'octonauts' a Series, Movie, or Documentary?",Answer Series
+7 vidas,4,Is title '7 vidas' original Netflix content?,Answer No,7,"Is Netflix title '7 vidas' a Series, Movie, or Documentary?",Answer Series
+too hot to handle,4,Is title 'too hot to handle' original Netflix content?,Answer Yes,17,"Is Netflix title 'too hot to handle' a Series, Movie, or Documentary?",Answer Series
+hug me,4,Is title 'hug me' original Netflix content?,Answer: No,6,"Is Netflix title 'hug me' a Series, Movie, or Documentary?",Answer Series
+the boss baby back in business,4,Is title 'the boss baby back in business' original Netflix content?,Answer Yes,30,"Is Netflix title 'the boss baby back in business' a Series, Movie, or Documentary?",Answer Series
+is it wrong to try to pick up girls in a dungeon,4,Is title 'is it wrong to try to pick up girls in a dungeon' original Netflix content?,Answer No,48,"Is Netflix title 'is it wrong to try to pick up girls in a dungeon' a Series, Movie, or Documentary?",Answer Series
+the oc,4,Is title 'the oc' original Netflix content?,Answer No,6,"Is Netflix title 'the oc' a Series, Movie, or Documentary?",Answer Series
+never have i ever,4,Is title 'never have i ever' original Netflix content?,Answer Yes,17,"Is Netflix title 'never have i ever' a Series, Movie, or Documentary?",Answer Series
+glow up,4,Is title 'glow up' original Netflix content?,Answer Yes,7,"Is Netflix title 'glow up' a Series, Movie, or Documentary?",Answer Series
+starbeam,4,Is title 'starbeam' original Netflix content?,Answer Yes,8,"Is Netflix title 'starbeam' a Series, Movie, or Documentary?",Answer Series
+legacies,4,Is title 'legacies' original Netflix content?,Answer No,8,"Is Netflix title 'legacies' a Series, Movie, or Documentary?",Answer Series
+pokmon journeys the series,4,Is title 'pokmon journeys the series' original Netflix content?,Answer No,26,"Is Netflix title 'pokmon journeys the series' a Series, Movie, or Documentary?",Answer Series
+the bridge,4,Is title 'the bridge' original Netflix content?,Answer No,10,"Is Netflix title 'the bridge' a Series, Movie, or Documentary?",Answer Series
+aiseki shokudo,4,Is title 'aiseki shokudo' original Netflix content?,Answer No,14,"Is Netflix title 'aiseki shokudo' a Series, Movie, or Documentary?",Answer Series
+travelers,3,Is title 'travelers' original Netflix content?,Answer Yes,9,"Is Netflix title 'travelers' a Series, Movie, or Documentary?",Answer Series
+ultraman,3,Is title 'ultraman' original Netflix content?,Answer Yes,8,"Is Netflix title 'ultraman' a Series, Movie, or Documentary?",Answer Series
+bill nye saves the world,3,Is title 'bill nye saves the world' original Netflix content?,Answer Yes,24,"Is Netflix title 'bill nye saves the world' a Series, Movie, or Documentary?",Answer Series
+welcome to demon school  irumakun,3,Is title 'welcome to demon school  irumakun' original Netflix content?,Answer No,33,"Is Netflix title 'welcome to demon school  irumakun' a Series, Movie, or Documentary?",Answer Series
+control z,3,Is title 'control z' original Netflix content?,Answer Yes,9,"Is Netflix title 'control z' a Series, Movie, or Documentary?",Answer Series
+seachange,3,Is title 'seachange' original Netflix content?,Answer No,9,"Is Netflix title 'seachange' a Series, Movie, or Documentary?",Answer Series
+sailor moon crystal,3,Is title 'sailor moon crystal' original Netflix content?,Answer No,19,"Is Netflix title 'sailor moon crystal' a Series, Movie, or Documentary?",Answer Series
+lost in space,3,Is title 'lost in space' original Netflix content?,Answer Yes,13,"Is Netflix title 'lost in space' a Series, Movie, or Documentary?",Answer Series
+falling in love like a romantic drama,3,Is title 'falling in love like a romantic drama' original Netflix content?,Answer Yes,37,"Is Netflix title 'falling in love like a romantic drama' a Series, Movie, or Documentary?",Answer Movie
+shtisel,3,Is title 'shtisel' original Netflix content?,Answer No,7,"Is Netflix title 'shtisel' a Series, Movie, or Documentary?",Answer Series
+kurokos basketball,3,Is title 'kurokos basketball' original Netflix content?,Answer No,18,"Is Netflix title 'kurokos basketball' a Series, Movie, or Documentary?",Answer Series
+wild kratts,3,Is title 'wild kratts' original Netflix content?,Answer No,11,"Is Netflix title 'wild kratts' a Series, Movie, or Documentary?",Answer Series
+deadwind,3,Is title 'deadwind' original Netflix content?,Answer No,8,"Is Netflix title 'deadwind' a Series, Movie, or Documentary?",Answer Series
+tagged,3,Is title 'tagged' original Netflix content?,Answer No,6,"Is Netflix title 'tagged' a Series, Movie, or Documentary?",Answer Series
+wanted,3,Is title 'wanted' original Netflix content?,Answer No,6,"Is Netflix title 'wanted' a Series, Movie, or Documentary?",Answer Series
+power players,3,Is title 'power players' original Netflix content?,Answer No,13,"Is Netflix title 'power players' a Series, Movie, or Documentary?",Answer Series
+the hook up plan,3,Is title 'the hook up plan' original Netflix content?,Answer Yes,16,"Is Netflix title 'the hook up plan' a Series, Movie, or Documentary?",Answer Series
+assassination classroom,3,Is title 'assassination classroom' original Netflix content?,Answer No,23,"Is Netflix title 'assassination classroom' a Series, Movie, or Documentary?",Answer Series
+sin tetas no hay paraso 2008,3,Is title 'sin tetas no hay paraso 2008' original Netflix content?,Answer No,28,"Is Netflix title 'sin tetas no hay paraso 2008' a Series, Movie, or Documentary?",Answer Series
+marcella,3,Is title 'marcella' original Netflix content?,Answer No,8,"Is Netflix title 'marcella' a Series, Movie, or Documentary?",Answer Series
+kingdom,3,Is title 'kingdom' original Netflix content?,Answer Yes,7,"Is Netflix title 'kingdom' a Series, Movie, or Documentary?",Answer Series
+the wiggles ready steady wiggle,3,Is title 'the wiggles ready steady wiggle' original Netflix content?,Answer No,31,"Is Netflix title 'the wiggles ready steady wiggle' a Series, Movie, or Documentary?",Answer Series
+servant of the people,3,Is title 'servant of the people' original Netflix content?,Answer No,21,"Is Netflix title 'servant of the people' a Series, Movie, or Documentary?",Answer Series
+switch,3,Is title 'switch' original Netflix content?,Answer: No,6,"Is Netflix title 'switch' a Series, Movie, or Documentary?","Answer: It could be either a Series or a Movie, without more specific information."
+luna petunia,3,Is title 'luna petunia' original Netflix content?,Answer Yes,12,"Is Netflix title 'luna petunia' a Series, Movie, or Documentary?",Answer Series
+mr mercedes,3,Is title 'mr mercedes' original Netflix content?,Answer No,11,"Is Netflix title 'mr mercedes' a Series, Movie, or Documentary?",Answer Series
+borgen,3,Is title 'borgen' original Netflix content?,Answer No,6,"Is Netflix title 'borgen' a Series, Movie, or Documentary?",Answer Series
+blood  water,3,Is title 'blood  water' original Netflix content?,Answer No,12,"Is Netflix title 'blood  water' a Series, Movie, or Documentary?",Answer Series
+intersection,3,Is title 'intersection' original Netflix content?,Answer No,12,"Is Netflix title 'intersection' a Series, Movie, or Documentary?",Answer Series
+outback truckers,3,Is title 'outback truckers' original Netflix content?,Answer No,16,"Is Netflix title 'outback truckers' a Series, Movie, or Documentary?",Answer Series
+into the badlands,3,Is title 'into the badlands' original Netflix content?,Answer No,17,"Is Netflix title 'into the badlands' a Series, Movie, or Documentary?",Answer Series
+sky rojo,3,Is title 'sky rojo' original Netflix content?,Answer Yes,8,"Is Netflix title 'sky rojo' a Series, Movie, or Documentary?",Answer Series
+high seas,3,Is title 'high seas' original Netflix content?,Answer Yes,9,"Is Netflix title 'high seas' a Series, Movie, or Documentary?",Answer Series
+floor is lava,3,Is title 'floor is lava' original Netflix content?,Answer Yes,13,"Is Netflix title 'floor is lava' a Series, Movie, or Documentary?",Answer Series
+sex education,3,Is title 'sex education' original Netflix content?,Answer Yes,13,"Is Netflix title 'sex education' a Series, Movie, or Documentary?",Answer Series
+wakfu,3,Is title 'wakfu' original Netflix content?,Answer No,5,"Is Netflix title 'wakfu' a Series, Movie, or Documentary?",Answer Series
+designated survivor,3,Is title 'designated survivor' original Netflix content?,Answer No,19,"Is Netflix title 'designated survivor' a Series, Movie, or Documentary?",Answer Series
+from me to you kimi ni todoke,3,Is title 'from me to you kimi ni todoke' original Netflix content?,Answer No,29,"Is Netflix title 'from me to you kimi ni todoke' a Series, Movie, or Documentary?",Answer Series
+scream,3,Is title 'scream' original Netflix content?,Answer No,6,"Is Netflix title 'scream' a Series, Movie, or Documentary?",Answer Series
+legion,3,Is title 'legion' original Netflix content?,Answer No,6,"Is Netflix title 'legion' a Series, Movie, or Documentary?",Answer Series
+ask the storybots,3,Is title 'ask the storybots' original Netflix content?,Answer Yes,17,"Is Netflix title 'ask the storybots' a Series, Movie, or Documentary?",Answer Series
+cinderella chef,3,Is title 'cinderella chef' original Netflix content?,Answer No,15,"Is Netflix title 'cinderella chef' a Series, Movie, or Documentary?",Answer Series
+colony,3,Is title 'colony' original Netflix content?,Answer No,6,"Is Netflix title 'colony' a Series, Movie, or Documentary?",Answer Series
+h2o just add water,3,Is title 'h2o just add water' original Netflix content?,Answer No,18,"Is Netflix title 'h2o just add water' a Series, Movie, or Documentary?",Answer Series
+sharkdog,3,Is title 'sharkdog' original Netflix content?,Answer Yes,8,"Is Netflix title 'sharkdog' a Series, Movie, or Documentary?",Answer Series
+narcos,3,Is title 'narcos' original Netflix content?,Answer Yes,6,"Is Netflix title 'narcos' a Series, Movie, or Documentary?",Answer Series
+dark matter,3,Is title 'dark matter' original Netflix content?,Answer No,11,"Is Netflix title 'dark matter' a Series, Movie, or Documentary?",Answer Series
+man like mobeen,3,Is title 'man like mobeen' original Netflix content?,Answer No,15,"Is Netflix title 'man like mobeen' a Series, Movie, or Documentary?",Answer Series
+love is blind brazil,3,Is title 'love is blind brazil' original Netflix content?,Answer Yes,20,"Is Netflix title 'love is blind brazil' a Series, Movie, or Documentary?",Answer Series
+easy,3,Is title 'easy' original Netflix content?,Answer Yes,4,"Is Netflix title 'easy' a Series, Movie, or Documentary?",Answer Series
+the standups,3,Is title 'the standups' original Netflix content?,Answer Yes,12,"Is Netflix title 'the standups' a Series, Movie, or Documentary?",Answer Series
+the missing,3,Is title 'the missing' original Netflix content?,Answer No,11,"Is Netflix title 'the missing' a Series, Movie, or Documentary?",Answer Series
+daughter from another mother,3,Is title 'daughter from another mother' original Netflix content?,Answer Yes,28,"Is Netflix title 'daughter from another mother' a Series, Movie, or Documentary?",Answer Series
+the movies that made us,3,Is title 'the movies that made us' original Netflix content?,Answer Yes,23,"Is Netflix title 'the movies that made us' a Series, Movie, or Documentary?",Answer Series
+the deep 2015,3,Is title 'the deep 2015' original Netflix content?,Answer No,13,"Is Netflix title 'the deep 2015' a Series, Movie, or Documentary?",Answer Series
+teenage parents,3,Is title 'teenage parents' original Netflix content?,Answer No,15,"Is Netflix title 'teenage parents' a Series, Movie, or Documentary?",Answer Series
+norsemen,3,Is title 'norsemen' original Netflix content?,Answer Yes,8,"Is Netflix title 'norsemen' a Series, Movie, or Documentary?",Answer Series
+hap and leonard,3,Is title 'hap and leonard' original Netflix content?,Answer No,15,"Is Netflix title 'hap and leonard' a Series, Movie, or Documentary?",Answer Series
+one piece zou,3,Is title 'one piece zou' original Netflix content?,Answer No,13,"Is Netflix title 'one piece zou' a Series, Movie, or Documentary?",Answer Series
+lethal weapon,3,Is title 'lethal weapon' original Netflix content?,Answer No,13,"Is Netflix title 'lethal weapon' a Series, Movie, or Documentary?",Answer Series
+kakegurui,3,Is title 'kakegurui' original Netflix content?,Answer No,9,"Is Netflix title 'kakegurui' a Series, Movie, or Documentary?",Answer Series
+the cuphead show,3,Is title 'the cuphead show' original Netflix content?,Answer Yes,16,"Is Netflix title 'the cuphead show' a Series, Movie, or Documentary?",Answer Series
+baby,3,Is title 'baby' original Netflix content?,Answer Yes,4,"Is Netflix title 'baby' a Series, Movie, or Documentary?",Answer Series
+the adventures of tintin,3,Is title 'the adventures of tintin' original Netflix content?,Answer No,24,"Is Netflix title 'the adventures of tintin' a Series, Movie, or Documentary?",Answer Series
+family business,3,Is title 'family business' original Netflix content?,Answer Yes,15,"Is Netflix title 'family business' a Series, Movie, or Documentary?",Answer Series
+key  peele,3,Is title 'key  peele' original Netflix content?,Answer No,10,"Is Netflix title 'key  peele' a Series, Movie, or Documentary?",Answer Series
+frontier,3,Is title 'frontier' original Netflix content?,Answer No,8,"Is Netflix title 'frontier' a Series, Movie, or Documentary?",Answer Series
+the fairly oddparents,3,Is title 'the fairly oddparents' original Netflix content?,Answer No,21,"Is Netflix title 'the fairly oddparents' a Series, Movie, or Documentary?",Answer Series
+the gift,3,Is title 'the gift' original Netflix content?,Answer: No,8,"Is Netflix title 'the gift' a Series, Movie, or Documentary?",Answer Series
+star,3,Is title 'star' original Netflix content?,Answer: No,4,"Is Netflix title 'star' a Series, Movie, or Documentary?","Answer: It could refer to multiple titles on Netflix, so without more specific information, it is unclear whether it is a Series, Movie, or Documentary."
+snowpiercer,3,Is title 'snowpiercer' original Netflix content?,Answer No,11,"Is Netflix title 'snowpiercer' a Series, Movie, or Documentary?",Answer Series
+hozukis coolheadedness,3,Is title 'hozukis coolheadedness' original Netflix content?,Answer No,22,"Is Netflix title 'hozukis coolheadedness' a Series, Movie, or Documentary?",Answer Series
+hush,3,Is title 'hush' original Netflix content?,Answer Yes,4,"Is Netflix title 'hush' a Series, Movie, or Documentary?",Answer Movie
+winx club,3,Is title 'winx club' original Netflix content?,Answer No,9,"Is Netflix title 'winx club' a Series, Movie, or Documentary?",Answer Series
+attack on titan the final,3,Is title 'attack on titan the final' original Netflix content?,Answer No,25,"Is Netflix title 'attack on titan the final' a Series, Movie, or Documentary?",Answer Series
+locke  key,3,Is title 'locke  key' original Netflix content?,Answer Yes,10,"Is Netflix title 'locke  key' a Series, Movie, or Documentary?",Answer Series
+a series of unfortunate events,3,Is title 'a series of unfortunate events' original Netflix content?,Answer Yes,30,"Is Netflix title 'a series of unfortunate events' a Series, Movie, or Documentary?",Answer Series
+rupauls drag race untucked,3,Is title 'rupauls drag race untucked' original Netflix content?,Answer No,26,"Is Netflix title 'rupauls drag race untucked' a Series, Movie, or Documentary?",Answer Series
+derry girls,3,Is title 'derry girls' original Netflix content?,Answer No,11,"Is Netflix title 'derry girls' a Series, Movie, or Documentary?",Answer Series
+suburra blood on rome,3,Is title 'suburra blood on rome' original Netflix content?,Answer Yes,21,"Is Netflix title 'suburra blood on rome' a Series, Movie, or Documentary?",Answer Series
+barbie dreamhouse adventures,3,Is title 'barbie dreamhouse adventures' original Netflix content?,Answer No,28,"Is Netflix title 'barbie dreamhouse adventures' a Series, Movie, or Documentary?",Answer Series
+the witcher,3,Is title 'the witcher' original Netflix content?,Answer Yes,11,"Is Netflix title 'the witcher' a Series, Movie, or Documentary?",Answer Series
+paquita salas,3,Is title 'paquita salas' original Netflix content?,Answer No,13,"Is Netflix title 'paquita salas' a Series, Movie, or Documentary?",Answer Series
+go dog go,3,Is title 'go dog go' original Netflix content?,Answer Yes,9,"Is Netflix title 'go dog go' a Series, Movie, or Documentary?",Answer Series
+heman and the masters of the universe,3,Is title 'heman and the masters of the universe' original Netflix content?,Answer Yes,37,"Is Netflix title 'heman and the masters of the universe' a Series, Movie, or Documentary?",Answer Series
+public enemy,3,Is title 'public enemy' original Netflix content?,Answer No,12,"Is Netflix title 'public enemy' a Series, Movie, or Documentary?",Answer Series
+the killing,3,Is title 'the killing' original Netflix content?,Answer No,11,"Is Netflix title 'the killing' a Series, Movie, or Documentary?",Answer Series
+the worlds most extraordinary homes,3,Is title 'the worlds most extraordinary homes' original Netflix content?,Answer Yes,35,"Is Netflix title 'the worlds most extraordinary homes' a Series, Movie, or Documentary?",Answer Series
+the fall,3,Is title 'the fall' original Netflix content?,Answer No,8,"Is Netflix title 'the fall' a Series, Movie, or Documentary?",Answer Series
+the parisian agency exclusive properties,3,Is title 'the parisian agency exclusive properties' original Netflix content?,Answer No,40,"Is Netflix title 'the parisian agency exclusive properties' a Series, Movie, or Documentary?",Answer Series
+the restaurant,3,Is title 'the restaurant' original Netflix content?,Answer No,14,"Is Netflix title 'the restaurant' a Series, Movie, or Documentary?",Answer Series
+luis miguel  the series,3,Is title 'luis miguel  the series' original Netflix content?,Answer No,23,"Is Netflix title 'luis miguel  the series' a Series, Movie, or Documentary?",Answer Series
+tangle,3,Is title 'tangle' original Netflix content?,Answer No,6,"Is Netflix title 'tangle' a Series, Movie, or Documentary?",Answer: It is not a title currently available on Netflix.
+la reina del sur,3,Is title 'la reina del sur' original Netflix content?,Answer No,16,"Is Netflix title 'la reina del sur' a Series, Movie, or Documentary?",Answer Series
+the kominsky method,3,Is title 'the kominsky method' original Netflix content?,Answer Yes,19,"Is Netflix title 'the kominsky method' a Series, Movie, or Documentary?",Answer Series
+dinotrux supercharged,3,Is title 'dinotrux supercharged' original Netflix content?,Answer Yes,21,"Is Netflix title 'dinotrux supercharged' a Series, Movie, or Documentary?",Answer Series
+sin senos s hay paraso,3,Is title 'sin senos s hay paraso' original Netflix content?,Answer No,22,"Is Netflix title 'sin senos s hay paraso' a Series, Movie, or Documentary?",Answer Series
+rabbids invasion,3,Is title 'rabbids invasion' original Netflix content?,Answer No,16,"Is Netflix title 'rabbids invasion' a Series, Movie, or Documentary?",Answer Series
+192 2011,3,Is title '192 2011' original Netflix content?,Answer No,8,"Is Netflix title '192 2011' a Series, Movie, or Documentary?",Answer Movie
+i think you should leave with tim robinson,3,Is title 'i think you should leave with tim robinson' original Netflix content?,Answer Yes,42,"Is Netflix title 'i think you should leave with tim robinson' a Series, Movie, or Documentary?",Answer Series
+butt detective,3,Is title 'butt detective' original Netflix content?,Answer No,14,"Is Netflix title 'butt detective' a Series, Movie, or Documentary?",Answer Series
+the toys that made us,3,Is title 'the toys that made us' original Netflix content?,Answer Yes,21,"Is Netflix title 'the toys that made us' a Series, Movie, or Documentary?",Answer Series
+outer banks,3,Is title 'outer banks' original Netflix content?,Answer Yes,11,"Is Netflix title 'outer banks' a Series, Movie, or Documentary?",Answer Series
+grizzy and the lemmings,3,Is title 'grizzy and the lemmings' original Netflix content?,Answer No,23,"Is Netflix title 'grizzy and the lemmings' a Series, Movie, or Documentary?",Answer Series
+oishinbo,3,Is title 'oishinbo' original Netflix content?,Answer No,8,"Is Netflix title 'oishinbo' a Series, Movie, or Documentary?",Answer Series
+glow,3,Is title 'glow' original Netflix content?,Answer Yes,4,"Is Netflix title 'glow' a Series, Movie, or Documentary?",Answer Series
+the next step,3,Is title 'the next step' original Netflix content?,Answer No,13,"Is Netflix title 'the next step' a Series, Movie, or Documentary?",Answer Series
+god troubles me,3,Is title 'god troubles me' original Netflix content?,Answer No,15,"Is Netflix title 'god troubles me' a Series, Movie, or Documentary?",Answer Series
+rust valley restorers,3,Is title 'rust valley restorers' original Netflix content?,Answer No,21,"Is Netflix title 'rust valley restorers' a Series, Movie, or Documentary?",Answer Series
+boboiboy,3,Is title 'boboiboy' original Netflix content?,Answer No,8,"Is Netflix title 'boboiboy' a Series, Movie, or Documentary?",Answer Series
+rosario tijeras mexico,3,Is title 'rosario tijeras mexico' original Netflix content?,Answer No,22,"Is Netflix title 'rosario tijeras mexico' a Series, Movie, or Documentary?",Answer Series
+dark,3,Is title 'dark' original Netflix content?,Answer Yes,4,"Is Netflix title 'dark' a Series, Movie, or Documentary?",Answer Series
+love,3,Is title 'love' original Netflix content?,Answer Yes,4,"Is Netflix title 'love' a Series, Movie, or Documentary?",Answer Series
+free rein,3,Is title 'free rein' original Netflix content?,Answer Yes,9,"Is Netflix title 'free rein' a Series, Movie, or Documentary?",Answer Series
+star trek,3,Is title 'star trek' original Netflix content?,Answer No,9,"Is Netflix title 'star trek' a Series, Movie, or Documentary?",Answer Series
+the epic tales of captain underpants,3,Is title 'the epic tales of captain underpants' original Netflix content?,Answer Yes,36,"Is Netflix title 'the epic tales of captain underpants' a Series, Movie, or Documentary?",Answer Series
+sintonia,3,Is title 'sintonia' original Netflix content?,Answer Yes,8,"Is Netflix title 'sintonia' a Series, Movie, or Documentary?",Answer Series
+world trigger,3,Is title 'world trigger' original Netflix content?,Answer No,13,"Is Netflix title 'world trigger' a Series, Movie, or Documentary?",Answer Series
+final space,3,Is title 'final space' original Netflix content?,Answer No,11,"Is Netflix title 'final space' a Series, Movie, or Documentary?",Answer Series
+love after divorce,3,Is title 'love after divorce' original Netflix content?,Answer No,18,"Is Netflix title 'love after divorce' a Series, Movie, or Documentary?",Answer Series
+geordie shore,3,Is title 'geordie shore' original Netflix content?,Answer No,13,"Is Netflix title 'geordie shore' a Series, Movie, or Documentary?",Answer Series
+kazoops,3,Is title 'kazoops' original Netflix content?,Answer No,7,"Is Netflix title 'kazoops' a Series, Movie, or Documentary?",Answer Series
+lilyhammer,3,Is title 'lilyhammer' original Netflix content?,Answer Yes,10,"Is Netflix title 'lilyhammer' a Series, Movie, or Documentary?",Answer Series
+bad exorcist,3,Is title 'bad exorcist' original Netflix content?,Answer No,12,"Is Netflix title 'bad exorcist' a Series, Movie, or Documentary?",Answer Movie
+best interest,3,Is title 'best interest' original Netflix content?,Answer: No,13,"Is Netflix title 'best interest' a Series, Movie, or Documentary?",Answer It could be any of the three categories without more specific information.
+nailed it mexico,3,Is title 'nailed it mexico' original Netflix content?,Answer Yes,16,"Is Netflix title 'nailed it mexico' a Series, Movie, or Documentary?",Answer Series
+rainbow high,3,Is title 'rainbow high' original Netflix content?,Answer No,12,"Is Netflix title 'rainbow high' a Series, Movie, or Documentary?",Answer Series
+love ft marriage and divorce,3,Is title 'love ft marriage and divorce' original Netflix content?,Answer No,28,"Is Netflix title 'love ft marriage and divorce' a Series, Movie, or Documentary?",Answer Series
+berlin station,3,Is title 'berlin station' original Netflix content?,Answer No,14,"Is Netflix title 'berlin station' a Series, Movie, or Documentary?",Answer Series
+mord mit aussicht,3,Is title 'mord mit aussicht' original Netflix content?,Answer No,17,"Is Netflix title 'mord mit aussicht' a Series, Movie, or Documentary?",Answer Series
+occupied,3,Is title 'occupied' original Netflix content?,Answer No,8,"Is Netflix title 'occupied' a Series, Movie, or Documentary?",Answer Series
+rupauls drag race all stars,3,Is title 'rupauls drag race all stars' original Netflix content?,Answer No,27,"Is Netflix title 'rupauls drag race all stars' a Series, Movie, or Documentary?",Answer Series
+versailles,3,Is title 'versailles' original Netflix content?,Answer No,10,"Is Netflix title 'versailles' a Series, Movie, or Documentary?",Answer Series
+ash vs evil dead,3,Is title 'ash vs evil dead' original Netflix content?,Answer No,16,"Is Netflix title 'ash vs evil dead' a Series, Movie, or Documentary?",Answer Series
+emily in paris,3,Is title 'emily in paris' original Netflix content?,Answer Yes,14,"Is Netflix title 'emily in paris' a Series, Movie, or Documentary?",Answer Series
+mob psycho 100,3,Is title 'mob psycho 100' original Netflix content?,Answer No,14,"Is Netflix title 'mob psycho 100' a Series, Movie, or Documentary?",Answer Series
+derek,3,Is title 'derek' original Netflix content?,Answer Yes,5,"Is Netflix title 'derek' a Series, Movie, or Documentary?",Answer Series
+santa clarita diet,3,Is title 'santa clarita diet' original Netflix content?,Answer Yes,18,"Is Netflix title 'santa clarita diet' a Series, Movie, or Documentary?",Answer Series
+sarah  duck,3,Is title 'sarah  duck' original Netflix content?,Answer No,11,"Is Netflix title 'sarah  duck' a Series, Movie, or Documentary?",Answer Series
+the boat,3,Is title 'the boat' original Netflix content?,Answer No,8,"Is Netflix title 'the boat' a Series, Movie, or Documentary?",Answer Movie
+super monsters,3,Is title 'super monsters' original Netflix content?,Answer Yes,14,"Is Netflix title 'super monsters' a Series, Movie, or Documentary?",Answer Series
+ajin demihuman,3,Is title 'ajin demihuman' original Netflix content?,Answer No,14,"Is Netflix title 'ajin demihuman' a Series, Movie, or Documentary?",Answer Series
+mighty raju,3,Is title 'mighty raju' original Netflix content?,Answer No,11,"Is Netflix title 'mighty raju' a Series, Movie, or Documentary?",Answer Series
+checkout,3,Is title 'checkout' original Netflix content?,Answer: No,8,"Is Netflix title 'checkout' a Series, Movie, or Documentary?",Answer Series
+maggie  bianca fashion friends,3,Is title 'maggie  bianca fashion friends' original Netflix content?,Answer No,30,"Is Netflix title 'maggie  bianca fashion friends' a Series, Movie, or Documentary?",Answer Series
+danger mouse classic collection,3,Is title 'danger mouse classic collection' original Netflix content?,Answer No,31,"Is Netflix title 'danger mouse classic collection' a Series, Movie, or Documentary?",Answer Series
+tales by light,3,Is title 'tales by light' original Netflix content?,Answer Yes,14,"Is Netflix title 'tales by light' a Series, Movie, or Documentary?",Answer Series
+blown away,3,Is title 'blown away' original Netflix content?,Answer Yes,10,"Is Netflix title 'blown away' a Series, Movie, or Documentary?",Answer Series
+dope,3,Is title 'dope' original Netflix content?,Answer No,4,"Is Netflix title 'dope' a Series, Movie, or Documentary?",Answer Series
+bling empire,3,Is title 'bling empire' original Netflix content?,Answer Yes,12,"Is Netflix title 'bling empire' a Series, Movie, or Documentary?",Answer Series
+merl,3,Is title 'merl' original Netflix content?,Answer: No,4,"Is Netflix title 'merl' a Series, Movie, or Documentary?","Answer: It is unclear as there is no known Netflix title called ""merl."""
+busted,3,Is title 'busted' original Netflix content?,Answer Yes,6,"Is Netflix title 'busted' a Series, Movie, or Documentary?",Answer Series
+the fisherman and the city,3,Is title 'the fisherman and the city' original Netflix content?,Answer No,26,"Is Netflix title 'the fisherman and the city' a Series, Movie, or Documentary?",Answer Series
+scissor seven,3,Is title 'scissor seven' original Netflix content?,Answer Yes,13,"Is Netflix title 'scissor seven' a Series, Movie, or Documentary?",Answer Series
+the least expected day inside the movistar team 2019,3,Is title 'the least expected day inside the movistar team 2019' original Netflix content?,Answer Yes,52,"Is Netflix title 'the least expected day inside the movistar team 2019' a Series, Movie, or Documentary?",Answer Documentary
+indian matchmaking,3,Is title 'indian matchmaking' original Netflix content?,Answer Yes,18,"Is Netflix title 'indian matchmaking' a Series, Movie, or Documentary?",Answer Series
+motherland,3,Is title 'motherland' original Netflix content?,Answer: No,10,"Is Netflix title 'motherland' a Series, Movie, or Documentary?",Answer Series
+the platform,3,Is title 'the platform' original Netflix content?,Answer Yes,12,"Is Netflix title 'the platform' a Series, Movie, or Documentary?",Answer Movie
+gormiti,3,Is title 'gormiti' original Netflix content?,Answer No,7,"Is Netflix title 'gormiti' a Series, Movie, or Documentary?",Answer Series
+the rain,3,Is title 'the rain' original Netflix content?,Answer Yes,8,"Is Netflix title 'the rain' a Series, Movie, or Documentary?",Answer Series
+victorious,3,Is title 'victorious' original Netflix content?,Answer No,10,"Is Netflix title 'victorious' a Series, Movie, or Documentary?",Answer Series
+hannibal,3,Is title 'hannibal' original Netflix content?,Answer No,8,"Is Netflix title 'hannibal' a Series, Movie, or Documentary?",Answer Series
+mr bean the animated series,3,Is title 'mr bean the animated series' original Netflix content?,Answer No,27,"Is Netflix title 'mr bean the animated series' a Series, Movie, or Documentary?",Answer Series
+the umbrella academy,3,Is title 'the umbrella academy' original Netflix content?,Answer Yes,20,"Is Netflix title 'the umbrella academy' a Series, Movie, or Documentary?",Answer Series
+one day at a time,3,Is title 'one day at a time' original Netflix content?,Answer Yes,17,"Is Netflix title 'one day at a time' a Series, Movie, or Documentary?",Answer Series
+mentai piriri,3,Is title 'mentai piriri' original Netflix content?,Answer: No,13,"Is Netflix title 'mentai piriri' a Series, Movie, or Documentary?",Answer: This title does not appear to be a known Netflix title.
+jack irish the series,3,Is title 'jack irish the series' original Netflix content?,Answer No,21,"Is Netflix title 'jack irish the series' a Series, Movie, or Documentary?",Answer Series
+charit,3,Is title 'charit' original Netflix content?,Answer No,6,"Is Netflix title 'charit' a Series, Movie, or Documentary?",Answer Series
+master of none,3,Is title 'master of none' original Netflix content?,Answer Yes,14,"Is Netflix title 'master of none' a Series, Movie, or Documentary?",Answer Series
+who killed sara,3,Is title 'who killed sara' original Netflix content?,Answer Yes,15,"Is Netflix title 'who killed sara' a Series, Movie, or Documentary?",Answer Series
+lovesick,3,Is title 'lovesick' original Netflix content?,Answer Yes,8,"Is Netflix title 'lovesick' a Series, Movie, or Documentary?",Answer Series
+after life,3,Is title 'after life' original Netflix content?,Answer Yes,10,"Is Netflix title 'after life' a Series, Movie, or Documentary?",Answer Series
+the borgias 2011,3,Is title 'the borgias 2011' original Netflix content?,Answer No,16,"Is Netflix title 'the borgias 2011' a Series, Movie, or Documentary?",Answer Series
+popples,3,Is title 'popples' original Netflix content?,Answer No,7,"Is Netflix title 'popples' a Series, Movie, or Documentary?",Answer Series
+the penthouse war in life,3,Is title 'the penthouse war in life' original Netflix content?,Answer No,25,"Is Netflix title 'the penthouse war in life' a Series, Movie, or Documentary?",Answer Series
+the crime,3,Is title 'the crime' original Netflix content?,Answer: No,9,"Is Netflix title 'the crime' a Series, Movie, or Documentary?",Answer Series
+turbo fast,3,Is title 'turbo fast' original Netflix content?,Answer Yes,10,"Is Netflix title 'turbo fast' a Series, Movie, or Documentary?",Answer Series
+valeria,3,Is title 'valeria' original Netflix content?,Answer Yes,7,"Is Netflix title 'valeria' a Series, Movie, or Documentary?",Answer Series
+the rookie,3,Is title 'the rookie' original Netflix content?,Answer No,10,"Is Netflix title 'the rookie' a Series, Movie, or Documentary?",Answer Series
+babylon berlin,3,Is title 'babylon berlin' original Netflix content?,Answer No,14,"Is Netflix title 'babylon berlin' a Series, Movie, or Documentary?",Answer Series
+the windsors,3,Is title 'the windsors' original Netflix content?,Answer No,12,"Is Netflix title 'the windsors' a Series, Movie, or Documentary?",Answer Series
+hey duggee,3,Is title 'hey duggee' original Netflix content?,Answer No,10,"Is Netflix title 'hey duggee' a Series, Movie, or Documentary?",Answer Series
+janet king,3,Is title 'janet king' original Netflix content?,Answer No,10,"Is Netflix title 'janet king' a Series, Movie, or Documentary?",Answer Series
+el chapo,3,Is title 'el chapo' original Netflix content?,Answer No,8,"Is Netflix title 'el chapo' a Series, Movie, or Documentary?",Answer Series
+heidi 2015,3,Is title 'heidi 2015' original Netflix content?,Answer No,10,"Is Netflix title 'heidi 2015' a Series, Movie, or Documentary?",Answer Series
+fairies albums,3,Is title 'fairies albums' original Netflix content?,Answer No,14,"Is Netflix title 'fairies albums' a Series, Movie, or Documentary?",Answer: Series
+undercover,3,Is title 'undercover' original Netflix content?,Answer Yes,10,"Is Netflix title 'undercover' a Series, Movie, or Documentary?",Answer Series
+life after lockup,3,Is title 'life after lockup' original Netflix content?,Answer No,17,"Is Netflix title 'life after lockup' a Series, Movie, or Documentary?",Answer Series
+shooter,3,Is title 'shooter' original Netflix content?,Answer No,7,"Is Netflix title 'shooter' a Series, Movie, or Documentary?",Answer Series
+glitch,3,Is title 'glitch' original Netflix content?,Answer No,6,"Is Netflix title 'glitch' a Series, Movie, or Documentary?",Answer Series
+beyblade,3,Is title 'beyblade' original Netflix content?,Answer No,8,"Is Netflix title 'beyblade' a Series, Movie, or Documentary?",Answer Series
+the house of flowers,3,Is title 'the house of flowers' original Netflix content?,Answer Yes,20,"Is Netflix title 'the house of flowers' a Series, Movie, or Documentary?",Answer Series
+catching killers,3,Is title 'catching killers' original Netflix content?,Answer No,16,"Is Netflix title 'catching killers' a Series, Movie, or Documentary?",Answer Series
+the disastrous life of saiki k,3,Is title 'the disastrous life of saiki k' original Netflix content?,Answer No,30,"Is Netflix title 'the disastrous life of saiki k' a Series, Movie, or Documentary?",Answer Series
+berserk,3,Is title 'berserk' original Netflix content?,Answer No,7,"Is Netflix title 'berserk' a Series, Movie, or Documentary?",Answer Series
+zoo 2015,3,Is title 'zoo 2015' original Netflix content?,Answer No,8,"Is Netflix title 'zoo 2015' a Series, Movie, or Documentary?",Answer Series
+teasing master takagisan,3,Is title 'teasing master takagisan' original Netflix content?,Answer No,24,"Is Netflix title 'teasing master takagisan' a Series, Movie, or Documentary?",Answer Series
+how to sell drugs online fast,3,Is title 'how to sell drugs online fast' original Netflix content?,Answer Yes,29,"Is Netflix title 'how to sell drugs online fast' a Series, Movie, or Documentary?",Answer Series
+the game 2006,3,Is title 'the game 2006' original Netflix content?,Answer No,13,"Is Netflix title 'the game 2006' a Series, Movie, or Documentary?",Answer Movie
+haunted,3,Is title 'haunted' original Netflix content?,Answer Yes,7,"Is Netflix title 'haunted' a Series, Movie, or Documentary?",Answer Series
+angry birds summer madness,3,Is title 'angry birds summer madness' original Netflix content?,Answer Yes,26,"Is Netflix title 'angry birds summer madness' a Series, Movie, or Documentary?",Answer Series
+couples come dine with me,3,Is title 'couples come dine with me' original Netflix content?,Answer No,25,"Is Netflix title 'couples come dine with me' a Series, Movie, or Documentary?",Answer Series
+skylanders academy,3,Is title 'skylanders academy' original Netflix content?,Answer Yes,18,"Is Netflix title 'skylanders academy' a Series, Movie, or Documentary?",Answer Series
+exorcist,3,Is title 'exorcist' original Netflix content?,Answer No,8,"Is Netflix title 'exorcist' a Series, Movie, or Documentary?",Answer Series
+costa,3,Is title 'costa' original Netflix content?,Answer: No,5,"Is Netflix title 'costa' a Series, Movie, or Documentary?",Answer: It could be any of the three options without more specific information.
+love after lockup,3,Is title 'love after lockup' original Netflix content?,Answer No,17,"Is Netflix title 'love after lockup' a Series, Movie, or Documentary?",Answer Series
+anne with an e,3,Is title 'anne with an e' original Netflix content?,Answer Yes,14,"Is Netflix title 'anne with an e' a Series, Movie, or Documentary?",Answer Series
+kid cosmic,3,Is title 'kid cosmic' original Netflix content?,Answer Yes,10,"Is Netflix title 'kid cosmic' a Series, Movie, or Documentary?",Answer Series
+beat bugs,3,Is title 'beat bugs' original Netflix content?,Answer Yes,9,"Is Netflix title 'beat bugs' a Series, Movie, or Documentary?",Answer Series
+johan falk,3,Is title 'johan falk' original Netflix content?,Answer No,10,"Is Netflix title 'johan falk' a Series, Movie, or Documentary?",Answer Series
+zatch bell,3,Is title 'zatch bell' original Netflix content?,Answer No,10,"Is Netflix title 'zatch bell' a Series, Movie, or Documentary?",Answer Series
+moving art,3,Is title 'moving art' original Netflix content?,Answer Yes,10,"Is Netflix title 'moving art' a Series, Movie, or Documentary?",Answer Series
+two sentence horror stories,3,Is title 'two sentence horror stories' original Netflix content?,Answer No,27,"Is Netflix title 'two sentence horror stories' a Series, Movie, or Documentary?",Answer Series
+upper middle bogan,3,Is title 'upper middle bogan' original Netflix content?,Answer No,18,"Is Netflix title 'upper middle bogan' a Series, Movie, or Documentary?",Answer Series
+mighty little bheem,3,Is title 'mighty little bheem' original Netflix content?,Answer Yes,19,"Is Netflix title 'mighty little bheem' a Series, Movie, or Documentary?",Answer Series
+new school,3,Is title 'new school' original Netflix content?,Answer: No,10,"Is Netflix title 'new school' a Series, Movie, or Documentary?",Answer: Series
+dead to me,3,Is title 'dead to me' original Netflix content?,Answer Yes,10,"Is Netflix title 'dead to me' a Series, Movie, or Documentary?",Answer Series
+the legacy,3,Is title 'the legacy' original Netflix content?,Answer No,10,"Is Netflix title 'the legacy' a Series, Movie, or Documentary?",Answer Series
+narcos mexico,3,Is title 'narcos mexico' original Netflix content?,Answer Yes,13,"Is Netflix title 'narcos mexico' a Series, Movie, or Documentary?",Answer Series
+kipo and the age of wonderbeasts,3,Is title 'kipo and the age of wonderbeasts' original Netflix content?,Answer Yes,32,"Is Netflix title 'kipo and the age of wonderbeasts' a Series, Movie, or Documentary?",Answer Series
+magic for humans,3,Is title 'magic for humans' original Netflix content?,Answer Yes,16,"Is Netflix title 'magic for humans' a Series, Movie, or Documentary?",Answer Series
+yoohoo to the rescue,3,Is title 'yoohoo to the rescue' original Netflix content?,Answer Yes,20,"Is Netflix title 'yoohoo to the rescue' a Series, Movie, or Documentary?",Answer Series
+larva,3,Is title 'larva' original Netflix content?,Answer No,5,"Is Netflix title 'larva' a Series, Movie, or Documentary?",Answer Series
+shadow,3,Is title 'shadow' original Netflix content?,Answer No,6,"Is Netflix title 'shadow' a Series, Movie, or Documentary?",Answer Series
+bloodline,3,Is title 'bloodline' original Netflix content?,Answer Yes,9,"Is Netflix title 'bloodline' a Series, Movie, or Documentary?",Answer Series
+mr osomatsu,3,Is title 'mr osomatsu' original Netflix content?,Answer No,11,"Is Netflix title 'mr osomatsu' a Series, Movie, or Documentary?",Answer Series
+summertime,3,Is title 'summertime' original Netflix content?,Answer: Yes,10,"Is Netflix title 'summertime' a Series, Movie, or Documentary?",Answer Series
+dr stone,3,Is title 'dr stone' original Netflix content?,Answer No,8,"Is Netflix title 'dr stone' a Series, Movie, or Documentary?",Answer Series
+meet the adebanjos,3,Is title 'meet the adebanjos' original Netflix content?,Answer No,18,"Is Netflix title 'meet the adebanjos' a Series, Movie, or Documentary?",Answer Series
+my magic pet morphle,3,Is title 'my magic pet morphle' original Netflix content?,Answer No,20,"Is Netflix title 'my magic pet morphle' a Series, Movie, or Documentary?",Answer Series
+golden kamuy,3,Is title 'golden kamuy' original Netflix content?,Answer No,12,"Is Netflix title 'golden kamuy' a Series, Movie, or Documentary?",Answer Series
+bordertown,3,Is title 'bordertown' original Netflix content?,Answer No,10,"Is Netflix title 'bordertown' a Series, Movie, or Documentary?",Answer Series
+explained,3,Is title 'explained' original Netflix content?,Answer Yes,9,"Is Netflix title 'explained' a Series, Movie, or Documentary?",Answer Series
+bread barbershop,3,Is title 'bread barbershop' original Netflix content?,Answer No,16,"Is Netflix title 'bread barbershop' a Series, Movie, or Documentary?",Answer Series
+millennials 2018,3,Is title 'millennials 2018' original Netflix content?,Answer: No,16,"Is Netflix title 'millennials 2018' a Series, Movie, or Documentary?",Answer Documentary
+animal park,2,Is title 'animal park' original Netflix content?,Answer No,11,"Is Netflix title 'animal park' a Series, Movie, or Documentary?",Answer Series
+neds declassified school survival guide,2,Is title 'neds declassified school survival guide' original Netflix content?,Answer No,39,"Is Netflix title 'neds declassified school survival guide' a Series, Movie, or Documentary?",Answer Series
+ever night,2,Is title 'ever night' original Netflix content?,Answer No,10,"Is Netflix title 'ever night' a Series, Movie, or Documentary?",Answer Series
+the journalist,2,Is title 'the journalist' original Netflix content?,Answer: No,14,"Is Netflix title 'the journalist' a Series, Movie, or Documentary?",Answer Movie
+ben  hollys little kingdom,2,Is title 'ben  hollys little kingdom' original Netflix content?,Answer No,26,"Is Netflix title 'ben  hollys little kingdom' a Series, Movie, or Documentary?",Answer Series
+the inbestigators,2,Is title 'the inbestigators' original Netflix content?,Answer No,17,"Is Netflix title 'the inbestigators' a Series, Movie, or Documentary?",Answer Series
+sailor moon s,2,Is title 'sailor moon s' original Netflix content?,Answer No,13,"Is Netflix title 'sailor moon s' a Series, Movie, or Documentary?",Answer Series
+dark desire,2,Is title 'dark desire' original Netflix content?,Answer Yes,11,"Is Netflix title 'dark desire' a Series, Movie, or Documentary?",Answer Series
+firefly lane,2,Is title 'firefly lane' original Netflix content?,Answer Yes,12,"Is Netflix title 'firefly lane' a Series, Movie, or Documentary?",Answer Series
+dogs,2,Is title 'dogs' original Netflix content?,Answer Yes,4,"Is Netflix title 'dogs' a Series, Movie, or Documentary?",Answer Series
+queen,2,Is title 'queen' original Netflix content?,Answer: No,5,"Is Netflix title 'queen' a Series, Movie, or Documentary?","Answer: It could refer to multiple titles on Netflix, so without more specific information, it is unclear whether it is a Series, Movie, or Documentary."
+cowboy bebop,2,Is title 'cowboy bebop' original Netflix content?,Answer No,12,"Is Netflix title 'cowboy bebop' a Series, Movie, or Documentary?",Answer Series
+mohammed ali road,2,Is title 'mohammed ali road' original Netflix content?,Answer No,17,"Is Netflix title 'mohammed ali road' a Series, Movie, or Documentary?",Answer Documentary
+mythomaniac,2,Is title 'mythomaniac' original Netflix content?,Answer Yes,11,"Is Netflix title 'mythomaniac' a Series, Movie, or Documentary?",Answer Series
+pinkfong dance workout,2,Is title 'pinkfong dance workout' original Netflix content?,Answer No,22,"Is Netflix title 'pinkfong dance workout' a Series, Movie, or Documentary?",Answer Series
+robot trains,2,Is title 'robot trains' original Netflix content?,Answer No,12,"Is Netflix title 'robot trains' a Series, Movie, or Documentary?",Answer Series
+peter rabbit,2,Is title 'peter rabbit' original Netflix content?,Answer No,12,"Is Netflix title 'peter rabbit' a Series, Movie, or Documentary?",Answer Movie
+missing,2,Is title 'missing' original Netflix content?,"Answer: It is unclear as there are multiple titles with the name ""Missing"" on Netflix. Some may be original content while others may not be.",7,"Is Netflix title 'missing' a Series, Movie, or Documentary?",Answer Series
+bottersnikes  gumbles,2,Is title 'bottersnikes  gumbles' original Netflix content?,Answer Yes,21,"Is Netflix title 'bottersnikes  gumbles' a Series, Movie, or Documentary?",Answer Series
+some assembly required,2,Is title 'some assembly required' original Netflix content?,Answer No,22,"Is Netflix title 'some assembly required' a Series, Movie, or Documentary?",Answer Series
+the worlds most amazing vacation rentals,2,Is title 'the worlds most amazing vacation rentals' original Netflix content?,Answer Yes,40,"Is Netflix title 'the worlds most amazing vacation rentals' a Series, Movie, or Documentary?",Answer Series
+young royals,2,Is title 'young royals' original Netflix content?,Answer Yes,12,"Is Netflix title 'young royals' a Series, Movie, or Documentary?",Answer Series
+the mechanism,2,Is title 'the mechanism' original Netflix content?,Answer Yes,13,"Is Netflix title 'the mechanism' a Series, Movie, or Documentary?",Answer Series
+kong king of the apes,2,Is title 'kong king of the apes' original Netflix content?,Answer No,21,"Is Netflix title 'kong king of the apes' a Series, Movie, or Documentary?",Answer Series
+cry babies magic tears,2,Is title 'cry babies magic tears' original Netflix content?,Answer No,22,"Is Netflix title 'cry babies magic tears' a Series, Movie, or Documentary?",Answer Series
+oddballs,2,Is title 'oddballs' original Netflix content?,Answer: No,8,"Is Netflix title 'oddballs' a Series, Movie, or Documentary?",Answer Series
+the bureau of magical things,2,Is title 'the bureau of magical things' original Netflix content?,Answer No,28,"Is Netflix title 'the bureau of magical things' a Series, Movie, or Documentary?",Answer Series
+singles inferno,2,Is title 'singles inferno' original Netflix content?,Answer Yes,15,"Is Netflix title 'singles inferno' a Series, Movie, or Documentary?",Answer Series
+sexlife,2,Is title 'sexlife' original Netflix content?,Answer Yes,7,"Is Netflix title 'sexlife' a Series, Movie, or Documentary?",Answer Series
+the sea beyond,2,Is title 'the sea beyond' original Netflix content?,Answer: No,14,"Is Netflix title 'the sea beyond' a Series, Movie, or Documentary?",Answer Series
+ragnarok,2,Is title 'ragnarok' original Netflix content?,Answer Yes,8,"Is Netflix title 'ragnarok' a Series, Movie, or Documentary?",Answer Series
+lets go galaxy guards,2,Is title 'lets go galaxy guards' original Netflix content?,Answer No,21,"Is Netflix title 'lets go galaxy guards' a Series, Movie, or Documentary?",Answer: Series
+star trek the animated series,2,Is title 'star trek the animated series' original Netflix content?,Answer No,29,"Is Netflix title 'star trek the animated series' a Series, Movie, or Documentary?",Answer Series
+back to life,2,Is title 'back to life' original Netflix content?,Answer No,12,"Is Netflix title 'back to life' a Series, Movie, or Documentary?",Answer Series
+the chosen one,2,Is title 'the chosen one' original Netflix content?,Answer Yes,14,"Is Netflix title 'the chosen one' a Series, Movie, or Documentary?",Answer Series
+the way of the househusband,2,Is title 'the way of the househusband' original Netflix content?,Answer No,27,"Is Netflix title 'the way of the househusband' a Series, Movie, or Documentary?",Answer Series
+pacific rim the black,2,Is title 'pacific rim the black' original Netflix content?,Answer Yes,21,"Is Netflix title 'pacific rim the black' a Series, Movie, or Documentary?",Answer Series
+motown magic,2,Is title 'motown magic' original Netflix content?,Answer Yes,12,"Is Netflix title 'motown magic' a Series, Movie, or Documentary?",Answer Series
+i am georgina,2,Is title 'i am georgina' original Netflix content?,Answer: No,13,"Is Netflix title 'i am georgina' a Series, Movie, or Documentary?",Answer Series
+women of mafia,2,Is title 'women of mafia' original Netflix content?,Answer No,14,"Is Netflix title 'women of mafia' a Series, Movie, or Documentary?",Answer Series
+one born every minute 2010,2,Is title 'one born every minute 2010' original Netflix content?,Answer No,26,"Is Netflix title 'one born every minute 2010' a Series, Movie, or Documentary?",Answer Series
+the promised neverland,2,Is title 'the promised neverland' original Netflix content?,Answer No,22,"Is Netflix title 'the promised neverland' a Series, Movie, or Documentary?",Answer Series
+criminal uk,2,Is title 'criminal uk' original Netflix content?,Answer Yes,11,"Is Netflix title 'criminal uk' a Series, Movie, or Documentary?",Answer Series
+diablero,2,Is title 'diablero' original Netflix content?,Answer Yes,8,"Is Netflix title 'diablero' a Series, Movie, or Documentary?",Answer Series
+spotlight,2,Is title 'spotlight' original Netflix content?,Answer No,9,"Is Netflix title 'spotlight' a Series, Movie, or Documentary?",Answer Movie
+bella and the bulldogs,2,Is title 'bella and the bulldogs' original Netflix content?,Answer No,22,"Is Netflix title 'bella and the bulldogs' a Series, Movie, or Documentary?",Answer Series
+atlanta,2,Is title 'atlanta' original Netflix content?,Answer No,7,"Is Netflix title 'atlanta' a Series, Movie, or Documentary?",Answer Series
+cells at work 2018,2,Is title 'cells at work 2018' original Netflix content?,Answer No,18,"Is Netflix title 'cells at work 2018' a Series, Movie, or Documentary?",Answer Series
+no mercy,2,Is title 'no mercy' original Netflix content?,Answer: No,8,"Is Netflix title 'no mercy' a Series, Movie, or Documentary?","Answer: It could be either a Series or a Movie, without more specific information."
+baby ballroom,2,Is title 'baby ballroom' original Netflix content?,Answer No,13,"Is Netflix title 'baby ballroom' a Series, Movie, or Documentary?",Answer Series
+treehouse detectives,2,Is title 'treehouse detectives' original Netflix content?,Answer Yes,20,"Is Netflix title 'treehouse detectives' a Series, Movie, or Documentary?",Answer Series
+barbie it takes two,2,Is title 'barbie it takes two' original Netflix content?,Answer No,19,"Is Netflix title 'barbie it takes two' a Series, Movie, or Documentary?",Answer Movie
+altered carbon,2,Is title 'altered carbon' original Netflix content?,Answer Yes,14,"Is Netflix title 'altered carbon' a Series, Movie, or Documentary?",Answer Series
+hi come in,2,Is title 'hi come in' original Netflix content?,Answer: No,10,"Is Netflix title 'hi come in' a Series, Movie, or Documentary?",Answer: It is not a known title on Netflix.
+sick note,2,Is title 'sick note' original Netflix content?,Answer No,9,"Is Netflix title 'sick note' a Series, Movie, or Documentary?",Answer Series
+care bears  cousins,2,Is title 'care bears  cousins' original Netflix content?,Answer No,19,"Is Netflix title 'care bears  cousins' a Series, Movie, or Documentary?",Answer Series
+swap shop,2,Is title 'swap shop' original Netflix content?,Answer: No,9,"Is Netflix title 'swap shop' a Series, Movie, or Documentary?",Answer Series
+the miracle,2,Is title 'the miracle' original Netflix content?,Answer No,11,"Is Netflix title 'the miracle' a Series, Movie, or Documentary?",Answer Series
+rhythm  flow france,2,Is title 'rhythm  flow france' original Netflix content?,Answer Yes,19,"Is Netflix title 'rhythm  flow france' a Series, Movie, or Documentary?",Answer Series
+rugrats 1991,2,Is title 'rugrats 1991' original Netflix content?,Answer No,12,"Is Netflix title 'rugrats 1991' a Series, Movie, or Documentary?",Answer Series
+smotherinlaw,2,Is title 'smotherinlaw' original Netflix content?,Answer No,12,"Is Netflix title 'smotherinlaw' a Series, Movie, or Documentary?",Answer: It is not a known title on Netflix.
+my sassy girl,2,Is title 'my sassy girl' original Netflix content?,Answer No,13,"Is Netflix title 'my sassy girl' a Series, Movie, or Documentary?",Answer Movie
+rebellion,2,Is title 'rebellion' original Netflix content?,Answer No,9,"Is Netflix title 'rebellion' a Series, Movie, or Documentary?",Answer Series
+one more time,2,Is title 'one more time' original Netflix content?,Answer No,13,"Is Netflix title 'one more time' a Series, Movie, or Documentary?",Answer Series
+kaak gelinler,2,Is title 'kaak gelinler' original Netflix content?,Answer: No,13,"Is Netflix title 'kaak gelinler' a Series, Movie, or Documentary?",Answer Series
+trapped 2015,2,Is title 'trapped 2015' original Netflix content?,Answer No,12,"Is Netflix title 'trapped 2015' a Series, Movie, or Documentary?",Answer Series
+sugar rush christmas,2,Is title 'sugar rush christmas' original Netflix content?,Answer Yes,20,"Is Netflix title 'sugar rush christmas' a Series, Movie, or Documentary?",Answer Series
+kaguyasama love is war 2019,2,Is title 'kaguyasama love is war 2019' original Netflix content?,Answer No,27,"Is Netflix title 'kaguyasama love is war 2019' a Series, Movie, or Documentary?",Answer Series
+mental 2019,2,Is title 'mental 2019' original Netflix content?,Answer: Yes,11,"Is Netflix title 'mental 2019' a Series, Movie, or Documentary?",Answer Movie
+invisible city,2,Is title 'invisible city' original Netflix content?,Answer Yes,14,"Is Netflix title 'invisible city' a Series, Movie, or Documentary?",Answer Series
+she,2,Is title 'she' original Netflix content?,Answer: Yes,3,"Is Netflix title 'she' a Series, Movie, or Documentary?",Answer Series
+instant hotel,2,Is title 'instant hotel' original Netflix content?,Answer No,13,"Is Netflix title 'instant hotel' a Series, Movie, or Documentary?",Answer Series
+love o2o,2,Is title 'love o2o' original Netflix content?,Answer No,8,"Is Netflix title 'love o2o' a Series, Movie, or Documentary?",Answer Series
+the spanish princess,2,Is title 'the spanish princess' original Netflix content?,Answer No,20,"Is Netflix title 'the spanish princess' a Series, Movie, or Documentary?",Answer Series
+secret,2,Is title 'secret' original Netflix content?,Answer: It is unclear without more specific information.,6,"Is Netflix title 'secret' a Series, Movie, or Documentary?",Answer: It could be any of the three options without more specific information.
+lady dynamite,2,Is title 'lady dynamite' original Netflix content?,Answer Yes,13,"Is Netflix title 'lady dynamite' a Series, Movie, or Documentary?",Answer Series
+deepa  anoop,2,Is title 'deepa  anoop' original Netflix content?,Answer: No,12,"Is Netflix title 'deepa  anoop' a Series, Movie, or Documentary?",Answer: There is no Netflix title called 'deepa anoop'.
+when missing turns to murder,2,Is title 'when missing turns to murder' original Netflix content?,Answer No,28,"Is Netflix title 'when missing turns to murder' a Series, Movie, or Documentary?",Answer Series
+spirit rangers,2,Is title 'spirit rangers' original Netflix content?,Answer No,14,"Is Netflix title 'spirit rangers' a Series, Movie, or Documentary?",Answer Series
+the end of the fing world,2,Is title 'the end of the fing world' original Netflix content?,Answer Yes,25,"Is Netflix title 'the end of the fing world' a Series, Movie, or Documentary?",Answer Series
+welcome to eden,2,Is title 'welcome to eden' original Netflix content?,Answer: Yes,15,"Is Netflix title 'welcome to eden' a Series, Movie, or Documentary?",Answer Series
+ultimate force,2,Is title 'ultimate force' original Netflix content?,Answer No,14,"Is Netflix title 'ultimate force' a Series, Movie, or Documentary?",Answer Series
+the war nextdoor,2,Is title 'the war nextdoor' original Netflix content?,Answer Yes,16,"Is Netflix title 'the war nextdoor' a Series, Movie, or Documentary?",Answer Series
+the swimmers,2,Is title 'the swimmers' original Netflix content?,Answer No,12,"Is Netflix title 'the swimmers' a Series, Movie, or Documentary?",Answer Movie
+bitter daisies,2,Is title 'bitter daisies' original Netflix content?,Answer Yes,14,"Is Netflix title 'bitter daisies' a Series, Movie, or Documentary?",Answer Series
+the rising of the shield hero,2,Is title 'the rising of the shield hero' original Netflix content?,Answer No,29,"Is Netflix title 'the rising of the shield hero' a Series, Movie, or Documentary?",Answer Series
+signal,2,Is title 'signal' original Netflix content?,Answer No,6,"Is Netflix title 'signal' a Series, Movie, or Documentary?",Answer Series
+the politician,2,Is title 'the politician' original Netflix content?,Answer Yes,14,"Is Netflix title 'the politician' a Series, Movie, or Documentary?",Answer Series
+the loud house,2,Is title 'the loud house' original Netflix content?,Answer No,14,"Is Netflix title 'the loud house' a Series, Movie, or Documentary?",Answer Series
+friends from college,2,Is title 'friends from college' original Netflix content?,Answer Yes,20,"Is Netflix title 'friends from college' a Series, Movie, or Documentary?",Answer Series
+wrong side of the tracks,2,Is title 'wrong side of the tracks' original Netflix content?,Answer: No,24,"Is Netflix title 'wrong side of the tracks' a Series, Movie, or Documentary?",Answer: Series
+titipo titipo,2,Is title 'titipo titipo' original Netflix content?,Answer No,13,"Is Netflix title 'titipo titipo' a Series, Movie, or Documentary?",Answer Series
+the team,2,Is title 'the team' original Netflix content?,Answer: No,8,"Is Netflix title 'the team' a Series, Movie, or Documentary?",Answer Series
+kono oto tomare sounds of life,2,Is title 'kono oto tomare sounds of life' original Netflix content?,Answer No,30,"Is Netflix title 'kono oto tomare sounds of life' a Series, Movie, or Documentary?",Answer Series
+blippi wonders,2,Is title 'blippi wonders' original Netflix content?,Answer No,14,"Is Netflix title 'blippi wonders' a Series, Movie, or Documentary?",Answer Series
+beastars,2,Is title 'beastars' original Netflix content?,Answer No,8,"Is Netflix title 'beastars' a Series, Movie, or Documentary?",Answer Series
+the fulltime wife escapist,2,Is title 'the fulltime wife escapist' original Netflix content?,Answer No,26,"Is Netflix title 'the fulltime wife escapist' a Series, Movie, or Documentary?",Answer Series
+iron man armored adventures,2,Is title 'iron man armored adventures' original Netflix content?,Answer No,27,"Is Netflix title 'iron man armored adventures' a Series, Movie, or Documentary?",Answer Series
+into the night,2,Is title 'into the night' original Netflix content?,Answer Yes,14,"Is Netflix title 'into the night' a Series, Movie, or Documentary?",Answer Series
+the confession tapes,2,Is title 'the confession tapes' original Netflix content?,Answer Yes,20,"Is Netflix title 'the confession tapes' a Series, Movie, or Documentary?",Answer Series
+down to earth with zac efron,2,Is title 'down to earth with zac efron' original Netflix content?,Answer Yes,28,"Is Netflix title 'down to earth with zac efron' a Series, Movie, or Documentary?",Answer Series
+lolirock,2,Is title 'lolirock' original Netflix content?,Answer No,8,"Is Netflix title 'lolirock' a Series, Movie, or Documentary?",Answer Series
+totally spies,2,Is title 'totally spies' original Netflix content?,Answer No,13,"Is Netflix title 'totally spies' a Series, Movie, or Documentary?",Answer Series
+justice league,2,Is title 'justice league' original Netflix content?,Answer No,14,"Is Netflix title 'justice league' a Series, Movie, or Documentary?",Answer Movie
+diary of tootsies,2,Is title 'diary of tootsies' original Netflix content?,Answer No,17,"Is Netflix title 'diary of tootsies' a Series, Movie, or Documentary?",Answer Series
+insiders,2,Is title 'insiders' original Netflix content?,Answer: No,8,"Is Netflix title 'insiders' a Series, Movie, or Documentary?",Answer: Series
+the journey,2,Is title 'the journey' original Netflix content?,Answer: No,11,"Is Netflix title 'the journey' a Series, Movie, or Documentary?",Answer: It could be any of the three options without more specific information.
+wild district,2,Is title 'wild district' original Netflix content?,Answer Yes,13,"Is Netflix title 'wild district' a Series, Movie, or Documentary?",Answer Series
+connected,2,Is title 'connected' original Netflix content?,Answer: Yes,9,"Is Netflix title 'connected' a Series, Movie, or Documentary?",Answer Series
+glitter force,2,Is title 'glitter force' original Netflix content?,Answer No,13,"Is Netflix title 'glitter force' a Series, Movie, or Documentary?",Answer Series
+girls5eva,2,Is title 'girls5eva' original Netflix content?,Answer Yes,9,"Is Netflix title 'girls5eva' a Series, Movie, or Documentary?",Answer Series
+team zenko go,2,Is title 'team zenko go' original Netflix content?,Answer No,13,"Is Netflix title 'team zenko go' a Series, Movie, or Documentary?",Answer Series
+hostages,2,Is title 'hostages' original Netflix content?,Answer No,8,"Is Netflix title 'hostages' a Series, Movie, or Documentary?",Answer Series
+love  anarchy,2,Is title 'love  anarchy' original Netflix content?,Answer Yes,13,"Is Netflix title 'love  anarchy' a Series, Movie, or Documentary?",Answer Series
+mtv shuga down south,2,Is title 'mtv shuga down south' original Netflix content?,Answer No,20,"Is Netflix title 'mtv shuga down south' a Series, Movie, or Documentary?",Answer Series
+secret jouju,2,Is title 'secret jouju' original Netflix content?,Answer No,12,"Is Netflix title 'secret jouju' a Series, Movie, or Documentary?",Answer Series
+dogs in space,2,Is title 'dogs in space' original Netflix content?,Answer No,13,"Is Netflix title 'dogs in space' a Series, Movie, or Documentary?",Answer Movie
+baki,2,Is title 'baki' original Netflix content?,Answer No,4,"Is Netflix title 'baki' a Series, Movie, or Documentary?",Answer Series
+yakari 2005,2,Is title 'yakari 2005' original Netflix content?,Answer No,11,"Is Netflix title 'yakari 2005' a Series, Movie, or Documentary?",Answer Series
+startup,2,Is title 'startup' original Netflix content?,Answer No,7,"Is Netflix title 'startup' a Series, Movie, or Documentary?",Answer Series
+sunderland til i die,2,Is title 'sunderland til i die' original Netflix content?,Answer No,20,"Is Netflix title 'sunderland til i die' a Series, Movie, or Documentary?",Answer Series
+ganglands,2,Is title 'ganglands' original Netflix content?,Answer Yes,9,"Is Netflix title 'ganglands' a Series, Movie, or Documentary?",Answer Series
+kayko and kokosh,2,Is title 'kayko and kokosh' original Netflix content?,Answer No,16,"Is Netflix title 'kayko and kokosh' a Series, Movie, or Documentary?",Answer Series
+the teacher 2022,2,Is title 'the teacher 2022' original Netflix content?,"Answer: It is unclear if ""The Teacher 2022"" is original Netflix content without further information.",16,"Is Netflix title 'the teacher 2022' a Series, Movie, or Documentary?",Answer Movie
+kenan and kel,2,Is title 'kenan and kel' original Netflix content?,Answer No,13,"Is Netflix title 'kenan and kel' a Series, Movie, or Documentary?",Answer Series
+unit 42,2,Is title 'unit 42' original Netflix content?,Answer No,7,"Is Netflix title 'unit 42' a Series, Movie, or Documentary?",Answer Series
+strawberry shortcake berry in the big city,2,Is title 'strawberry shortcake berry in the big city' original Netflix content?,Answer No,42,"Is Netflix title 'strawberry shortcake berry in the big city' a Series, Movie, or Documentary?",Answer Series
+zoey 101,2,Is title 'zoey 101' original Netflix content?,Answer No,8,"Is Netflix title 'zoey 101' a Series, Movie, or Documentary?",Answer Series
+can you hear me,2,Is title 'can you hear me' original Netflix content?,Answer Yes,15,"Is Netflix title 'can you hear me' a Series, Movie, or Documentary?",Answer Series
+magical andes,2,Is title 'magical andes' original Netflix content?,Answer: Yes,13,"Is Netflix title 'magical andes' a Series, Movie, or Documentary?",Answer Series
+power rangers beast morphers,2,Is title 'power rangers beast morphers' original Netflix content?,Answer No,28,"Is Netflix title 'power rangers beast morphers' a Series, Movie, or Documentary?",Answer Series
+secrets of summer,2,Is title 'secrets of summer' original Netflix content?,Answer: No,17,"Is Netflix title 'secrets of summer' a Series, Movie, or Documentary?",Answer Documentary
+unstoppable,2,Is title 'unstoppable' original Netflix content?,Answer No,11,"Is Netflix title 'unstoppable' a Series, Movie, or Documentary?",Answer Movie
+cleo  cuquin,2,Is title 'cleo  cuquin' original Netflix content?,Answer No,12,"Is Netflix title 'cleo  cuquin' a Series, Movie, or Documentary?",Answer Series
+hanasaki mai speaks out,2,Is title 'hanasaki mai speaks out' original Netflix content?,Answer: No,23,"Is Netflix title 'hanasaki mai speaks out' a Series, Movie, or Documentary?",Answer Series
+puberty blues,2,Is title 'puberty blues' original Netflix content?,Answer No,13,"Is Netflix title 'puberty blues' a Series, Movie, or Documentary?",Answer Series
+naam,2,Is title 'naam' original Netflix content?,Answer: No,4,"Is Netflix title 'naam' a Series, Movie, or Documentary?",Answer Series
+love 101,2,Is title 'love 101' original Netflix content?,Answer Yes,8,"Is Netflix title 'love 101' a Series, Movie, or Documentary?",Answer Series
+marseille,2,Is title 'marseille' original Netflix content?,Answer Yes,9,"Is Netflix title 'marseille' a Series, Movie, or Documentary?",Answer Series
+home for christmas,2,Is title 'home for christmas' original Netflix content?,Answer Yes,18,"Is Netflix title 'home for christmas' a Series, Movie, or Documentary?",Answer Series
+the babysitters club,2,Is title 'the babysitters club' original Netflix content?,Answer Yes,20,"Is Netflix title 'the babysitters club' a Series, Movie, or Documentary?",Answer Series
+dating around,2,Is title 'dating around' original Netflix content?,Answer Yes,13,"Is Netflix title 'dating around' a Series, Movie, or Documentary?",Answer Series
+way back home,2,Is title 'way back home' original Netflix content?,Answer: No,13,"Is Netflix title 'way back home' a Series, Movie, or Documentary?",Answer Movie
+world of winx,2,Is title 'world of winx' original Netflix content?,Answer Yes,13,"Is Netflix title 'world of winx' a Series, Movie, or Documentary?",Answer Series
+barbie dreamhouse adventures go team roberts,2,Is title 'barbie dreamhouse adventures go team roberts' original Netflix content?,Answer No,44,"Is Netflix title 'barbie dreamhouse adventures go team roberts' a Series, Movie, or Documentary?",Answer Series
+gigantosaurus,2,Is title 'gigantosaurus' original Netflix content?,Answer No,13,"Is Netflix title 'gigantosaurus' a Series, Movie, or Documentary?",Answer Series
+yashahime princess halfdemon,2,Is title 'yashahime princess halfdemon' original Netflix content?,Answer No,28,"Is Netflix title 'yashahime princess halfdemon' a Series, Movie, or Documentary?",Answer Series
+he who cant marry,2,Is title 'he who cant marry' original Netflix content?,Answer No,17,"Is Netflix title 'he who cant marry' a Series, Movie, or Documentary?",Answer Series
+mobile suit gundam 00,2,Is title 'mobile suit gundam 00' original Netflix content?,Answer No,21,"Is Netflix title 'mobile suit gundam 00' a Series, Movie, or Documentary?",Answer Series
+yummy mummies,2,Is title 'yummy mummies' original Netflix content?,Answer No,13,"Is Netflix title 'yummy mummies' a Series, Movie, or Documentary?",Answer Series
+hoarders,2,Is title 'hoarders' original Netflix content?,Answer No,8,"Is Netflix title 'hoarders' a Series, Movie, or Documentary?",Answer Series
+alien tv,2,Is title 'alien tv' original Netflix content?,Answer No,8,"Is Netflix title 'alien tv' a Series, Movie, or Documentary?",Answer Series
+unrequited love,2,Is title 'unrequited love' original Netflix content?,Answer Yes,15,"Is Netflix title 'unrequited love' a Series, Movie, or Documentary?",Answer Series
+samsam 2007,2,Is title 'samsam 2007' original Netflix content?,Answer No,11,"Is Netflix title 'samsam 2007' a Series, Movie, or Documentary?",Answer Movie
+always a witch,2,Is title 'always a witch' original Netflix content?,Answer Yes,14,"Is Netflix title 'always a witch' a Series, Movie, or Documentary?",Answer Series
+the joel mchale show with joel mchale,2,Is title 'the joel mchale show with joel mchale' original Netflix content?,Answer Yes,37,"Is Netflix title 'the joel mchale show with joel mchale' a Series, Movie, or Documentary?",Answer Series
+feel good,2,Is title 'feel good' original Netflix content?,Answer Yes,9,"Is Netflix title 'feel good' a Series, Movie, or Documentary?",Answer Series
+timeless,2,Is title 'timeless' original Netflix content?,Answer No,8,"Is Netflix title 'timeless' a Series, Movie, or Documentary?",Answer Series
+las finest,2,Is title 'las finest' original Netflix content?,Answer No,10,"Is Netflix title 'las finest' a Series, Movie, or Documentary?",Answer Series
+gentefied,2,Is title 'gentefied' original Netflix content?,Answer Yes,9,"Is Netflix title 'gentefied' a Series, Movie, or Documentary?",Answer Series
+sunny bunnies,2,Is title 'sunny bunnies' original Netflix content?,Answer No,13,"Is Netflix title 'sunny bunnies' a Series, Movie, or Documentary?",Answer Series
+the case study of vanitas,2,Is title 'the case study of vanitas' original Netflix content?,Answer No,25,"Is Netflix title 'the case study of vanitas' a Series, Movie, or Documentary?",Answer Series
+little witch academia,2,Is title 'little witch academia' original Netflix content?,Answer No,21,"Is Netflix title 'little witch academia' a Series, Movie, or Documentary?",Answer Series
+pettersson und findus,2,Is title 'pettersson und findus' original Netflix content?,Answer No,21,"Is Netflix title 'pettersson und findus' a Series, Movie, or Documentary?",Answer Series
+the promise,2,Is title 'the promise' original Netflix content?,Answer No,11,"Is Netflix title 'the promise' a Series, Movie, or Documentary?",Answer: Movie
+katuri,2,Is title 'katuri' original Netflix content?,Answer: No,6,"Is Netflix title 'katuri' a Series, Movie, or Documentary?","Answer: There is no Netflix title called ""katuri."""
+nuri,2,Is title 'nuri' original Netflix content?,Answer: No,4,"Is Netflix title 'nuri' a Series, Movie, or Documentary?","Answer: It could be any of the three options, without more information it is difficult to determine."
+yizo yizo,2,Is title 'yizo yizo' original Netflix content?,Answer No,9,"Is Netflix title 'yizo yizo' a Series, Movie, or Documentary?",Answer Series
+wellintended love,2,Is title 'wellintended love' original Netflix content?,Answer No,17,"Is Netflix title 'wellintended love' a Series, Movie, or Documentary?",Answer Series
+the hills,2,Is title 'the hills' original Netflix content?,Answer No,9,"Is Netflix title 'the hills' a Series, Movie, or Documentary?",Answer Series
+good morning call,2,Is title 'good morning call' original Netflix content?,Answer Yes,17,"Is Netflix title 'good morning call' a Series, Movie, or Documentary?",Answer Series
+the deal,2,Is title 'the deal' original Netflix content?,Answer: No,8,"Is Netflix title 'the deal' a Series, Movie, or Documentary?",Answer: Movie
+octonauts above  beyond,2,Is title 'octonauts above  beyond' original Netflix content?,Answer Yes,23,"Is Netflix title 'octonauts above  beyond' a Series, Movie, or Documentary?",Answer Series
+clique,2,Is title 'clique' original Netflix content?,Answer No,6,"Is Netflix title 'clique' a Series, Movie, or Documentary?",Answer Series
+sexify,2,Is title 'sexify' original Netflix content?,Answer Yes,6,"Is Netflix title 'sexify' a Series, Movie, or Documentary?",Answer Series
+kochikame,2,Is title 'kochikame' original Netflix content?,Answer No,9,"Is Netflix title 'kochikame' a Series, Movie, or Documentary?",Answer Series
+ranking of kings,2,Is title 'ranking of kings' original Netflix content?,Answer No,16,"Is Netflix title 'ranking of kings' a Series, Movie, or Documentary?",Answer Series
+great british baking show juniors,2,Is title 'great british baking show juniors' original Netflix content?,Answer No,33,"Is Netflix title 'great british baking show juniors' a Series, Movie, or Documentary?",Answer Series
+wildflower,2,Is title 'wildflower' original Netflix content?,Answer No,10,"Is Netflix title 'wildflower' a Series, Movie, or Documentary?",Answer Series
+nevsu,2,Is title 'nevsu' original Netflix content?,Answer: No,5,"Is Netflix title 'nevsu' a Series, Movie, or Documentary?",Answer Series
+monarca,2,Is title 'monarca' original Netflix content?,Answer Yes,7,"Is Netflix title 'monarca' a Series, Movie, or Documentary?",Answer Series
+chief of staff,2,Is title 'chief of staff' original Netflix content?,Answer No,14,"Is Netflix title 'chief of staff' a Series, Movie, or Documentary?",Answer Series
+survivor 2000,2,Is title 'survivor 2000' original Netflix content?,Answer No,13,"Is Netflix title 'survivor 2000' a Series, Movie, or Documentary?",Answer Series
+el vato,2,Is title 'el vato' original Netflix content?,Answer No,7,"Is Netflix title 'el vato' a Series, Movie, or Documentary?",Answer Series
+kukuli,2,Is title 'kukuli' original Netflix content?,Answer No,6,"Is Netflix title 'kukuli' a Series, Movie, or Documentary?",Answer: Series
+animal,2,Is title 'animal' original Netflix content?,Answer No,6,"Is Netflix title 'animal' a Series, Movie, or Documentary?",Answer: It could be any of the three options without more specific information.
+doremi dalimi,2,Is title 'doremi dalimi' original Netflix content?,Answer No,13,"Is Netflix title 'doremi dalimi' a Series, Movie, or Documentary?",Answer: Series
+dead end paranormal park,2,Is title 'dead end paranormal park' original Netflix content?,Answer No,24,"Is Netflix title 'dead end paranormal park' a Series, Movie, or Documentary?",Answer Series
+lego bionicle the journey to one,2,Is title 'lego bionicle the journey to one' original Netflix content?,Answer Yes,32,"Is Netflix title 'lego bionicle the journey to one' a Series, Movie, or Documentary?",Answer Series
+sense8,2,Is title 'sense8' original Netflix content?,Answer Yes,6,"Is Netflix title 'sense8' a Series, Movie, or Documentary?",Answer Series
+tannbach  schicksal eines dorfes,2,Is title 'tannbach  schicksal eines dorfes' original Netflix content?,Answer No,32,"Is Netflix title 'tannbach  schicksal eines dorfes' a Series, Movie, or Documentary?",Answer Series
+forest of piano,2,Is title 'forest of piano' original Netflix content?,Answer Yes,15,"Is Netflix title 'forest of piano' a Series, Movie, or Documentary?",Answer Series
+the naked director,2,Is title 'the naked director' original Netflix content?,Answer Yes,18,"Is Netflix title 'the naked director' a Series, Movie, or Documentary?",Answer Series
+drug lords,2,Is title 'drug lords' original Netflix content?,Answer Yes,10,"Is Netflix title 'drug lords' a Series, Movie, or Documentary?",Answer Series
+100 das para enamorarnos,2,Is title '100 das para enamorarnos' original Netflix content?,Answer Yes,24,"Is Netflix title '100 das para enamorarnos' a Series, Movie, or Documentary?",Answer Series
+old peoples home for 4 year olds,2,Is title 'old peoples home for 4 year olds' original Netflix content?,Answer No,32,"Is Netflix title 'old peoples home for 4 year olds' a Series, Movie, or Documentary?",Answer Series
+power rangers ninja steel,2,Is title 'power rangers ninja steel' original Netflix content?,Answer No,25,"Is Netflix title 'power rangers ninja steel' a Series, Movie, or Documentary?",Answer Series
+biohackers,2,Is title 'biohackers' original Netflix content?,Answer Yes,10,"Is Netflix title 'biohackers' a Series, Movie, or Documentary?",Answer Series
+barbapapa,2,Is title 'barbapapa' original Netflix content?,Answer No,9,"Is Netflix title 'barbapapa' a Series, Movie, or Documentary?",Answer Series
+shadows house,2,Is title 'shadows house' original Netflix content?,Answer No,13,"Is Netflix title 'shadows house' a Series, Movie, or Documentary?",Answer Series
+the kingdom,2,Is title 'the kingdom' original Netflix content?,Answer No,11,"Is Netflix title 'the kingdom' a Series, Movie, or Documentary?",Answer Series
+sugar rush,2,Is title 'sugar rush' original Netflix content?,Answer Yes,10,"Is Netflix title 'sugar rush' a Series, Movie, or Documentary?",Answer Series
+the break,2,Is title 'the break' original Netflix content?,Answer No,9,"Is Netflix title 'the break' a Series, Movie, or Documentary?",Answer Series
+new world,2,Is title 'new world' original Netflix content?,Answer: No,9,"Is Netflix title 'new world' a Series, Movie, or Documentary?","Answer: It could refer to either a Series or a Movie, as there are multiple titles with the name ""New World"" on Netflix."
+mortel,2,Is title 'mortel' original Netflix content?,Answer Yes,6,"Is Netflix title 'mortel' a Series, Movie, or Documentary?",Answer Series
+the club,2,Is title 'the club' original Netflix content?,Answer: No,8,"Is Netflix title 'the club' a Series, Movie, or Documentary?",Answer Series
+history 101,2,Is title 'history 101' original Netflix content?,Answer Yes,11,"Is Netflix title 'history 101' a Series, Movie, or Documentary?",Answer Series
+imposters,2,Is title 'imposters' original Netflix content?,Answer No,9,"Is Netflix title 'imposters' a Series, Movie, or Documentary?",Answer Series
+abstract the art of design,2,Is title 'abstract the art of design' original Netflix content?,Answer Yes,26,"Is Netflix title 'abstract the art of design' a Series, Movie, or Documentary?",Answer Series
+happy,2,Is title 'happy' original Netflix content?,Answer No,5,"Is Netflix title 'happy' a Series, Movie, or Documentary?",Answer Series
+first love,2,Is title 'first love' original Netflix content?,Answer No,10,"Is Netflix title 'first love' a Series, Movie, or Documentary?",Answer Movie
+the frankenstein chronicles,2,Is title 'the frankenstein chronicles' original Netflix content?,Answer No,27,"Is Netflix title 'the frankenstein chronicles' a Series, Movie, or Documentary?",Answer Series
+to your eternity,2,Is title 'to your eternity' original Netflix content?,Answer No,16,"Is Netflix title 'to your eternity' a Series, Movie, or Documentary?",Answer Series
+the island with bear grylls,2,Is title 'the island with bear grylls' original Netflix content?,Answer No,27,"Is Netflix title 'the island with bear grylls' a Series, Movie, or Documentary?",Answer Series
+benjamin blmchen 2002,2,Is title 'benjamin blmchen 2002' original Netflix content?,Answer No,21,"Is Netflix title 'benjamin blmchen 2002' a Series, Movie, or Documentary?",Answer Movie
+super wings,2,Is title 'super wings' original Netflix content?,Answer No,11,"Is Netflix title 'super wings' a Series, Movie, or Documentary?",Answer Series
+rotten,2,Is title 'rotten' original Netflix content?,Answer Yes,6,"Is Netflix title 'rotten' a Series, Movie, or Documentary?",Answer Series
+luna petunia return to amazia,2,Is title 'luna petunia return to amazia' original Netflix content?,Answer Yes,29,"Is Netflix title 'luna petunia return to amazia' a Series, Movie, or Documentary?",Answer Series
+tayo the little bus,2,Is title 'tayo the little bus' original Netflix content?,Answer No,19,"Is Netflix title 'tayo the little bus' a Series, Movie, or Documentary?",Answer Series
+sisters,2,Is title 'sisters' original Netflix content?,Answer No,7,"Is Netflix title 'sisters' a Series, Movie, or Documentary?",Answer Series
+mismatched,2,Is title 'mismatched' original Netflix content?,Answer Yes,10,"Is Netflix title 'mismatched' a Series, Movie, or Documentary?",Answer Series
+girls from ipanema,2,Is title 'girls from ipanema' original Netflix content?,Answer Yes,18,"Is Netflix title 'girls from ipanema' a Series, Movie, or Documentary?",Answer Series
+bagman,2,Is title 'bagman' original Netflix content?,Answer No,6,"Is Netflix title 'bagman' a Series, Movie, or Documentary?",Answer Series
+justice league unlimited,2,Is title 'justice league unlimited' original Netflix content?,Answer No,24,"Is Netflix title 'justice league unlimited' a Series, Movie, or Documentary?",Answer Series
+transformers cyberverse,2,Is title 'transformers cyberverse' original Netflix content?,Answer No,23,"Is Netflix title 'transformers cyberverse' a Series, Movie, or Documentary?",Answer Series
+the unxplained with william shatner,2,Is title 'the unxplained with william shatner' original Netflix content?,Answer No,35,"Is Netflix title 'the unxplained with william shatner' a Series, Movie, or Documentary?",Answer Series
+marlon,2,Is title 'marlon' original Netflix content?,Answer No,6,"Is Netflix title 'marlon' a Series, Movie, or Documentary?",Answer Series
+salvation,2,Is title 'salvation' original Netflix content?,Answer No,9,"Is Netflix title 'salvation' a Series, Movie, or Documentary?",Answer Series
+seraph of the end,2,Is title 'seraph of the end' original Netflix content?,Answer No,17,"Is Netflix title 'seraph of the end' a Series, Movie, or Documentary?",Answer Series
+laidback camp,2,Is title 'laidback camp' original Netflix content?,Answer No,13,"Is Netflix title 'laidback camp' a Series, Movie, or Documentary?",Answer Series
+pororo  the little penguin,2,Is title 'pororo  the little penguin' original Netflix content?,Answer No,26,"Is Netflix title 'pororo  the little penguin' a Series, Movie, or Documentary?",Answer Series
+all american homecoming,2,Is title 'all american homecoming' original Netflix content?,Answer No,23,"Is Netflix title 'all american homecoming' a Series, Movie, or Documentary?",Answer Series
+million dollar listing new york,2,Is title 'million dollar listing new york' original Netflix content?,Answer No,31,"Is Netflix title 'million dollar listing new york' a Series, Movie, or Documentary?",Answer Series
+confession,2,Is title 'confession' original Netflix content?,Answer No,10,"Is Netflix title 'confession' a Series, Movie, or Documentary?",Answer Series
+broken,2,Is title 'broken' original Netflix content?,Answer Yes,6,"Is Netflix title 'broken' a Series, Movie, or Documentary?",Answer Series
+love on the spectrum australia,2,Is title 'love on the spectrum australia' original Netflix content?,Answer Yes,30,"Is Netflix title 'love on the spectrum australia' a Series, Movie, or Documentary?",Answer Series
+13 reasons why beyond the reasons,2,Is title '13 reasons why beyond the reasons' original Netflix content?,Answer Yes,33,"Is Netflix title '13 reasons why beyond the reasons' a Series, Movie, or Documentary?",Answer Documentary
+old enough,2,Is title 'old enough' original Netflix content?,Answer: No,10,"Is Netflix title 'old enough' a Series, Movie, or Documentary?",Answer Movie
+the hollow,2,Is title 'the hollow' original Netflix content?,Answer Yes,10,"Is Netflix title 'the hollow' a Series, Movie, or Documentary?",Answer Series
+inspectre,2,Is title 'inspectre' original Netflix content?,Answer No,9,"Is Netflix title 'inspectre' a Series, Movie, or Documentary?",Answer Series
+dino girl gauko,2,Is title 'dino girl gauko' original Netflix content?,Answer Yes,15,"Is Netflix title 'dino girl gauko' a Series, Movie, or Documentary?",Answer Series
+vinland saga,2,Is title 'vinland saga' original Netflix content?,Answer No,12,"Is Netflix title 'vinland saga' a Series, Movie, or Documentary?",Answer Series
+spy kids mission critical,2,Is title 'spy kids mission critical' original Netflix content?,Answer Yes,25,"Is Netflix title 'spy kids mission critical' a Series, Movie, or Documentary?",Answer Series
+the good detective,2,Is title 'the good detective' original Netflix content?,Answer No,18,"Is Netflix title 'the good detective' a Series, Movie, or Documentary?",Answer Series
+special,2,Is title 'special' original Netflix content?,Answer Yes,7,"Is Netflix title 'special' a Series, Movie, or Documentary?",Answer Series
+knightfall,2,Is title 'knightfall' original Netflix content?,Answer No,10,"Is Netflix title 'knightfall' a Series, Movie, or Documentary?",Answer Series
+twenty your life on,2,Is title 'twenty your life on' original Netflix content?,Answer No,19,"Is Netflix title 'twenty your life on' a Series, Movie, or Documentary?",Answer Series
+change days,2,Is title 'change days' original Netflix content?,Answer: No,11,"Is Netflix title 'change days' a Series, Movie, or Documentary?",Answer: Series
+go jetters,2,Is title 'go jetters' original Netflix content?,Answer No,10,"Is Netflix title 'go jetters' a Series, Movie, or Documentary?",Answer Series
+rough cut,2,Is title 'rough cut' original Netflix content?,Answer: No,9,"Is Netflix title 'rough cut' a Series, Movie, or Documentary?","Answer: It could be either a Series or a Movie, without more specific information."
+sonic boom,2,Is title 'sonic boom' original Netflix content?,Answer No,10,"Is Netflix title 'sonic boom' a Series, Movie, or Documentary?",Answer Series
+hi score girl,2,Is title 'hi score girl' original Netflix content?,Answer No,13,"Is Netflix title 'hi score girl' a Series, Movie, or Documentary?",Answer Series
+mindhunter,2,Is title 'mindhunter' original Netflix content?,Answer Yes,10,"Is Netflix title 'mindhunter' a Series, Movie, or Documentary?",Answer Series
+bake squad,2,Is title 'bake squad' original Netflix content?,Answer Yes,10,"Is Netflix title 'bake squad' a Series, Movie, or Documentary?",Answer Series
+toy boy,2,Is title 'toy boy' original Netflix content?,Answer Yes,7,"Is Netflix title 'toy boy' a Series, Movie, or Documentary?",Answer Series
+zombielars,2,Is title 'zombielars' original Netflix content?,Answer No,10,"Is Netflix title 'zombielars' a Series, Movie, or Documentary?","Answer: It seems like there is no Netflix title called ""zombielars."""
+hello carbot 5,2,Is title 'hello carbot 5' original Netflix content?,Answer No,14,"Is Netflix title 'hello carbot 5' a Series, Movie, or Documentary?",Answer Series
+bridgerton,2,Is title 'bridgerton' original Netflix content?,Answer Yes,10,"Is Netflix title 'bridgerton' a Series, Movie, or Documentary?",Answer Series
+rebelde,2,Is title 'rebelde' original Netflix content?,Answer No,7,"Is Netflix title 'rebelde' a Series, Movie, or Documentary?",Answer Series
+kuromukuro,2,Is title 'kuromukuro' original Netflix content?,Answer No,10,"Is Netflix title 'kuromukuro' a Series, Movie, or Documentary?",Answer Series
+thomas  friends all engines go,2,Is title 'thomas  friends all engines go' original Netflix content?,Answer No,30,"Is Netflix title 'thomas  friends all engines go' a Series, Movie, or Documentary?",Answer Series
+below deck,2,Is title 'below deck' original Netflix content?,Answer No,10,"Is Netflix title 'below deck' a Series, Movie, or Documentary?",Answer Series
+kung fu panda the dragon knight,2,Is title 'kung fu panda the dragon knight' original Netflix content?,Answer No,31,"Is Netflix title 'kung fu panda the dragon knight' a Series, Movie, or Documentary?",Answer Movie
+secrets of great british castles,2,Is title 'secrets of great british castles' original Netflix content?,Answer No,32,"Is Netflix title 'secrets of great british castles' a Series, Movie, or Documentary?",Answer Series
+insatiable,2,Is title 'insatiable' original Netflix content?,Answer Yes,10,"Is Netflix title 'insatiable' a Series, Movie, or Documentary?",Answer Series
+the a list,2,Is title 'the a list' original Netflix content?,Answer Yes,10,"Is Netflix title 'the a list' a Series, Movie, or Documentary?",Answer Series
+bonding,2,Is title 'bonding' original Netflix content?,Answer Yes,7,"Is Netflix title 'bonding' a Series, Movie, or Documentary?",Answer Series
+get organized with the home edit,2,Is title 'get organized with the home edit' original Netflix content?,Answer Yes,32,"Is Netflix title 'get organized with the home edit' a Series, Movie, or Documentary?",Answer Series
+top boy,2,Is title 'top boy' original Netflix content?,Answer Yes,7,"Is Netflix title 'top boy' a Series, Movie, or Documentary?",Answer Series
+irohani chidori,2,Is title 'irohani chidori' original Netflix content?,Answer No,15,"Is Netflix title 'irohani chidori' a Series, Movie, or Documentary?",Answer: It is not a known title on Netflix.
+white gold,2,Is title 'white gold' original Netflix content?,Answer No,10,"Is Netflix title 'white gold' a Series, Movie, or Documentary?",Answer Series
+armored saurus,2,Is title 'armored saurus' original Netflix content?,Answer No,14,"Is Netflix title 'armored saurus' a Series, Movie, or Documentary?",Answer Series
+taarak mehta kka chhota chashmah,2,Is title 'taarak mehta kka chhota chashmah' original Netflix content?,Answer No,32,"Is Netflix title 'taarak mehta kka chhota chashmah' a Series, Movie, or Documentary?",Answer Series
+marco polo,2,Is title 'marco polo' original Netflix content?,Answer Yes,10,"Is Netflix title 'marco polo' a Series, Movie, or Documentary?",Answer Series
+dancing queen,2,Is title 'dancing queen' original Netflix content?,Answer Yes,13,"Is Netflix title 'dancing queen' a Series, Movie, or Documentary?",Answer Series
+the city of friends,2,Is title 'the city of friends' original Netflix content?,Answer No,19,"Is Netflix title 'the city of friends' a Series, Movie, or Documentary?",Answer Series
+reboot the guardian code,2,Is title 'reboot the guardian code' original Netflix content?,Answer No,24,"Is Netflix title 'reboot the guardian code' a Series, Movie, or Documentary?",Answer Series
+flaked,2,Is title 'flaked' original Netflix content?,Answer Yes,6,"Is Netflix title 'flaked' a Series, Movie, or Documentary?",Answer Series
+dr romantic,2,Is title 'dr romantic' original Netflix content?,Answer No,11,"Is Netflix title 'dr romantic' a Series, Movie, or Documentary?",Answer Series
+till death,2,Is title 'till death' original Netflix content?,Answer: No,10,"Is Netflix title 'till death' a Series, Movie, or Documentary?",Answer Movie
+the order,2,Is title 'the order' original Netflix content?,Answer Yes,9,"Is Netflix title 'the order' a Series, Movie, or Documentary?",Answer Series
+the big family cooking showdown,2,Is title 'the big family cooking showdown' original Netflix content?,Answer Yes,31,"Is Netflix title 'the big family cooking showdown' a Series, Movie, or Documentary?",Answer Series
+the new legends of monkey,2,Is title 'the new legends of monkey' original Netflix content?,Answer No,25,"Is Netflix title 'the new legends of monkey' a Series, Movie, or Documentary?",Answer Series
+inazuma eleven,2,Is title 'inazuma eleven' original Netflix content?,Answer No,14,"Is Netflix title 'inazuma eleven' a Series, Movie, or Documentary?",Answer Series
+acquitted,2,Is title 'acquitted' original Netflix content?,Answer No,9,"Is Netflix title 'acquitted' a Series, Movie, or Documentary?",Answer Series
+the boss baby back in the crib,2,Is title 'the boss baby back in the crib' original Netflix content?,Answer Yes,30,"Is Netflix title 'the boss baby back in the crib' a Series, Movie, or Documentary?",Answer Series
+last chance u basketball,2,Is title 'last chance u basketball' original Netflix content?,Answer Yes,24,"Is Netflix title 'last chance u basketball' a Series, Movie, or Documentary?",Answer Series
+between,2,Is title 'between' original Netflix content?,Answer Yes,7,"Is Netflix title 'between' a Series, Movie, or Documentary?",Answer Series
+she was pretty,2,Is title 'she was pretty' original Netflix content?,Answer No,14,"Is Netflix title 'she was pretty' a Series, Movie, or Documentary?",Answer Series
+partners for justice,2,Is title 'partners for justice' original Netflix content?,Answer No,20,"Is Netflix title 'partners for justice' a Series, Movie, or Documentary?",Answer Series
+cupcake  dino  general services,2,Is title 'cupcake  dino  general services' original Netflix content?,Answer Yes,31,"Is Netflix title 'cupcake  dino  general services' a Series, Movie, or Documentary?",Answer Series
+kidecats,2,Is title 'kidecats' original Netflix content?,Answer No,8,"Is Netflix title 'kidecats' a Series, Movie, or Documentary?",Answer: Series
+oh my ghost,2,Is title 'oh my ghost' original Netflix content?,Answer No,11,"Is Netflix title 'oh my ghost' a Series, Movie, or Documentary?",Answer Series
+fabulous lives of bollywood wives,2,Is title 'fabulous lives of bollywood wives' original Netflix content?,Answer Yes,33,"Is Netflix title 'fabulous lives of bollywood wives' a Series, Movie, or Documentary?",Answer Series
+ben x jim,2,Is title 'ben x jim' original Netflix content?,Answer: No,9,"Is Netflix title 'ben x jim' a Series, Movie, or Documentary?",Answer Movie
+fire force,2,Is title 'fire force' original Netflix content?,Answer No,10,"Is Netflix title 'fire force' a Series, Movie, or Documentary?",Answer Series
+scoobydoo mystery incorporated,2,Is title 'scoobydoo mystery incorporated' original Netflix content?,Answer No,30,"Is Netflix title 'scoobydoo mystery incorporated' a Series, Movie, or Documentary?",Answer Series
+big timber,2,Is title 'big timber' original Netflix content?,Answer No,10,"Is Netflix title 'big timber' a Series, Movie, or Documentary?",Answer Series
+over water,2,Is title 'over water' original Netflix content?,Answer No,10,"Is Netflix title 'over water' a Series, Movie, or Documentary?",Answer Series
+archibalds next big thing,2,Is title 'archibalds next big thing' original Netflix content?,Answer Yes,25,"Is Netflix title 'archibalds next big thing' a Series, Movie, or Documentary?",Answer Series
+the future diary,2,Is title 'the future diary' original Netflix content?,Answer No,16,"Is Netflix title 'the future diary' a Series, Movie, or Documentary?",Answer Series
+mia and me,2,Is title 'mia and me' original Netflix content?,Answer No,10,"Is Netflix title 'mia and me' a Series, Movie, or Documentary?",Answer Series
+you are the apple of my eye,2,Is title 'you are the apple of my eye' original Netflix content?,Answer No,27,"Is Netflix title 'you are the apple of my eye' a Series, Movie, or Documentary?",Answer Movie
+great news,2,Is title 'great news' original Netflix content?,Answer No,10,"Is Netflix title 'great news' a Series, Movie, or Documentary?",Answer Series
+the magic school bus rides again,2,Is title 'the magic school bus rides again' original Netflix content?,Answer Yes,32,"Is Netflix title 'the magic school bus rides again' a Series, Movie, or Documentary?",Answer Series
+teen mom 2,2,Is title 'teen mom 2' original Netflix content?,Answer No,10,"Is Netflix title 'teen mom 2' a Series, Movie, or Documentary?",Answer Series
+safe house,2,Is title 'safe house' original Netflix content?,Answer No,10,"Is Netflix title 'safe house' a Series, Movie, or Documentary?",Answer Series
+sexy beasts,2,Is title 'sexy beasts' original Netflix content?,Answer Yes,11,"Is Netflix title 'sexy beasts' a Series, Movie, or Documentary?",Answer Series
+a beautiful life,2,Is title 'a beautiful life' original Netflix content?,Answer No,16,"Is Netflix title 'a beautiful life' a Series, Movie, or Documentary?",Answer Movie
+the marked heart,2,Is title 'the marked heart' original Netflix content?,Answer: No,16,"Is Netflix title 'the marked heart' a Series, Movie, or Documentary?","Answer: It could be any of the three options, as there is no specific title on Netflix called 'the marked heart'."
+aduh bibikku,2,Is title 'aduh bibikku' original Netflix content?,Answer: No,12,"Is Netflix title 'aduh bibikku' a Series, Movie, or Documentary?",Answer Series
+ingobernable,2,Is title 'ingobernable' original Netflix content?,Answer Yes,12,"Is Netflix title 'ingobernable' a Series, Movie, or Documentary?",Answer Series
+below the surface,2,Is title 'below the surface' original Netflix content?,Answer No,17,"Is Netflix title 'below the surface' a Series, Movie, or Documentary?",Answer Series
+little baby bum nursery rhyme friends,2,Is title 'little baby bum nursery rhyme friends' original Netflix content?,Answer Yes,37,"Is Netflix title 'little baby bum nursery rhyme friends' a Series, Movie, or Documentary?",Answer Series
+danger mouse,2,Is title 'danger mouse' original Netflix content?,Answer No,12,"Is Netflix title 'danger mouse' a Series, Movie, or Documentary?",Answer Series
+abby hatcher,2,Is title 'abby hatcher' original Netflix content?,Answer No,12,"Is Netflix title 'abby hatcher' a Series, Movie, or Documentary?",Answer Series
+tayos singalong show,2,Is title 'tayos singalong show' original Netflix content?,Answer No,20,"Is Netflix title 'tayos singalong show' a Series, Movie, or Documentary?",Answer Series
+yoshimoto shinkigeki,2,Is title 'yoshimoto shinkigeki' original Netflix content?,Answer No,20,"Is Netflix title 'yoshimoto shinkigeki' a Series, Movie, or Documentary?",Answer Series
+real rob,2,Is title 'real rob' original Netflix content?,Answer Yes,8,"Is Netflix title 'real rob' a Series, Movie, or Documentary?",Answer Series
+close enough,2,Is title 'close enough' original Netflix content?,Answer Yes,12,"Is Netflix title 'close enough' a Series, Movie, or Documentary?",Answer Series
+larva island,2,Is title 'larva island' original Netflix content?,Answer Yes,12,"Is Netflix title 'larva island' a Series, Movie, or Documentary?",Answer Series
+trailer park boys the animated series,2,Is title 'trailer park boys the animated series' original Netflix content?,Answer Yes,37,"Is Netflix title 'trailer park boys the animated series' a Series, Movie, or Documentary?",Answer Series
+zig  sharko,2,Is title 'zig  sharko' original Netflix content?,Answer No,11,"Is Netflix title 'zig  sharko' a Series, Movie, or Documentary?",Answer Series
+kongsuni and friends,2,Is title 'kongsuni and friends' original Netflix content?,Answer No,20,"Is Netflix title 'kongsuni and friends' a Series, Movie, or Documentary?",Answer Series
+another life,2,Is title 'another life' original Netflix content?,Answer Yes,12,"Is Netflix title 'another life' a Series, Movie, or Documentary?",Answer Series
+interior design masters,2,Is title 'interior design masters' original Netflix content?,Answer No,23,"Is Netflix title 'interior design masters' a Series, Movie, or Documentary?",Answer Series
+peps,2,Is title 'peps' original Netflix content?,Answer: No,4,"Is Netflix title 'peps' a Series, Movie, or Documentary?",Answer: There is no Netflix title called 'peps'.
+harley quinn,2,Is title 'harley quinn' original Netflix content?,Answer No,12,"Is Netflix title 'harley quinn' a Series, Movie, or Documentary?",Answer Series
+flowers,2,Is title 'flowers' original Netflix content?,Answer Yes,7,"Is Netflix title 'flowers' a Series, Movie, or Documentary?",Answer Series
+twinkle prichannel,2,Is title 'twinkle prichannel' original Netflix content?,Answer No,18,"Is Netflix title 'twinkle prichannel' a Series, Movie, or Documentary?",Answer: Series
+ranma 12,2,Is title 'ranma 12' original Netflix content?,Answer No,8,"Is Netflix title 'ranma 12' a Series, Movie, or Documentary?",Answer Series
+llama llama,2,Is title 'llama llama' original Netflix content?,Answer Yes,11,"Is Netflix title 'llama llama' a Series, Movie, or Documentary?",Answer Series
+restaurants on the edge,2,Is title 'restaurants on the edge' original Netflix content?,Answer Yes,23,"Is Netflix title 'restaurants on the edge' a Series, Movie, or Documentary?",Answer Series
+young famous  african,2,Is title 'young famous  african' original Netflix content?,Answer: No,21,"Is Netflix title 'young famous  african' a Series, Movie, or Documentary?",Answer Series
+angry birds,2,Is title 'angry birds' original Netflix content?,Answer No,11,"Is Netflix title 'angry birds' a Series, Movie, or Documentary?",Answer Movie
+record of ragnarok,2,Is title 'record of ragnarok' original Netflix content?,Answer No,18,"Is Netflix title 'record of ragnarok' a Series, Movie, or Documentary?",Answer Series
+sweet tooth,2,Is title 'sweet tooth' original Netflix content?,Answer Yes,11,"Is Netflix title 'sweet tooth' a Series, Movie, or Documentary?",Answer Series
+las muecas de la mafia,2,Is title 'las muecas de la mafia' original Netflix content?,Answer No,22,"Is Netflix title 'las muecas de la mafia' a Series, Movie, or Documentary?",Answer Series
+trinkets,2,Is title 'trinkets' original Netflix content?,Answer Yes,8,"Is Netflix title 'trinkets' a Series, Movie, or Documentary?",Answer Series
+el prncipe,2,Is title 'el prncipe' original Netflix content?,Answer No,10,"Is Netflix title 'el prncipe' a Series, Movie, or Documentary?",Answer Series
+action pack,2,Is title 'action pack' original Netflix content?,Answer No,11,"Is Netflix title 'action pack' a Series, Movie, or Documentary?",Answer Series
+glitter force doki doki,2,Is title 'glitter force doki doki' original Netflix content?,Answer No,23,"Is Netflix title 'glitter force doki doki' a Series, Movie, or Documentary?",Answer Series
+ejen ali,2,Is title 'ejen ali' original Netflix content?,Answer No,8,"Is Netflix title 'ejen ali' a Series, Movie, or Documentary?",Answer Series
+black summer,2,Is title 'black summer' original Netflix content?,Answer Yes,12,"Is Netflix title 'black summer' a Series, Movie, or Documentary?",Answer Series
+castle rock,2,Is title 'castle rock' original Netflix content?,Answer No,11,"Is Netflix title 'castle rock' a Series, Movie, or Documentary?",Answer Series
+all for love,2,Is title 'all for love' original Netflix content?,Answer Yes,12,"Is Netflix title 'all for love' a Series, Movie, or Documentary?",Answer Series
+centaurworld,2,Is title 'centaurworld' original Netflix content?,Answer Yes,12,"Is Netflix title 'centaurworld' a Series, Movie, or Documentary?",Answer Series
+nate is late,2,Is title 'nate is late' original Netflix content?,Answer No,12,"Is Netflix title 'nate is late' a Series, Movie, or Documentary?",Answer Series
+kamisama kiss,2,Is title 'kamisama kiss' original Netflix content?,Answer No,13,"Is Netflix title 'kamisama kiss' a Series, Movie, or Documentary?",Answer Series
+forged in fire knife or death,2,Is title 'forged in fire knife or death' original Netflix content?,Answer No,29,"Is Netflix title 'forged in fire knife or death' a Series, Movie, or Documentary?",Answer Series
+love now,2,Is title 'love now' original Netflix content?,Answer: No,8,"Is Netflix title 'love now' a Series, Movie, or Documentary?",Answer Series
+superbro,2,Is title 'superbro' original Netflix content?,Answer No,8,"Is Netflix title 'superbro' a Series, Movie, or Documentary?",Answer: It is not a known title on Netflix.
+liar,2,Is title 'liar' original Netflix content?,Answer No,4,"Is Netflix title 'liar' a Series, Movie, or Documentary?",Answer Series
+father matteo,2,Is title 'father matteo' original Netflix content?,Answer No,13,"Is Netflix title 'father matteo' a Series, Movie, or Documentary?",Answer Series
+rise of the teenage mutant ninja turtles,2,Is title 'rise of the teenage mutant ninja turtles' original Netflix content?,Answer No,40,"Is Netflix title 'rise of the teenage mutant ninja turtles' a Series, Movie, or Documentary?",Answer Series
+masameer county,2,Is title 'masameer county' original Netflix content?,Answer No,15,"Is Netflix title 'masameer county' a Series, Movie, or Documentary?",Answer Series
+love alarm,2,Is title 'love alarm' original Netflix content?,Answer Yes,10,"Is Netflix title 'love alarm' a Series, Movie, or Documentary?",Answer Series
+log horizon,2,Is title 'log horizon' original Netflix content?,Answer No,11,"Is Netflix title 'log horizon' a Series, Movie, or Documentary?",Answer Series
+glitch techs,2,Is title 'glitch techs' original Netflix content?,Answer No,12,"Is Netflix title 'glitch techs' a Series, Movie, or Documentary?",Answer Series
+gegege no kitaro 6,2,Is title 'gegege no kitaro 6' original Netflix content?,Answer No,18,"Is Netflix title 'gegege no kitaro 6' a Series, Movie, or Documentary?",Answer Series
+a love so beautiful,2,Is title 'a love so beautiful' original Netflix content?,Answer No,19,"Is Netflix title 'a love so beautiful' a Series, Movie, or Documentary?",Answer Series
+my first first love,2,Is title 'my first first love' original Netflix content?,Answer Yes,19,"Is Netflix title 'my first first love' a Series, Movie, or Documentary?",Answer Series
+onepunch man,2,Is title 'onepunch man' original Netflix content?,Answer No,12,"Is Netflix title 'onepunch man' a Series, Movie, or Documentary?",Answer Series
+laguna beach,2,Is title 'laguna beach' original Netflix content?,Answer No,12,"Is Netflix title 'laguna beach' a Series, Movie, or Documentary?",Answer Series
+bad banks,2,Is title 'bad banks' original Netflix content?,Answer No,9,"Is Netflix title 'bad banks' a Series, Movie, or Documentary?",Answer Series
+gleboka woda,2,Is title 'gleboka woda' original Netflix content?,Answer: Yes,12,"Is Netflix title 'gleboka woda' a Series, Movie, or Documentary?",Answer Series
+gogglesprogs,2,Is title 'gogglesprogs' original Netflix content?,Answer No,12,"Is Netflix title 'gogglesprogs' a Series, Movie, or Documentary?",Answer Series
+russian doll,2,Is title 'russian doll' original Netflix content?,Answer Yes,12,"Is Netflix title 'russian doll' a Series, Movie, or Documentary?",Answer Series
+la piloto,2,Is title 'la piloto' original Netflix content?,Answer No,9,"Is Netflix title 'la piloto' a Series, Movie, or Documentary?",Answer Series
+the master plan,2,Is title 'the master plan' original Netflix content?,Answer: No,15,"Is Netflix title 'the master plan' a Series, Movie, or Documentary?",Answer Series
+for life,2,Is title 'for life' original Netflix content?,Answer No,8,"Is Netflix title 'for life' a Series, Movie, or Documentary?",Answer Series
+dirk gentlys holistic detective agency,2,Is title 'dirk gentlys holistic detective agency' original Netflix content?,Answer No,38,"Is Netflix title 'dirk gentlys holistic detective agency' a Series, Movie, or Documentary?",Answer Series
+girl from nowhere,2,Is title 'girl from nowhere' original Netflix content?,Answer No,17,"Is Netflix title 'girl from nowhere' a Series, Movie, or Documentary?",Answer Series
+hilda,2,Is title 'hilda' original Netflix content?,Answer Yes,5,"Is Netflix title 'hilda' a Series, Movie, or Documentary?",Answer Series
+dragons rescue riders,2,Is title 'dragons rescue riders' original Netflix content?,Answer Yes,21,"Is Netflix title 'dragons rescue riders' a Series, Movie, or Documentary?",Answer Series
+raising dion,2,Is title 'raising dion' original Netflix content?,Answer Yes,12,"Is Netflix title 'raising dion' a Series, Movie, or Documentary?",Answer Series
+varg veum,2,Is title 'varg veum' original Netflix content?,Answer No,9,"Is Netflix title 'varg veum' a Series, Movie, or Documentary?",Answer Series
+fastest car,2,Is title 'fastest car' original Netflix content?,Answer Yes,11,"Is Netflix title 'fastest car' a Series, Movie, or Documentary?",Answer Series
+hache,2,Is title 'hache' original Netflix content?,Answer Yes,5,"Is Netflix title 'hache' a Series, Movie, or Documentary?",Answer Series
+the neighbor,2,Is title 'the neighbor' original Netflix content?,Answer No,12,"Is Netflix title 'the neighbor' a Series, Movie, or Documentary?",Answer Series
+radiant,2,Is title 'radiant' original Netflix content?,Answer No,7,"Is Netflix title 'radiant' a Series, Movie, or Documentary?",Answer Series
+tiffany haddish presents they ready,2,Is title 'tiffany haddish presents they ready' original Netflix content?,Answer Yes,35,"Is Netflix title 'tiffany haddish presents they ready' a Series, Movie, or Documentary?",Answer Series
+detention,2,Is title 'detention' original Netflix content?,Answer No,9,"Is Netflix title 'detention' a Series, Movie, or Documentary?",Answer Series
+sonic x,2,Is title 'sonic x' original Netflix content?,Answer No,7,"Is Netflix title 'sonic x' a Series, Movie, or Documentary?",Answer Series
+power rangers dino fury,2,Is title 'power rangers dino fury' original Netflix content?,Answer No,23,"Is Netflix title 'power rangers dino fury' a Series, Movie, or Documentary?",Answer Series
+karde pay,2,Is title 'karde pay' original Netflix content?,Answer: No,9,"Is Netflix title 'karde pay' a Series, Movie, or Documentary?",Answer Series
+masaba masaba,2,Is title 'masaba masaba' original Netflix content?,Answer Yes,13,"Is Netflix title 'masaba masaba' a Series, Movie, or Documentary?",Answer Series
+stranger,2,Is title 'stranger' original Netflix content?,Answer No,8,"Is Netflix title 'stranger' a Series, Movie, or Documentary?","Answer: It could refer to the series ""Stranger Things"" or another title, so it would depend on the specific content being referred to."
+modus,2,Is title 'modus' original Netflix content?,Answer No,5,"Is Netflix title 'modus' a Series, Movie, or Documentary?",Answer Series
+signs,2,Is title 'signs' original Netflix content?,Answer No,5,"Is Netflix title 'signs' a Series, Movie, or Documentary?",Answer Series
+the daily life of the immortal king,2,Is title 'the daily life of the immortal king' original Netflix content?,Answer No,35,"Is Netflix title 'the daily life of the immortal king' a Series, Movie, or Documentary?",Answer Series
+edgar rice burroughs tarzan and jane,2,Is title 'edgar rice burroughs tarzan and jane' original Netflix content?,Answer Yes,36,"Is Netflix title 'edgar rice burroughs tarzan and jane' a Series, Movie, or Documentary?",Answer Series
+brotherhood,2,Is title 'brotherhood' original Netflix content?,Answer: No,11,"Is Netflix title 'brotherhood' a Series, Movie, or Documentary?",Answer Series
+handsome siblings,2,Is title 'handsome siblings' original Netflix content?,Answer No,17,"Is Netflix title 'handsome siblings' a Series, Movie, or Documentary?",Answer Series
+lego friends the power of friendship,2,Is title 'lego friends the power of friendship' original Netflix content?,Answer No,36,"Is Netflix title 'lego friends the power of friendship' a Series, Movie, or Documentary?",Answer Series
+odd squad,2,Is title 'odd squad' original Netflix content?,Answer No,9,"Is Netflix title 'odd squad' a Series, Movie, or Documentary?",Answer Series
+doraemon,2,Is title 'doraemon' original Netflix content?,Answer No,8,"Is Netflix title 'doraemon' a Series, Movie, or Documentary?",Answer Series
+hospital playlist,2,Is title 'hospital playlist' original Netflix content?,Answer No,17,"Is Netflix title 'hospital playlist' a Series, Movie, or Documentary?",Answer Series
+chewing gum,2,Is title 'chewing gum' original Netflix content?,Answer Yes,11,"Is Netflix title 'chewing gum' a Series, Movie, or Documentary?",Answer Series
+almost happy,2,Is title 'almost happy' original Netflix content?,Answer Yes,12,"Is Netflix title 'almost happy' a Series, Movie, or Documentary?",Answer Series
+samurai rabbit the usagi chronicles,2,Is title 'samurai rabbit the usagi chronicles' original Netflix content?,Answer No,35,"Is Netflix title 'samurai rabbit the usagi chronicles' a Series, Movie, or Documentary?",Answer Series
+robozuna,2,Is title 'robozuna' original Netflix content?,Answer No,8,"Is Netflix title 'robozuna' a Series, Movie, or Documentary?",Answer Series
+redfern now,2,Is title 'redfern now' original Netflix content?,Answer No,11,"Is Netflix title 'redfern now' a Series, Movie, or Documentary?",Answer Series
+the haunted house,2,Is title 'the haunted house' original Netflix content?,Answer: No,17,"Is Netflix title 'the haunted house' a Series, Movie, or Documentary?",Answer Series
+delhi crime,2,Is title 'delhi crime' original Netflix content?,Answer Yes,11,"Is Netflix title 'delhi crime' a Series, Movie, or Documentary?",Answer Series
+baptiste,2,Is title 'baptiste' original Netflix content?,Answer No,8,"Is Netflix title 'baptiste' a Series, Movie, or Documentary?",Answer Series
+harry enfields television programme,2,Is title 'harry enfields television programme' original Netflix content?,Answer No,35,"Is Netflix title 'harry enfields television programme' a Series, Movie, or Documentary?",Answer Series
+black spot,2,Is title 'black spot' original Netflix content?,Answer No,10,"Is Netflix title 'black spot' a Series, Movie, or Documentary?",Answer Series
+tobot galaxy detectives,2,Is title 'tobot galaxy detectives' original Netflix content?,Answer No,23,"Is Netflix title 'tobot galaxy detectives' a Series, Movie, or Documentary?",Answer Series
+oggy oggy,2,Is title 'oggy oggy' original Netflix content?,Answer Yes,9,"Is Netflix title 'oggy oggy' a Series, Movie, or Documentary?",Answer Series
+the letdown,2,Is title 'the letdown' original Netflix content?,Answer Yes,11,"Is Netflix title 'the letdown' a Series, Movie, or Documentary?",Answer Series
+the witcher bestiary,2,Is title 'the witcher bestiary' original Netflix content?,Answer No,20,"Is Netflix title 'the witcher bestiary' a Series, Movie, or Documentary?",Answer Series
+fatezero,2,Is title 'fatezero' original Netflix content?,Answer No,8,"Is Netflix title 'fatezero' a Series, Movie, or Documentary?",Answer Series
+revenger,2,Is title 'revenger' original Netflix content?,Answer No,8,"Is Netflix title 'revenger' a Series, Movie, or Documentary?",Answer Movie
+amazing hotels life beyond the lobby,2,Is title 'amazing hotels life beyond the lobby' original Netflix content?,Answer Yes,36,"Is Netflix title 'amazing hotels life beyond the lobby' a Series, Movie, or Documentary?",Answer Series
+galinha pintadinha mini,2,Is title 'galinha pintadinha mini' original Netflix content?,Answer No,23,"Is Netflix title 'galinha pintadinha mini' a Series, Movie, or Documentary?",Answer Series
+alice in borderland,2,Is title 'alice in borderland' original Netflix content?,Answer Yes,19,"Is Netflix title 'alice in borderland' a Series, Movie, or Documentary?",Answer Series
+sesame street selections from,2,Is title 'sesame street selections from' original Netflix content?,Answer No,29,"Is Netflix title 'sesame street selections from' a Series, Movie, or Documentary?",Answer Series
+warrior nun,2,Is title 'warrior nun' original Netflix content?,Answer Yes,11,"Is Netflix title 'warrior nun' a Series, Movie, or Documentary?",Answer Series
+buddi,2,Is title 'buddi' original Netflix content?,Answer Yes,5,"Is Netflix title 'buddi' a Series, Movie, or Documentary?",Answer Series
+your home made perfect,2,Is title 'your home made perfect' original Netflix content?,Answer No,22,"Is Netflix title 'your home made perfect' a Series, Movie, or Documentary?",Answer Series
+dirty money,2,Is title 'dirty money' original Netflix content?,Answer Yes,11,"Is Netflix title 'dirty money' a Series, Movie, or Documentary?",Answer Series
+the shannara chronicles,2,Is title 'the shannara chronicles' original Netflix content?,Answer No,23,"Is Netflix title 'the shannara chronicles' a Series, Movie, or Documentary?",Answer Series
+rentagirlfriend,2,Is title 'rentagirlfriend' original Netflix content?,Answer No,15,"Is Netflix title 'rentagirlfriend' a Series, Movie, or Documentary?",Answer Series
+unriddle,2,Is title 'unriddle' original Netflix content?,Answer No,8,"Is Netflix title 'unriddle' a Series, Movie, or Documentary?",Answer Series
+veggietales in the city,2,Is title 'veggietales in the city' original Netflix content?,Answer Yes,23,"Is Netflix title 'veggietales in the city' a Series, Movie, or Documentary?",Answer Series
+the iron squad,2,Is title 'the iron squad' original Netflix content?,Answer: No,14,"Is Netflix title 'the iron squad' a Series, Movie, or Documentary?",Answer Series
+puffin rock,2,Is title 'puffin rock' original Netflix content?,Answer Yes,11,"Is Netflix title 'puffin rock' a Series, Movie, or Documentary?",Answer Series
+johnny test,2,Is title 'johnny test' original Netflix content?,Answer No,11,"Is Netflix title 'johnny test' a Series, Movie, or Documentary?",Answer Series
+talking tom and friends,2,Is title 'talking tom and friends' original Netflix content?,Answer No,23,"Is Netflix title 'talking tom and friends' a Series, Movie, or Documentary?",Answer Series
+capitani,2,Is title 'capitani' original Netflix content?,Answer Yes,8,"Is Netflix title 'capitani' a Series, Movie, or Documentary?",Answer Series
+h2o mermaid adventures,2,Is title 'h2o mermaid adventures' original Netflix content?,Answer No,22,"Is Netflix title 'h2o mermaid adventures' a Series, Movie, or Documentary?",Answer Series
+creeped out,2,Is title 'creeped out' original Netflix content?,Answer No,11,"Is Netflix title 'creeped out' a Series, Movie, or Documentary?",Answer Series
+pup academy,2,Is title 'pup academy' original Netflix content?,Answer No,11,"Is Netflix title 'pup academy' a Series, Movie, or Documentary?",Answer Series
+cheer,2,Is title 'cheer' original Netflix content?,Answer Yes,5,"Is Netflix title 'cheer' a Series, Movie, or Documentary?",Answer Series

@@ -1,0 +1,619 @@
+Title,Genre,Premiere,Clean_Title,wiki_is_original
+Stranger Things,Science fiction horror,"July 15, 2016",stranger things,Yes
+The Umbrella Academy,Superhero action,"February 15, 2019",the umbrella academy,Yes
+Virgin River,Romantic drama,"December 6, 2019",virgin river,Yes
+The Witcher,Fantasy drama,"December 20, 2019",the witcher,Yes
+Outer Banks,Coming-of-age drama,"April 15, 2020",outer banks,Yes
+Sweet Magnolias,Romantic drama,"May 19, 2020",sweet magnolias,Yes
+Blood & Water,Teen drama,"May 20, 2020",blood  water,Yes
+Bridgerton,Alternate historical romance,"December 25, 2020",bridgerton,Yes
+Ginny & Georgia,Coming-of-age drama,"February 24, 2021",ginny  georgia,Yes
+Sweet Tooth,Fantasy drama,"June 4, 2021",sweet tooth,Yes
+Vikings: Valhalla,Historical drama,"February 25, 2022",vikings valhalla,Yes
+Savage Beauty,Drama,"May 12, 2022",savage beauty,Yes
+The Lincoln Lawyer,Legal thriller,"May 13, 2022",the lincoln lawyer,Yes
+The Sandman,Fantasy,"August 5, 2022",the sandman,Yes
+Heartbreak High,Teen drama,"September 14, 2022",heartbreak high,Yes
+The Watcher,Horror,"October 13, 2022",the watcher,Yes
+The Recruit,Spy adventure,"December 16, 2022",the recruit,Yes
+The Night Agent,Political thriller,"March 23, 2023",the night agent,Yes
+The Diplomat,Political thriller,"April 20, 2023",the diplomat,Yes
+Fatal Seduction,Thriller,"July 7, 2023",fatal seduction,Yes
+Miseducation,Coming-of-age drama,"September 15, 2023",miseducation,Yes
+My Life with the Walter Boys,Romantic drama,"December 7, 2023",my life with the walter boys,Yes
+3 Body Problem,Science fiction,"March 21, 2024",body problem,Yes
+Dead Boy Detectives,Supernatural drama,"April 25, 2024",dead boy detectives,Yes
+Postcards,Drama,"May 3, 2024",postcards,Yes
+Eric[32][33],Crime drama,"May 30, 2024[34]",eric,Yes
+Geek Girl[36],Teen drama,"May 30, 2024[37]",geek girl,Yes
+Òlòtūré: The Journey[38],Drama,"June 28, 2024[19][39]",ltr the journey,Yes
+Emily in Paris,Comedy drama,"October 2, 2020",emily in paris,Yes
+The Upshaws,Sitcom,"May 12, 2021",the upshaws,Yes
+Mo,Comedy,"August 24, 2022",mo,Yes
+Wednesday,Comedy horror,"November 23, 2022",wednesday,Yes
+That '90s Show,Period teen sitcom,"January 19, 2023",that s show,Yes
+Unstable,Workplace comedy,"March 30, 2023",unstable,Yes
+"XO, Kitty",Romance comedy drama,"May 18, 2023",xo kitty,Yes
+FUBAR,Spy action comedy,"May 25, 2023",fubar,Yes
+Survival of the Thickest,Comedy drama,"July 13, 2023",survival of the thickest,Yes
+Neon,Comedy,"October 19, 2023",neon,Yes
+Yoh! Christmas,Comedy,"December 15, 2023",yoh christmas,Yes
+The Gentlemen,Action comedy,"March 7, 2024",the gentlemen,Yes
+Bodkin,Thriller comedy drama,"May 9, 2024",bodkin,Yes
+Tires,Workplace comedy,"May 23, 2024",tires,Yes
+How to Ruin Love: The Proposal[53],Comedy,"May 31, 2024",how to ruin love the proposal,Yes
+Nobody Wants This[54][55],Comedy,"September 26, 2024[56]",nobody wants this,Yes
+Heartstopper,Teen drama,"April 22, 2022",heartstopper,Yes
+One Piece,Action-adventure,"August 31, 2023",one piece,Yes
+Avatar: The Last Airbender,Fantasy,"February 22, 2024",avatar the last airbender,Yes
+Big Mouth,Coming-of-age comedy,"September 29, 2017",big mouth,Yes
+"Love, Death & Robots",Anthology,"March 15, 2019",love death  robots,Yes
+Mulligan,Science fiction comedy,"May 12, 2023",mulligan,Yes
+Skull Island,Adventure,"June 22, 2023",skull island,Yes
+Blue Eye Samurai,Action,"November 3, 2023",blue eye samurai,Yes
+Masters of the Universe: Revolution,Animation,"January 25, 2024",masters of the universe revolution,Yes
+Good Times,Sitcom,"April 12, 2024",good times,Yes
+Kengan Ashura,Martial arts,"July 31, 2019",kengan ashura,Yes
+Blood of Zeus,Fantasy action,"October 27, 2020",blood of zeus,Yes
+Record of Ragnarok,Action,"June 17, 2021",record of ragnarok,Yes
+Baki Hanma,Martial arts,"September 30, 2021",baki hanma,Yes
+"Bastard!! -Heavy Metal, Dark Fantasy-",Dark fantasy,"June 30, 2022",bastard heavy metal dark fantasy,Yes
+Ōoku: The Inner Chambers,Historical drama,"June 29, 2023",oku the inner chambers,Yes
+Gamera Rebirth,Kaiju science fiction,"September 7, 2023",gamera rebirth,Yes
+Castlevania: Nocturne,Dark fantasy,"September 28, 2023",castlevania nocturne,Yes
+Good Night World,Fantasy,"October 12, 2023",good night world,Yes
+Captain Laserhawk: A Blood Dragon Remix,Science fiction,"October 19, 2023",captain laserhawk a blood dragon remix,Yes
+Pluto,Science fiction,"October 26, 2023",pluto,Yes
+Onimusha,Action-adventure,"November 2, 2023",onimusha,Yes
+Akuma-kun,Fantasy,"November 9, 2023",akumakun,Yes
+Scott Pilgrim Takes Off,Fantasy romantic comedy,"November 17, 2023",scott pilgrim takes off,Yes
+My Daemon,Fantasy adventure,"November 23, 2023",my daemon,Yes
+Onmyōji,Historical fantasy,"November 28, 2023",onmyji,Yes
+Pokémon Concierge,Stop-motion fantasy,"December 28, 2023",pokmon concierge,Yes
+The Grimm Variations,Dark fantasy anthology,"April 17, 2024",the grimm variations,Yes
+T・P BON,Science fiction,"May 2, 2024",tp bon,Yes
+Garouden: The Way of the Lone Wolf,Martial arts,"May 23, 2024",garouden the way of the lone wolf,Yes
+Rising Impact[71],Sports,"June 22, 2024[72]",rising impact,Yes
+Terminator Zero[73][74],Science fiction,"August 29, 2024[75][8]",terminator zero,Yes
+The Dragon Prince,,"September 14, 2018",the dragon prince,Yes
+Gabby's Dollhouse,,"January 5, 2021",gabbys dollhouse,Yes
+"Go, Dog. Go!",,"January 26, 2021",go dog go,Yes
+Oggy Oggy,,"August 24, 2021",oggy oggy,Yes
+The Creature Cases,,"April 12, 2022",the creature cases,Yes
+StoryBots: Answer Time,,"November 21, 2022",storybots answer time,Yes
+Sonic Prime,,"December 15, 2022",sonic prime,Yes
+Princess Power,,"January 30, 2023",princess power,Yes
+My Dad the Bounty Hunter,,"February 9, 2023",my dad the bounty hunter,Yes
+Not Quite Narwhal,,"June 19, 2023",not quite narwhal,Yes
+Supa Team 4,,"July 20, 2023",supa team,Yes
+Dew Drop Diaries,,"July 24, 2023",dew drop diaries,Yes
+Mech Cadets,,"August 10, 2023",mech cadets,Yes
+Little Baby Bum: Music Time,,"September 25, 2023",little baby bum music time,Yes
+Unicorn Academy,,"November 2, 2023",unicorn academy,Yes
+CoComelon Lane,,"November 17, 2023",cocomelon lane,Yes
+Mighty Bheem's Playtime,,"January 29, 2024",mighty bheems playtime,Yes
+Dee & Friends in Oz,,"February 5, 2024",dee  friends in oz,Yes
+Hot Wheels Let's Race,,"March 4, 2024",hot wheels lets race,Yes
+Bad Dinosaurs,,"March 28, 2024",bad dinosaurs,Yes
+Jurassic World: Chaos Theory,,"May 24, 2024",jurassic world chaos theory,Yes
+AlRawabi School for Girls,Drama,"August 12, 2021",alrawabi school for girls,Yes
+Finding Ola,Comedy drama,"February 3, 2022",finding ola,Yes
+The Exchange,Drama,"February 8, 2023",the exchange,Yes
+Tahir's House,Comedy drama,"September 6, 2023",tahirs house,Yes
+Crashing Eid,Comedy drama,"November 15, 2023",crashing eid,Yes
+Lupin,Mystery thriller,"January 8, 2021",lupin,Yes
+Represent,Comedy,"January 20, 2023",represent,Yes
+Blood Coast,Crime drama,"December 6, 2023",blood coast,Yes
+Furies,Action,"March 1, 2024",furies,Yes
+How to Sell Drugs Online (Fast),Dark comedy,"May 31, 2019",how to sell drugs online fast,Yes
+Kleo,Thriller,"August 19, 2022",kleo,Yes
+The Empress,Historical drama,"September 29, 2022",the empress,Yes
+Crooks,Crime drama,"April 4, 2024",crooks,Yes
+Delhi Crime,Police procedural,"March 22, 2019",delhi crime,Yes
+She,Crime drama,"March 20, 2020",she,Yes
+Mismatched,Romantic comedy,"November 20, 2020",mismatched,Yes
+Yeh Kaali Kaali Ankhein,Romantic thriller,"January 14, 2022",yeh kaali kaali ankhein,Yes
+Class,Teen crime thriller,"February 3, 2023",class,Yes
+Rana Naidu,Crime drama,"March 10, 2023",rana naidu,Yes
+Guns & Gulaabs,Crime comedy thriller,"August 18, 2023",guns  gulaabs,Yes
+Kaala Paani,Drama,"October 18, 2023",kaala paani,Yes
+Killer Soup,Dark comedy/Crime thriller,"January 11, 2024",killer soup,Yes
+Maamla Legal Hai,Legal comedy drama,"March 1, 2024",maamla legal hai,Yes
+Heeramandi: The Diamond Bazaar,Romantic drama,"May 1, 2024",heeramandi the diamond bazaar,Yes
+Cigarette Girl,Period drama,"November 2, 2023",cigarette girl,Yes
+Comedy Chaos,Sitcom,"February 16, 2024",comedy chaos,Yes
+Joko Anwar's Nightmares and Daydreams[97],Science fiction anthology,"June 14, 2024[98]",joko anwars nightmares and daydreams,Yes
+Di4ries,Coming-of-age,"May 18, 2022",diries,Yes
+Everything Calls for Salvation,Drama,"October 14, 2022",everything calls for salvation,Yes
+I Hate Christmas,Comedy,"December 7, 2022",i hate christmas,Yes
+The Law According to Lidia Poët,Period legal drama,"February 15, 2023",the law according to lidia pot,Yes
+Suburræterna,Crime drama,"November 14, 2023",suburrterna,Yes
+Supersex,Biopic,"March 6, 2024",supersex,Yes
+Brigands: The Quest for Gold,Historical drama,"April 23, 2024",brigands the quest for gold,Yes
+The Life You Wanted[103][104],Drama,"May 29, 2024[105][106]",the life you wanted,Yes
+Alice in Borderland,Fantasy thriller,"December 10, 2020",alice in borderland,Yes
+Burn the House Down,Mystery thriller,"July 13, 2023",burn the house down,Yes
+YuYu Hakusho,Fantasy action-adveture,"December 14, 2023",yuyu hakusho,Yes
+House of Ninjas,Action thriller,"February 15, 2024",house of ninjas,Yes
+Sweet Home,Apocalyptic horror,"December 18, 2020",sweet home,Yes
+D.P.,Military drama,"August 27, 2021",dp,Yes
+Squid Game,Survival thriller,"September 17, 2021",squid game,Yes
+Hellbound,Supernatural drama,"November 19, 2021",hellbound,Yes
+All of Us Are Dead,Zombie apocalypse,"January 28, 2022",all of us are dead,Yes
+Bloodhounds,Action drama,"June 9, 2023",bloodhounds,Yes
+Song of the Bandits,Period action drama,"September 22, 2023",song of the bandits,Yes
+Doona!,Coming-of-age romantic drama,"October 20, 2023",doona,Yes
+Daily Dose of Sunshine,Medical comedy drama,"November 3, 2023",daily dose of sunshine,Yes
+Gyeongseong Creature,Historical thriller,"December 22, 2023",gyeongseong creature,Yes
+A Killer Paradox,Crime thriller dark comedy,"February 9, 2024",a killer paradox,Yes
+Parasyte: The Grey,Science fiction horror,"April 5, 2024",parasyte the grey,Yes
+Hierarchy[109],Teen drama,"June 7, 2024[115]",hierarchy,Yes
+The Victims' Game,Thriller,"April 30, 2020",the victims game,Yes
+At the Moment,Romantic drama/anthology,"November 10, 2023",at the moment,Yes
+Let's Talk About CHU,Romantic comedy,"February 2, 2024",lets talk about chu,Yes
+The Green Glove Gang,Dark comedy,"October 19, 2022",the green glove gang,Yes
+Infamy,Drama,"September 6, 2023",infamy,Yes
+Absolute Beginners,Romantic drama,"October 25, 2023",absolute beginners,Yes
+Feedback,Drama,"November 15, 2023",feedback,Yes
+1670,Comedy,"December 13, 2023",,Yes
+Detective Forst,Crime drama,"January 11, 2024",detective forst,Yes
+Sintonia,Crime teen drama,"August 9, 2019",sintonia,Yes
+Back to 15,Comedy,"February 25, 2022",back to,Yes
+Turn of the Tide,Thriller,"May 26, 2023",turn of the tide,Yes
+Reporting for Duty,Comedy,"September 6, 2023",reporting for duty,Yes
+Criminal Code,Crime drama,"November 14, 2023",criminal code,Yes
+End of the Line,Comedy,"January 17, 2024",end of the line,Yes
+Luz: The Light of the Heart,Coming of age,"February 7, 2024",luz the light of the heart,Yes
+Elite,Crime teen drama,"October 5, 2018",elite,Yes
+Valeria,Comedy drama,"May 8, 2020",valeria,Yes
+Alpha Males,Comedy,"December 30, 2022",alpha males,Yes
+The Snow Girl,Thriller,"January 27, 2023",the snow girl,Yes
+Eva Lasting,Romantic drama,"February 15, 2023",eva lasting,Yes
+Community Squad,Comedy,"February 17, 2023",community squad,Yes
+The Chosen One,Supernatural drama,"August 16, 2023",the chosen one,Yes
+Pact of Silence,Telenovela,"October 11, 2023",pact of silence,Yes
+Nothing to See Here,Comedy drama,"November 17, 2023",nothing to see here,Yes
+The Influencer,Drama,"December 13, 2023",the influencer,Yes
+Cindy la Regia: The High School Years,Coming-of-age,"December 20, 2023",cindy la regia the high school years,Yes
+The Manny,Comedy,"December 24, 2023",the manny,Yes
+Berlin,Heist crime drama,"December 29, 2023",berlin,Yes
+Baby Bandito,Heist drama,"January 31, 2024",baby bandito,Yes
+Bandidos,Heist drama,"March 13, 2024",bandidos,Yes
+Iron Reign,Thriller,"March 15, 2024",iron reign,Yes
+The Hijacking of Flight 601,Drama,"April 10, 2024",the hijacking of flight,Yes
+Raising Voices[135][136],Teen drama,"May 31, 2024[137]",raising voices,Yes
+Gangs of Galicia[138][19],Crime drama,"June 21, 2024[139]",gangs of galicia,Yes
+Delete,Science fiction thriller,"June 28, 2023",delete,Yes
+6ixtynin9 The Series,Dark comedy thriller,"September 6, 2023",ixtynin the series,Yes
+Analog Squad,Family drama,"December 7, 2023",analog squad,Yes
+"Ready, Set, Love",Romantic mystery comedy,"February 15, 2024",ready set love,Yes
+The Believers,Crime drama,"March 27, 2024",the believers,Yes
+Doctor Climax[141],Comedy drama,"June 13, 2024[142]",doctor climax,Yes
+The Club,Period drama,"November 5, 2021",the club,Yes
+Midnight at the Pera Palace,Drama,"March 3, 2022",midnight at the pera palace,Yes
+The Life and Movies of Erşan Kuneri,Sitcom,"May 13, 2022",the life and movies of eran kuneri,Yes
+Another Self,Drama,"July 28, 2022",another self,Yes
+Shahmaran,Fantasy,"January 20, 2023",shahmaran,Yes
+The Tailor,Mystery,"May 2, 2023",the tailor,Yes
+Kübra,Thriller,"January 18, 2024",kbra,Yes
+A Round of Applause,Drama,"February 29, 2024",a round of applause,Yes
+"Thank You, Next",Romantic comedy,"May 9, 2024",thank you next,Yes
+Barracuda Queens,Heist crime drama,"June 5, 2023",barracuda queens,Yes
+Baby Fever,Romantic comedy drama,"June 8, 2022",baby fever,Yes
+Kohrra,Crime drama,"July 15, 2023",kohrra,Yes
+Tore,Coming-of-age comedy drama,"October 27, 2023",tore,Yes
+Ferry: The Series,Crime drama,"November 3, 2023",ferry the series,Yes
+Olóládé,Comedy,"November 24, 2023",olld,Yes
+Replacing Chef Chico,Drama,"November 24, 2023",replacing chef chico,Yes
+Aníkúlápó: Rise of the Spectre,Drama,"March 1, 2024",anklp rise of the spectre,Yes
+Bros,Drama,"April 18, 2024",bros,Yes
+Somebody Feed Phil,,"January 12, 2018",somebody feed phil,Yes
+Formula 1: Drive to Survive,,"March 8, 2019",formula  drive to survive,Yes
+High on the Hog: How African American Cuisine Transformed America,,"May 26, 2021",high on the hog how african american cuisine transformed america,Yes
+Catching Killers,,"November 4, 2021",catching killers,Yes
+Worst Roommate Ever,,"March 1, 2022",worst roommate ever,Yes
+Full Swing,,"February 15, 2023",full swing,Yes
+Murdaugh Murders: A Southern Scandal,,"February 22, 2023",murdaugh murders a southern scandal,Yes
+Missing: Dead or Alive?,,"May 10, 2023",missing dead or alive,Yes
+The King Who Never Was,,"July 4, 2023",the king who never was,Yes
+Quarterback,,"July 12, 2023",quarterback,Yes
+How to Become a Cult Leader,,"July 28, 2023",how to become a cult leader,Yes
+Spy Ops,,"September 8, 2023",spy ops,Yes
+Wrestlers,,"September 13, 2023",wrestlers,Yes
+Encounters,,"September 27, 2023",encounters,Yes
+Vasco Rossi: Living It,,"September 27, 2023",vasco rossi living it,Yes
+Get Gotti,,"October 24, 2023",get gotti,Yes
+Life on Our Planet,,"October 25, 2023",life on our planet,Yes
+Mysteries of the Faith,,"November 1, 2023",mysteries of the faith,Yes
+Escaping Twin Flames,,"November 8, 2023",escaping twin flames,Yes
+How to Become a Mob Boss,,"November 14, 2023",how to become a mob boss,Yes
+Bad Surgeon: Love Under the Knife,,"November 29, 2023",bad surgeon love under the knife,Yes
+World War II: From the Frontlines,,"December 7, 2023",world war ii from the frontlines,Yes
+If I Were Luísa Sonza,,"December 13, 2023",if i were lusa sonza,Yes
+Captains of the World,,"December 30, 2023",captains of the world,Yes
+American Nightmare,,"January 17, 2024",american nightmare,Yes
+Six Nations: Full Contact,,"January 24, 2024",six nations full contact,Yes
+NASCAR: Full Speed,,"January 30, 2024",nascar full speed,Yes
+Alexander: The Making of a God,,"January 31, 2024",alexander the making of a god,Yes
+American Conspiracy: The Octopus Murders,,"February 28, 2024",american conspiracy the octopus murders,Yes
+The Indrani Mukerjea Story: Buried Truth,,"February 29, 2024",the indrani mukerjea story buried truth,Yes
+ARA San Juan: The Submarine That Disappeared,,"March 7, 2024",ara san juan the submarine that disappeared,Yes
+Turning Point: The Bomb and the Cold War,,"March 12, 2024",turning point the bomb and the cold war,Yes
+From Dreams to Tragedy: The Fire that Shook Brazilian Football,,"March 14, 2024",from dreams to tragedy the fire that shook brazilian football,Yes
+Homicide,,"March 20, 2024",homicide,Yes
+Testament: The Story of Moses,,"March 27, 2024",testament the story of moses,Yes
+Crime Scene Berlin: Nightlife Killer,,"April 3, 2024",crime scene berlin nightlife killer,Yes
+Files of the Unexplained,,"April 3, 2024",files of the unexplained,Yes
+"Ashley Madison: Sex, Lies & Scandal",,"May 15, 2024",ashley madison sex lies  scandal,Yes
+Toughest Forces on Earth,,"May 22, 2024",toughest forces on earth,Yes
+Dancing for the Devil: The 7M TikTok Cult[53],,"May 29, 2024",dancing for the devil the m tiktok cult,Yes
+Hitler and the Nazis: Evil on Trial[155],,"June 5, 2024",hitler and the nazis evil on trial,Yes
+America's Sweethearts: Dallas Cowboys Cheerleaders[156],,"June 20, 2024[157]",americas sweethearts dallas cowboys cheerleaders,Yes
+Kaulitz & Kaulitz[85],,"June 25, 2024[19]",kaulitz  kaulitz,Yes
+LALIGA: All Access[159][160][100],,"July 19, 2024[161]",laliga all access,Yes
+Queer Eye,Makeover reality,"February 7, 2018",queer eye,Yes
+Car Masters: Rust to Riches,Reality,"September 14, 2018",car masters rust to riches,Yes
+Selling Sunset,Reality,"March 22, 2019",selling sunset,Yes
+Rhythm + Flow,Music competition,"October 9, 2019",rhythm  flow,Yes
+The Circle,Reality competition,"January 1, 2020",the circle,Yes
+Love Is Blind,Dating show,"February 13, 2020",love is blind,Yes
+Too Hot to Handle,Dating show,"April 17, 2020",too hot to handle,Yes
+Barbecue Showdown,Cooking competition,"September 18, 2020",barbecue showdown,Yes
+Fabulous Lives of Bollywood Wives,Reality,"November 27, 2020",fabulous lives of bollywood wives,Yes
+Love Is Blind: Brazil,Dating show,"October 6, 2021",love is blind brazil,Yes
+Is It Cake?,Baking competition,"March 18, 2022",is it cake,Yes
+"Young, Famous & African",Reality,"March 18, 2022",young famous  african,Yes
+The Ultimatum: Marry or Move On,Dating show,"April 6, 2022",the ultimatum marry or move on,Yes
+Love on the Spectrum,Dating show,"May 18, 2022",love on the spectrum,Yes
+Rhythm + Flow France,Music competition,"June 9, 2022",rhythm  flow france,Yes
+Selling the OC,Reality,"August 24, 2022",selling the oc,Yes
+Forever Queens,Reality,"October 2, 2022",forever queens,Yes
+Dubai Bling,Reality,"October 27, 2022",dubai bling,Yes
+Buying Beverly Hills,Reality,"November 4, 2022",buying beverly hills,Yes
+Physical: 100,Reality competition,"January 24, 2023",physical,Yes
+Love Never Lies: Poland,Dating competition,"January 25, 2023",love never lies poland,Yes
+Perfect Match,Dating show,"February 14, 2023",perfect match,Yes
+Too Hot to Handle: Germany,Dating show,"February 28, 2023",too hot to handle germany,Yes
+Outlast,Reality competition,"March 10, 2023",outlast,Yes
+King of Collectibles: The Goldin Touch,Reality,"April 28, 2023",king of collectibles the goldin touch,Yes
+Love Village,Dating show,"May 2, 2023",love village,Yes
+Is She the Wolf?,Dating competition,"June 11, 2023",is she the wolf,Yes
+Social Currency,Reality game show,"June 22, 2023",social currency,Yes
+Deep Fake Love,Dating competition,"July 6, 2023",deep fake love,Yes
+Hack My Home,Home improvement reality,"July 7, 2023",hack my home,Yes
+Nineteen to Twenty,Coming-of-age reality,"July 11, 2023",nineteen to twenty,Yes
+Sugar Rush: The Baking Point,Baking competition,"July 12, 2023",sugar rush the baking point,Yes
+The Big Nailed It Baking Challenge,Baking competition,"August 4, 2023",the big nailed it baking challenge,Yes
+Zombieverse,Reality competition,"August 8, 2023",zombieverse,Yes
+At Home with the Furys,Reality,"August 16, 2023",at home with the furys,Yes
+The Devil's Plan,Reality game show,"September 26, 2023",the devils plan,Yes
+Stranded with My Mother-in-Law,Reality,"October 9, 2023",stranded with my motherinlaw,Yes
+Surviving Paradise,Reality game show,"October 20, 2023",surviving paradise,Yes
+Fame After Fame,Reality,"November 10, 2023",fame after fame,Yes
+Comedy Royale,Stand-up comedy competition,"November 28, 2023",comedy royale,Yes
+Love Like a K-Drama,Dating show,"November 28, 2023",love like a kdrama,Yes
+The Trust: A Game of Greed,Reality game show,"January 10, 2024",the trust a game of greed,Yes
+Love Is Blind: Sweden,Dating show,"January 12, 2024",love is blind sweden,Yes
+Love Deadline,Dating show,"January 23, 2024",love deadline,Yes
+Rhythm + Flow Italy,Music competition,"February 19, 2024",rhythm  flow italy,Yes
+The Magic Prank Show with Justin Willman,Prank show,"April 1, 2024",the magic prank show with justin willman,Yes
+Unlocked: A Jail Experiment,Reality,"April 10, 2024",unlocked a jail experiment,Yes
+Don't Hate the Player,Reality competition,"April 17, 2024",dont hate the player,Yes
+Fight for Paradise: Who Can You Trust?,Reality competition,"April 23, 2024",fight for paradise who can you trust,Yes
+Super Rich in Korea,Reality,"May 7, 2024",super rich in korea,Yes
+The Ultimatum: South Africa,Dating show,"May 10, 2024",the ultimatum south africa,Yes
+Buying London,Reality,"May 22, 2024",buying london,Yes
+Agents of Mystery[109],Reality competition,"June 18, 2024[181]",agents of mystery,Yes
+Owning Manhattan[182],Reality,"June 28, 2024",owning manhattan,Yes
+My Next Guest Needs No Introduction with David Letterman,Interview,"January 12, 2018",my next guest needs no introduction with david letterman,Yes
+Last One Standing,Crime comedy/variety show,"March 8, 2022",last one standing,Yes
+Soccer-Inspired Workouts for All[a],Fitness,"July 26, 2023",soccerinspired workouts for alla,Yes
+Lighthouse,Talk show,"August 22, 2023",lighthouse,Yes
+Risqué Business: Taiwan,Talk show,"August 29, 2023",risqu business taiwan,Yes
+Baby Gorilla Cam,Live event,"September 7, 2023",baby gorilla cam,Yes
+Baby Animal Cam,Live event,"October 12, 2023",baby animal cam,Yes
+Dinner Time Live with David Chang,Cooking show/Talk show,"January 25, 2024",dinner time live with david chang,Yes
+Risqué Business: Netherlands & Germany,Talk show,"February 20, 2024",risqu business netherlands  germany,Yes
+The Great Indian Kapil Show,Talk show,"March 30, 2024",the great indian kapil show,Yes
+John Mulaney Presents: Everybody's in L.A.,Live event/Talk show,"May 3, 2024",john mulaney presents everybodys in la,Yes
+Black Mirror (series 3–6),Science fiction anthology,"October 21, 2016",black mirror series,Yes
+Inside the World's Toughest Prisons (seasons 2–7),Docuseries,"July 6, 2018",inside the worlds toughest prisons,Yes
+You (seasons 2–4),Psychological thriller,"December 26, 2019",you,Yes
+Unsolved Mysteries (seasons 15–16),Docuseries,"July 1, 2020",unsolved mysteries,Yes
+Cobra Kai (seasons 3–5),Martial arts/action comedy drama,"January 1, 2021",cobra kai,Yes
+Blown Away (seasons 2–4),Reality,"January 22, 2021",blown away,Yes
+Kota Factory (season 2),Comedy drama,"September 24, 2021",kota factory,Yes
+The Mole (season 6),Reality competition,"October 7, 2022",the mole,Yes
+Girls5eva (season 3),Comedy,"March 14, 2024",girlseva,Yes
+Baki Hanma VS Kengan Ashura[190],Anime martial arts,"June 6, 2024",baki hanma vs kengan ashura,Yes
+Squid Game: The Challenge,Escape room competition,"November 22, 2023",squid game the challenge,Yes
+Arcane,Adult animated steampunk science fantasy,"November 6, 2021",arcane,Yes
+Bad Exorcist (seasons 3–4),Adult animated horror comedy,"October 14, 2022",bad exorcist,Yes
+Ninjago: Dragons Rising,Animated comedy,"June 1, 2023",ninjago dragons rising,Yes
+"Wake Up, Carlo!",Animated comedy,"July 6, 2023",wake up carlo,Yes
+Ronja the Robber's Daughter,Coming-of-age fantasy,"March 28, 2024",ronja the robbers daughter,Yes
+Single's Inferno,Dating show,"December 18, 2021",singles inferno,Yes
+The Parisian Agency: Exclusive Properties (seasons 2–4),Property management reality,"March 3, 2022",the parisian agency exclusive properties,Yes
+Surviving Summer,Teen drama,"June 3, 2022",surviving summer,Yes
+Tour de France: Unchained,Sports docuseries,"June 8, 2023",tour de france unchained,Yes
+Let's Get Divorced,Romantic comedy drama,"June 22, 2023",lets get divorced,Yes
+Five Star Chef,Culinary competition,"July 14, 2023",five star chef,Yes
+Predators,Nature docuseries,"September 6, 2023",predators,Yes
+I Woke Up a Vampire,Family supernatural comedy thriller,"October 17, 2023",i woke up a vampire,Yes
+Skam Italia (seasons 4–6),Teen drama,"May 15, 2020",skam italia,Yes
+CoComelon (seasons 6–10),Animation,"September 5, 2022",cocomelon,Yes
+Supacell[32][197],Superhero drama,June 2024[198],supacell,Yes
+The Decameron[199][200],Period drama,July 2024[201],the decameron,Yes
+American Primeval[202][203],Western miniseries,2024[8],american primeval,Yes
+Baby Farm[38],Thriller,2024[39],baby farm,Yes
+Black Doves[204][205],Thriller,2024[8],black doves,Yes
+The Madness[206][207],Conspiracy thriller miniseries,2024[8],the madness,Yes
+Monsters: The Lyle and Erik Menendez Story[25][208][209],Crime drama miniseries,2024[8][210],monsters the lyle and erik menendez story,Yes
+The Perfect Couple[211][212],Crime drama miniseries,2024[8],the perfect couple,Yes
+To Kill a Monkey[8][213],Crime thriller,2024,to kill a monkey,Yes
+Adolescence[214],Drama,2025[214],adolescence,Yes
+The Choice[215],Political Thriller,2025[214],the choice,Yes
+The Undertow[216],Crime drama,2025[214],the undertow,Yes
+The Witness[214],Crime drama,2025[214],the witness,Yes
+The Abandons[217][218][219][220],Western,TBA,the abandons,Yes
+Apple Cider Vinegar[221],Crime drama miniseries,TBA,apple cider vinegar,Yes
+Atomic[222],Crime drama,TBA,atomic,Yes
+Baahubali: Before the Beginning[223][224],Fantasy,TBA,baahubali before the beginning,Yes
+The Beast in Me[225],Drama miniseries,TBA,the beast in me,Yes
+Beauty in Black[226][227],Drama,TBA,beauty in black,Yes
+Black Rabbit[228][229][230],Drama miniseries,TBA,black rabbit,Yes
+The Boroughs[231],Supernatural mystery drama,TBA,the boroughs,Yes
+Covers[232],Spy fiction,TBA,covers,Yes
+Death by Lightning[233][234][235],Period drama,TBA,death by lightning,Yes
+Department Q[204][236],Crime thriller,TBA,department q,Yes
+Desert King[237],Drama,TBA,desert king,Yes
+Forever[238][239][240][241],Teen drama,TBA,forever,Yes
+Grown Ups[214],Drama,TBA,grown ups,Yes
+House of Guinness[214],Historical drama,TBA,house of guinness,Yes
+How to Get to Heaven from Belfast[242],Comedy drama,TBA,how to get to heaven from belfast,Yes
+Man on Fire[243],Thriller drama,TBA,man on fire,Yes
+Missing You[244][245],Thriller drama miniseries,TBA,missing you,Yes
+The Moon Represents My Heart[246],Science fiction miniseries,TBA,the moon represents my heart,Yes
+Pulse[247][248][249],Medical drama,TBA,pulse,Yes
+Ransom Canyon[250][251][252][253],Drama,TBA,ransom canyon,Yes
+The Residence[254][255][256][257],Mystery drama,TBA,the residence,Yes
+Run Away[244],Thriller drama miniseries,TBA,run away,Yes
+The Seven Dials Mystery[258],Mystery drama,TBA,the seven dials mystery,Yes
+The Survivors[237][259],Crime mystery miniseries,TBA,the survivors,Yes
+The Waterfront[260],Family drama,TBA,the waterfront,Yes
+Tall Pines[261],Thriller miniseries,TBA,tall pines,Yes
+They Both Die at the End[262],Teen drama,TBA,they both die at the end,Yes
+Toxic Town[263],Drama miniseries,TBA,toxic town,Yes
+Untamed[264],Crime drama miniseries,TBA,untamed,Yes
+Untitled Glenn Burke miniseries[265],Biopic miniseries,TBA,untitled glenn burke miniseries,Yes
+Untitled Monster anthology series[25],Crime drama miniseries,TBA,untitled monster anthology series,Yes
+Untitled Tim McGraw series[266],Drama,TBA,untitled tim mcgraw series,Yes
+Zero Day[267][268][269],Political thriller miniseries,TBA,zero day,Yes
+A Classic Spy[270][271],Crime comedy,2024[8],a classic spy,Yes
+Kaos[272][32][273][274],Dark comedy,2024[275],kaos,Yes
+No Good Deed[276][277][278],Dark comedy,2024[8],no good deed,Yes
+Running Point[279][280][281][282],Sports comedy,2025[282],running point,Yes
+The Corps[283],Military comedy drama,TBA,the corps,Yes
+The Four Seasons[284][285],Romantic comedy,TBA,the four,Yes
+Golf[286],Sports comedy,TBA,golf,Yes
+Sirens[287][288],Dark comedy miniseries,TBA,sirens,Yes
+Too Much[289][290],Romantic comedy,TBA,too much,Yes
+Untitled Leanne Morgan series[291],Sitcom,TBA,untitled leanne morgan series,Yes
+Untitled Tom Segura series[292],Dark comedy,TBA,untitled tom segura series,Yes
+Exploding Kittens[293],Comedy,July 2024[294][295],exploding kittens,Yes
+Twilight of the Gods[296],Fantasy,Late 2024,twilight of the gods,Yes
+Gears of War[297],Military science fiction,TBA,gears of war,Yes
+Untitled Stranger Things animated series[298],Science fiction horror,TBA,untitled stranger things animated series,Yes
+Gundam: Requiem for Vengeance[299],Mecha/military science fiction,October 2024[300],gundam requiem for vengeance,Yes
+Devil May Cry[301][302],Dark fantasy action,2024[303],devil may cry,Yes
+Moonrise[304],Science fiction,2024[305],moonrise,Yes
+Tomb Raider: The Legend of Lara Croft[306],Action-adventure,2024[307],tomb raider the legend of lara croft,Yes
+Army of the Dead: Lost Vegas[308][309],Horror,TBA,army of the dead lost vegas,Yes
+Beat & Motion[310][311],Slice of life,TBA,beat  motion,Yes
+Lady Napoleon[312],Action,TBA,lady napoleon,Yes
+The One Piece[313],Adventure/science fantasy,TBA,the one piece,Yes
+Stranger Things: Tokyo[314],Science fiction horror,TBA,stranger things tokyo,Yes
+Jentry Chau vs. The Underworld[315][316],Supernatural adventure,2024[8],jentry chau vs the underworld,Yes
+Mighty MonsterWheelies[78],Preschool,2024,mighty monsterwheelies,Yes
+Astérix[317],Historical action adventure,2025[318],astrix,Yes
+Horton Hears a Who![319],Preschool,TBA,horton hears a who,Yes
+Mermaid Magic[320],Fantasy,TBA,mermaid magic,Yes
+"One Fish, Two Fish, Red Fish, Blue Fish[319]",Preschool,TBA,one fish two fish red fish blue fish,Yes
+The Seven Bears[320],Fantasy comedy,TBA,the seven bears,Yes
+Untitled Rebel Moon series[321],Space opera,TBA,untitled rebel moon series,Yes
+Untitled The Witcher series[322][323],Fantasy,TBA,untitled the witcher series,Yes
+Wacky Wednesday[319],Preschool,TBA,wacky wednesday,Yes
+Wereworld[320],Epic fantasy adventure,TBA,wereworld,Yes
+La Cage[324],Drama,2024,la cage,Yes
+Burn(es) Out[325][326],Comedy,TBA,burnes out,Yes
+Untitled Isabelle Adjani series[327],Thriller,TBA,untitled isabelle adjani series,Yes
+Cassandra[328][85],Science fiction thriller,2024,cassandra,Yes
+Murder Mindfully[329][85],Crime thriller,2024[86],murder mindfully,Yes
+Plötzlich Kanzlerin[330],Comedy drama,2024,pltzlich kanzlerin,Yes
+Khakee: The Bengal Chapter[90],Crime thriller,2024,khakee the bengal chapter,Yes
+IC 814: The Kandahar Hijack[90],Thriller,2024,ic  the kandahar hijack,Yes
+Dabba Cartel[331],Crime thriller,TBA,dabba cartel,Yes
+Inganno[196],Thriller,2024[106],inganno,Yes
+The Leopard[332][196],Drama,2024[106],the leopard,Yes
+A.C.A.B. La serie[333],Crime drama,TBA,acab la serie,Yes
+Adorazione[334],Coming of age drama,TBA,adorazione,Yes
+Il Mostro[335],Crime drama miniseries,TBA,il mostro,Yes
+Lotto Gang[196],Comedy,TBA,lotto gang,Yes
+Mrs Playmen[336],Biopic,TBA,mrs playmen,Yes
+Nemesis[337],Drama,TBA,nemesis,Yes
+Sara[338],Crime drama,TBA,sara,Yes
+Storia della mia famiglia[334],Drama,TBA,storia della mia famiglia,Yes
+Beyond Goodbye[339],Romantic drama,2024[177],beyond goodbye,Yes
+The Queen of Villains[340],Sports drama,2024[177],the queen of villains,Yes
+Tokyo Swindlers[177],Crime thriller,2024,tokyo swindlers,Yes
+Glass Heart[341],Music drama,2025,glass heart,Yes
+The Whirlwind[342],Political drama,June 2024[79][109],the whirlwind,Yes
+The Frog[343][109],Mystery thriller,2024,the frog,Yes
+Hong Rang[344],Period drama,2024[345],hong rang,Yes
+Mr. Plankton[109],Romantic comedy,2024,mr plankton,Yes
+The Trunk[346],Thriller,2024[109],the trunk,Yes
+When Life Gives You Tangerines[347],Romantic drama,2024[348],when life gives you tangerines,Yes
+Aema[349],Historical drama,TBA,aema,Yes
+All the Love You Wish For[350],Romantic comedy,TBA,all the love you wish for,Yes
+Cashero[351],Superhero,TBA,cashero,Yes
+Karma[352],Crime thriller,TBA,karma,Yes
+Mercy for None[353],Thriller,TBA,mercy for none,Yes
+Trigger[354],Action thriller,TBA,trigger,Yes
+Two Women[355],Romantic drama,TBA,two women,Yes
+Born for the Spotlight[117],Drama,2024,born for the spotlight,Yes
+GG Precinct[117],Action comedy,2024,gg precinct,Yes
+Agent from Above[356],Fantasy,TBA,agent from above,Yes
+Forget You Not[357],Comedy drama,TBA,forget you not,Yes
+Million-follower Detective[358],Crime thriller,TBA,millionfollower detective,Yes
+The Nipple Talk[356],Romantic comedy,TBA,the nipple talk,Yes
+The Resurrected[359],Thriller,TBA,the resurrected,Yes
+Billionaire Island[360],Drama,2024[361],billionaire island,Yes
+Jo Nesbø's Detective Hole[362][363][149],Crime drama,2026,jo nesbs detective hole,Yes
+The New Force[363][149],Period drama,2026,the new force,Yes
+La Palma[364],Drama,TBA,la palma,Yes
+Heweliusz[365],Drama,2025[366],heweliusz,Yes
+"Go Ahead, Brother[367][368]",Comedy,TBA,go ahead brother,Yes
+Just One Look[369],Mystery,TBA,just one look,Yes
+Mothers of Penguins[367],Drama,TBA,mothers of penguins,Yes
+Project UFO[367],Drama,TBA,project ufo,Yes
+Candelária[370],Drama miniseries,2024,candelria,Yes
+Desperate Lies[370][371],Telenovela,2024,desperate lies,Yes
+Senna[370],Sports biopic miniseries,2024,senna,Yes
+The Accident[372][373],Drama,2024[372],the accident,Yes
+Bienvenidos a la familia[372],Drama,2024[372],bienvenidos a la familia,Yes
+Breathless[374][375],Medical drama,2024[100],breathless,Yes
+Celda 211[376],Crime drama miniseries,2024,celda,Yes
+The Eternaut[377][378],Science fiction,2024[8],the eternaut,Yes
+Gringo Hunters[376],Crime thriller,2024,gringo hunters,Yes
+Las hermanas Guerra[379][376],Drama,2024,las hermanas guerra,Yes
+Las muertas[376],Crime drama,2024,las muertas,Yes
+Nadie nos vió partir[376],Drama miniseries,2024,nadie nos vi partir,Yes
+One Hundred Years of Solitude[380][381],Drama,2024[8],one hundred years of solitude,Yes
+Para siempre[372],Drama,2024,para siempre,Yes
+1992[382],Thriller,TBA,,Yes
+Animal Salvaje[383],Comedy miniseries,TBA,animal salvaje,Yes
+Asalto al Banco Central[384],Heist,TBA,asalto al banco central,Yes
+Caught[385][386],Thriller miniseries,TBA,caught,Yes
+The Gardener[387][388],Thriller,TBA,the gardener,Yes
+El refugio atómico[389][390],Post-apocalyptic drama,TBA,el refugio atmico,Yes
+Envidiosa[391],Comedy,TBA,envidiosa,Yes
+La última noche en Tremore Beach[392],Thriller miniseries,TBA,la ltima noche en tremore beach,Yes
+Legado[393],Drama,TBA,legado,Yes
+Manual para señoritas[394],Period drama,TBA,manual para seoritas,Yes
+Superestar[395][396][397],Music biopic,TBA,superestar,Yes
+Untitled adaptation of Claudia Piñeiro's El tiempo de las moscas and Tuya[386],Drama miniseries,TBA,untitled adaptation of claudia pieiros el tiempo de las moscas and tuya,Yes
+The Breakthrough[398],Crime drama,2024,the breakthrough,Yes
+The Helicopter Heist[398],Heist drama,2024[8],the helicopter heist,Yes
+Diary of a Ditched Girl[363][149],Drama,2025,diary of a ditched girl,Yes
+The Glass Dome[398],Crime drama,TBA,the glass dome,Yes
+Don't Come Home[141],Horror,TBA,dont come home,Yes
+Master of the House[141],Drama,TBA,master of the house,Yes
+Tomorrow and I[141],Science fiction anthology,TBA,tomorrow and i,Yes
+Terror Tuesday: Extreme[141][399],Horror,TBA,terror tuesday extreme,Yes
+Asaf[400],Drama,2024,asaf,Yes
+Echoes of the Past[401],Crime drama,2024,echoes of the past,Yes
+The Town[400],Crime drama,2024,the town,Yes
+Roosters[402],Comedy,2025,roosters,Yes
+Amsterdam Empire[327],Thriller,TBA,amsterdam empire,Yes
+Jo Bachay Hain Sang Samait Lo[403],Drama,TBA,jo bachay hain sang samait lo,Yes
+Reservatet[398],Crime drama,TBA,reservatet,Yes
+Subteran[404],Crime drama,TBA,subteran,Yes
+Simone Biles: Rising[405],,July 2024,simone biles rising,Yes
+Sprint[406][407],,July 2024[405]Renewed[405],sprint,Yes
+Receiver[408],,Mid-2024,receiver,Yes
+The Greatest Rivalry – India vs Pakistan[90],,2024,the greatest rivalry  india vs pakistan,Yes
+Our Oceans[409],,2024,our oceans,Yes
+Pinzner: German Hitman[85],,2024[86],pinzner german hitman,Yes
+Shirin David[85],,2024[86],shirin david,Yes
+Untitled 2004 World Series docuseries[410],,2024[100],untitled  world series docuseries,Yes
+Untitled Dream Academy docuseries[411],,2024,untitled dream academy docuseries,Yes
+Untitled United States men's national basketball team docuseries[405],,Early 2025,untitled united states mens national basketball team docuseries,Yes
+F1 Academy[412],,2025,f academy,Yes
+Our Water World[409],,2025,our water world,Yes
+Millennium Diamond Heist[413],,2026,millennium diamond heist,Yes
+"Alcaraz, the Docuseries[414][415]",,TBA,alcaraz the docuseries,Yes
+Fertility Fraudster[416],,TBA,fertility fraudster,Yes
+Hunting Gary Glitter[417],,TBA,hunting gary glitter,Yes
+Jack Unterweger[85],,TBA,jack unterweger,Yes
+Jack Whitehall: Fatherhood with My Father[418][419],,TBA,jack whitehall fatherhood with my father,Yes
+This Blew Up[420],,TBA,this blew up,Yes
+Untitled 2016 Bitfinex hack docuseries[421],,TBA,untitled  bitfinex hack docuseries,Yes
+Untitled Boston Red Sox docuseries[410],,TBA,untitled boston red sox docuseries,Yes
+Untitled Carmen Cervera docuseries[395],,TBA,untitled carmen cervera docuseries,Yes
+Untitled Dallas Cowboys docuseries[405],,TBA,untitled dallas cowboys docuseries,Yes
+Untitled Gilgo Beach serial killings docuseries[422],,TBA,untitled gilgo beach serial killings docuseries,Yes
+Untitled Meghan Markle docuseries[423][424],,TBA,untitled meghan markle docuseries,Yes
+Untitled NBA docuseries[425],,TBA,untitled nba docuseries,Yes
+Untitled polo docuseries[423][424],,TBA,untitled polo docuseries,Yes
+Love Is Blind: UK[426],Dating show,August 2024[427][428],love is blind uk,Yes
+Making It in Marbella[429],Reality,Late 2024,making it in marbella,Yes
+The Influencer[109],Reality competition,2024,the influencer,Yes
+Love Is Blind: Germany[430][431],Dating show,2024[8],love is blind germany,Yes
+Unknown Chefs[109],Cooking competition,2024,unknown chefs,Yes
+Bear Hunt[413],Reality competition,2025,bear hunt,Yes
+Cheaters: Unfinished Business[432],Reality,TBA,cheaters unfinished business,Yes
+Love Is Blind: Argentina[433],Dating show,TBA,love is blind argentina,Yes
+Love Is Blind: Habibi[80],Dating show,TBA,love is blind habibi,Yes
+Love Is Blind: Mexico[434],Dating show,TBA,love is blind mexico,Yes
+Nayanthara: Beyond the Fairytale[435],Reality,TBA,nayanthara beyond the fairytale,Yes
+Nova Cena[436],Music competition,TBA,nova cena,Yes
+Rugged Rugby: Conquer or Die[437],Sports competition/Reality competition,TBA,rugged rugby conquer or die,Yes
+Winter Palace[438],Period drama,Late 2024,winter palace,Yes
+Eddie's Lil' Homies[439],Children's animation,TBA,eddies lil homies,Yes
+Lockerbie[440],Drama miniseries,TBA,lockerbie,Yes
+North of North[441][442],Comedy,TBA,north of north,Yes
+Untitled Front Populaire miniseries[443],Period drama miniseries,TBA,untitled front populaire miniseries,Yes
+Kimi ni Todoke (season 3)[444],Anime,August 2024[445],kimi ni todoke,Yes
+Star Trek: Prodigy (season 2)[446],Animated science fiction comedy,2024,star trek prodigy,Yes
+My Lover My Killer (season 2)[447],True crime docuseries,TBA,my lover my killer,Yes
+Weak Hero Class 1 (season 2)[448],Coming-of-age action drama thriller,TBA,weak hero class,Yes
+Masameer Junior[449],Adult animation comedy,TBA,masameer junior,Yes
+Agency[238],Drama,,agency,Yes
+Anna O[450],Crime thriller,,anna o,Yes
+Arbor Hall[451],Teen mystery thriller,,arbor hall,Yes
+Astronaut Chicks[238],Comedy,,astronaut chicks,Yes
+Birthright[452],Drama,,birthright,Yes
+Calabasas[453],Teen drama,,calabasas,Yes
+Cashero[454],Korean language superhero drama,,cashero,Yes
+Coming Undone[455],Drama,,coming undone,Yes
+Confessions on the 7:45[456],Psychological thriller,,confessions on the,Yes
+Death Note[457][458][459],Supernatural drama,,death note,Yes
+Dumped[460],Comedy,,dumped,Yes
+East of Eden[461],Drama miniseries,,east of eden,Yes
+El cuco de cristal[462],Drama thriller,,el cuco de cristal,Yes
+"Forever, Interrupted[463]",Drama miniseries,,forever interrupted,Yes
+The Hated[464][465],Western,,the hated,Yes
+The Henna Artist[466],Drama,,the henna artist,Yes
+Horizon[467],Science fiction,,horizon,Yes
+Last Samurai Standing[468],Japanese language drama,,last samurai standing,Yes
+Little Sky[469],Comedy,,little sky,Yes
+Mind MGMT[470],Thriller,,mind mgmt,Yes
+Night Club[471],Superhero teen drama,,night club,Yes
+Nocterra[472],Science fiction,,nocterra,Yes
+One Day in December[473],Romance drama,,one day in december,Yes
+Orbital[467],Science fiction thriller,,orbital,Yes
+Our Love Is Here to Stay[474][475],Biopic/musical comedy,,our love is here to stay,Yes
+Princess of South Beach[476],Teen drama,,princess of south beach,Yes
+Raybearer[477],Fantasy teen drama,,raybearer,Yes
+Revenge Inc.[478],Drama,,revenge inc,Yes
+Something Is Killing the Children[479],Horror,,something is killing the children,Yes
+Stronger[480],Drama,,stronger,Yes
+"Untitled ""Daddy Ball"" series[481]",Drama,,untitled daddy ball series,Yes
+Untitled Frank Sinatra biopic series[482],Biopic,,untitled frank sinatra biopic series,Yes
+Untitled Ghostbusters animated series[483],Animated horror comedy,,untitled ghostbusters animated series,Yes
+Untitled Jeffrey Addiss and Will Matthews series[458],TBA,,untitled jeffrey addiss and will matthews series,Yes
+Untitled John F. Kennedy miniseries[484],Biopic miniseries,,untitled john f kennedy miniseries,Yes
+Untitled Julio Iglesias series[485],Biopic,,untitled julio iglesias series,Yes
+Untitled Matt Rife series[486],Workplace comedy,,untitled matt rife series,Yes
+Untitled Maya and the Three-related series[487],Animated fantasy miniseries,,untitled maya and the threerelated series,Yes
+Untitled Myron Bolitar series[488],Mystery drama,,untitled myron bolitar series,Yes
+Untitled Owen Hanson docuseries[489],True crime docuseries,,untitled owen hanson docuseries,Yes
+Untitled Prince Harry and Meghan Markle scripted series[423],Drama,,untitled prince harry and meghan markle scripted series,Yes
+Untitled Regina Hicks project[490][491],Comedy,,untitled regina hicks project,Yes
+Untitled Scooby-Doo series[492],Teen mystery,,untitled scoobydoo series,Yes
+Untitled Simon Riske series[493],Spy thriller,,untitled simon riske series,Yes
+Untitled Stranger Things spin-off series[458][494],Science fiction drama,,untitled stranger things spinoff series,Yes
+Untitled U2 biopic series[495],Biopic,,untitled u biopic series,Yes
+Untitled Virgin River prequel[496],Romantic drama,,untitled virgin river prequel,Yes
+Untitled Charlie and the Chocolate Factory reality series[497],Reality competition,,untitled charlie and the chocolate factory reality series,Yes
+Yasuke[498],Period drama,,yasuke,Yes
